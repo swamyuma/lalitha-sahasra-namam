@@ -1,0 +1,110 @@
+{
+ "821": {
+  "split": "ब्रह्म-आणी",
+  "splitIast": "brahma-āṇī",
+  "words": [
+   { "dev": "ब्रह्म", "gloss": "Brahmā, the Creator (stem ब्रह्मन्)" },
+   { "dev": "आणी", "gloss": "the feminine formant that makes consorts' names — आनी with ण by ṇatva after the र् of ब्रह्म- (Pāṇini 8.4.2, रषाभ्यां नो णः समानपदे)" }
+  ],
+  "meaning": "Brahmāṇī — the Śakti of Brahmā.",
+  "vigraha": ["ब्रह्मणः शक्तिः ब्रह्माणी।", "ब्रह्मणः पत्नी ब्रह्माणी।"],
+  "note": "The suffix is the same one that gave भवानी at 112 and gives इन्द्राणी and रुद्राणी elsewhere; here the न् retroflexes to ण् because a र् precedes it within the word.\n\nBhāskararāya offers three readings, and only the third is the obvious one. (1) ब्रह्मा + अणि, \"tail of a bird\": She is the Brahman that forms the tail of the ānandamaya sheath, on the Vedānta Sūtra's ānandamaya section (I.1.12–19), where the sheath is figured as a bird and its puccha or tail is the ground. (2) ब्रह्मा + अनि \"gives life\": She gives life to Brahmā — so the Devī Purāṇa, \"she is called Brāhmaṇī because she creates or gives life to Brahmā.\" (3) Brahmā the grandsire, and She his spouse."
+ },
+ "822": {
+  "split": "ब्रह्म",
+  "splitIast": "brahma",
+  "words": [
+   { "dev": "ब्रह्म", "gloss": "Brahman, the Absolute — literally that which expands, grows vast (from बृह् \"to grow, to swell\")" }
+  ],
+  "meaning": "She who is Brahman itself.",
+  "vigraha": ["बृहत्त्वात् ब्रह्म।"],
+  "note": "The nama drops all feminine marking — not ब्रह्मी nor ब्राह्मी but the neuter ब्रह्म, the Absolute named without gender. Standing immediately after 821, the pair moves from Brahmā's Śakti to Brahman itself: the personal form first, then the impersonal ground. The Sahasranāma makes that move repeatedly.\n\nBhāskararāya glosses it as what the liberated attain, or as the knowledge of the undifferentiated Self, citing the Viṣṇu Purāṇa — \"that knowledge is called Brahman which annihilates duality, mere being, transcending speech, cognised by the Self alone.\""
+ },
+ "823": {
+  "split": "जननी",
+  "splitIast": "jananī",
+  "words": [
+   { "dev": "जननी", "gloss": "mother, she who gives birth (from जन् \"to be born,\" causative जनय् \"to beget,\" with the suffix अन and the feminine ई)" }
+  ],
+  "meaning": "The Mother — she who brings all to birth.",
+  "vigraha": ["जनयतीति जननी।"],
+  "note": "Bhāskararāya notes that this nama may be compounded with the preceding one and read as ब्रह्मजननी, \"the mother of Brahmā\" — which is how many editions count it, giving one nama where this text gives two. Read apart, 822 and 823 set Brahman and the Mother side by side without joining them; read together, they say She gave birth to the Creator. The edition followed here keeps them separate, which is why this verse yields ten namas rather than nine."
+ },
+ "824": {
+  "split": "बहु-रूपा",
+  "splitIast": "bahu-rūpā",
+  "words": [
+   { "dev": "बहु", "gloss": "many, manifold, much" },
+   { "dev": "रूपा", "gloss": "form, shape, visible appearance (रूप with the feminine आ)" }
+  ],
+  "meaning": "She of manifold forms.",
+  "vigraha": ["बहूनि रूपाणि यस्याः सा। — bahuvrīhi"],
+  "note": "The Devī Bhāgavata resolves the apparent contradiction with the formless namas: \"she is formless because she is supreme, she is many-formed because of her activity\" — the multiplicity belongs to Her acting, not to Her being. The Gauḍapāda Sūtra (8) makes it concrete: \"though one, she becomes many in order to destroy Bhaṇḍāsura.\" The war-forms of namas 65–82 are what this nama abstracts.\n\nA second reading makes Her consort of the countless Rudras, on the Rudrādhyāya's \"there are countless Rudras in the world\" — the Varāha Purāṇa counting nine crore Cāmuṇḍās (tamas), eighteen crore Vaiṣṇavīs (rajas), and Brahmā's sattva-śaktis beyond number, with Rudra husband to all; the Nṛsiṃha Purāṇa condensing it to \"Umā alone in many forms is the wife.\" Bhāskararāya adds a numerical reading — one, two, sixteen, thirty-two — the two being vowel and consonant, the sixteen the vowels, the thirty-two the consonants once ल and ळ are identified and ह, the opening syllable of this Sahasranāma, is set apart as the source of all."
+ },
+ "825": {
+  "split": "बुध-अर्चिता",
+  "splitIast": "budha-arcitā",
+  "words": [
+   { "dev": "बुध", "gloss": "the wise, the awakened, one who knows (from बुध् \"to wake, to know\"); also Mercury" },
+   { "dev": "अर्चिता", "gloss": "worshipped, honoured, adored (from अर्च् \"to worship\")" }
+  ],
+  "meaning": "She who is worshipped by the wise.",
+  "vigraha": ["बुधैः अर्चिता। — tṛtīyā tatpuruṣa"],
+  "note": "Sandhi: बुध + अर्चिता → बुधार्चिता (अ + अ → आ, Pāṇini 6.1.101 अकः सवर्णे दीर्घः). The computed pada carried in this file read बुधा-अर्चिता, placing the joint one syllable late; the stem is बुध.\n\nBhāskararāya cites Bhagavad Gītā 7.16 — four kinds of good men worship Me: the afflicted, the seeker of knowledge, the seeker of wealth, and the jñānī. This nama singles out the last. Since बुध also names Mercury, the compound admits the reading \"worshipped by Budha.\""
+ },
+ "826": {
+  "split": "प्र-सवित्री",
+  "splitIast": "pra-savitrī",
+  "words": [
+   { "dev": "प्र", "gloss": "forth, forward — the prefix, here intensive" },
+   { "dev": "सवित्री", "gloss": "the begetter, she who brings forth (from सू \"to generate,\" with the agent-suffix तृ and feminine ङीप्; the masculine is सवितृ, the Sun)" }
+  ],
+  "meaning": "The Progenitrix — she who brings all forth.",
+  "vigraha": ["प्रसूते इति प्रसवित्री।"],
+  "note": "सवित्री is the feminine of सवितृ, the Sun as generator, so the nama makes Her the begetting power of which the Sun is the masculine figure; प्र carries it to \"bringing forth in full.\"\n\nBhāskararāya: mother of the world made of ether and the rest, or of its people. The Viṣṇudharmottara — \"because she generates the beings she is called Savitā.\" The Bhagavatī Purāṇa — \"from her proceeded all things, from Brahmā down to the inanimate, and from Mahat to substance.\"\n\nThe commentary also drops a counting marker at this nama, that the twenty-ninth verse divides forty-nine names — one of the numerical segmentations Bhāskararāya uses on the text. The wording in the source is compressed and the reference is not fully recoverable here."
+ },
+ "827": {
+  "split": "प्र-चण्डा",
+  "splitIast": "pra-caṇḍā",
+  "words": [
+   { "dev": "प्र", "gloss": "exceedingly, in the highest degree — the intensive prefix" },
+   { "dev": "चण्डा", "gloss": "fierce, wrathful, violent (चण्ड with the feminine आ)" }
+  ],
+  "meaning": "The exceedingly Fierce One.",
+  "vigraha": ["प्रकृष्टा चण्डा प्रचण्डा। — prādi"],
+  "note": "Bhāskararāya grounds the wrath in scripture rather than temperament: Taittirīya Upaniṣad 2.8.1, \"for fear of Him the wind blows\"; Kaṭha Upaniṣad 6.2, \"it is a great terror, a raised thunderbolt,\" where the Vedānta Sūtra (1.3.39) reads the thunderbolt as Brahman. Kāmandaka supplies the political sense — one who possesses no portion of anger, and whom the people do not fear, cannot enforce righteousness.\n\nA wholly different reading takes प्र as \"fond of\" and चण्डा as the śaṅkha flower — the Viśva lexicon gives चण्ड the senses of a perfume, the śaṅkha blossom, and anger — yielding \"she who loves the śaṅkha flower.\" The same lexicon glosses प्रचण्डा as a white karavīra, and as a brilliant person; hence also simply \"the Shining One.\""
+ },
+ "828": {
+  "split": "आ-ज्ञा",
+  "splitIast": "ā-jñā",
+  "words": [
+   { "dev": "आ", "gloss": "towards, upon — the prefix" },
+   { "dev": "ज्ञा", "gloss": "from ज्ञा \"to know\"; with आ, that which is made known — a command, ordinance, injunction" }
+  ],
+  "meaning": "The Divine Ordinance.",
+  "vigraha": ["आज्ञापनम् आज्ञा।"],
+  "note": "The text prints this nama as ऽऽज्ञा and the dev field in this file carries that literally. The double avagraha is the edition's way of marking an elided आ in प्रचण्डा + आज्ञा → प्रचण्डाज्ञा (आ + आ → आ, Pāṇini 6.1.101); the nama itself is आज्ञा. This is the same class of artifact as nama 50, whose dev reads ऽनवद्याङ्गी for अनवद्याङ्गी.\n\nBhāskararāya takes आज्ञा as the Lord's will expressed in the Vedas as injunction and prohibition, quoting the Liṅga Purāṇa: She is neither Prakṛti nor Jīva nor Vikṛti, but \"my eternal five-faced holy ordinance, which delivers the world from fear, proceeded of old from my mouth.\" The Śiva Purāṇa adds that salvation comes through this ordinance of Rudra alone.\n\nA second reading divides the words differently and takes the nama as ज्ञा, the Knower — the Person who is the enjoyer of the guṇas (Liṅga Purāṇa), the lexica giving ज्ञ the senses of Brahmā, Mercury and a wise man, and Śvetāśvatara 6.2 calling Him \"the death of death, omniscient.\""
+ },
+ "829": {
+  "split": "प्रति-स्था",
+  "splitIast": "prati-sthā",
+  "words": [
+   { "dev": "प्रति", "gloss": "towards, firmly against — the prefix" },
+   { "dev": "स्था", "gloss": "standing, from स्था \"to stand\" — प्रतिष्ठा, that on which a thing stands: a foundation, a firm base" }
+  ],
+  "meaning": "The Foundation — that on which all things stand.",
+  "vigraha": ["प्रतितिष्ठति अस्यां सर्वम् इति प्रतिष्ठा।"],
+  "note": "Sandhi: प्रति + स्था → प्रतिष्ठा। The स् retroflexes to ष् after the इ of प्रति (Pāṇini 8.3.59, आदेशप्रत्यययोः), and the थ् follows it to ठ् (8.4.41).\n\nThe root स्था has run through the seat-namas — 52, 55, 57, 93, 97, 103 — each time as Her abiding somewhere. Here it inverts: She is not what stands but what everything else stands on.\n\nBhāskararāya: the foundation of the whole universe, on the Śruti \"she is the foundation of the extended universe\" and the Sūta Saṃhitā \"this supreme consciousness is the foundation of all things.\" प्रतिष्ठा is also the name of the sixteen-syllabled Vedic metre; and of the kalā resident in the water-tattva, which the Śaivāgama says \"gives manhood and increases devotion to Śiva\" — so called because it establishes one firmly in the Lord. The Viśva adds the sense of a four-syllabled quarter-verse."
+ },
+ "830": {
+  "split": "प्रकट-आकृतिः",
+  "splitIast": "prakaṭa-ākṛtiḥ",
+  "words": [
+   { "dev": "प्रकट", "gloss": "manifest, evident, open to all (प्र + कट)" },
+   { "dev": "आकृतिः", "gloss": "form, shape, outward configuration (आ + कृ \"to make\")" }
+  ],
+  "meaning": "She whose form is manifest.",
+  "vigraha": ["प्रकटा आकृतिः यस्याः सा। — bahuvrīhi"],
+  "note": "Sandhi: प्रकट + आकृतिः → प्रकटाकृतिः (अ + आ → आ, Pāṇini 6.1.101). The dev field in this file reads प्रकटाकृतिः १५५॥ — the verse number has been captured as part of the nama, and the verse table assigns this nama to verse 156 in consequence, though it belongs to 155.\n\nBhāskararāya reads प्रकट as \"experienced by all\" and आकृति as Her nature, citing the Sūta Saṃhitā (1.8.36): all men know Him as the sense of \"I,\" yet through delusion do not recognise Him as Śiva. A technical reading takes the Prakaṭas to be the yoginīs established in the first enclosure of the Śrīcakra, of whom She is the आकृति.\n\nOthers divide against the grain: अप्रकटा, the hidden one; or अप् + प्रकटा, \"manifested in water,\" on the Mahānārāyaṇa Upaniṣad's \"all this was indeed water.\""
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "107": {
+  "split": "तटित्-लता-सम-रुचिः",
+  "splitIast": "taṭit-latā-sama-ruciḥ",
+  "words": [
+   { "dev": "तटित्", "gloss": "lightning, a flash of lightning" },
+   { "dev": "लता", "gloss": "creeper, vine — तटिल्लता, the \"lightning-creeper,\" the branching tendril of a flash" },
+   { "dev": "सम", "gloss": "equal to, like, resembling" },
+   { "dev": "रुचिः", "gloss": "lustre, radiance, brilliance (from रुच् \"to shine\")" }
+  ],
+  "meaning": "She whose radiance is like a creeper of lightning.",
+  "vigraha": ["तटिल्लतायाः समा रुचिः यस्याः सा। — bahuvrīhi"],
+  "note": "Sandhi: तटित् + लता → तटिल्लता। The final त् becomes ल् before ल् (Pāṇini 8.4.60, तोर्लि), giving the doubled ल्ल.\n\nThe simile is exact rather than decorative — not lightning at large but a lightning-creeper, the slender branching filament of a flash, which is how the rising kuṇḍalinī is seen. लता carries the sense of a slender climbing plant, so the image is at once brilliance and thin ascending line; it pairs with 111 बिसतन्तुतनीयसी, where the same slenderness becomes a lotus fibre. Bhāskararāya cites Taittirīya Āraṇyaka X.13.2, \"bright as the flash of lightning\"; the variant reading तटिल्लेखा, \"a streak of lightning,\" is also recorded."
+ },
+ "108": {
+  "split": "षट्-चक्र-उपरि-संस्थिता",
+  "splitIast": "ṣaṭ-cakra-upari-saṃsthitā",
+  "words": [
+   { "dev": "षट्", "gloss": "six" },
+   { "dev": "चक्र", "gloss": "wheel, disc — the six cakras of the subtle body" },
+   { "dev": "उपरि", "gloss": "above, over, beyond (an indeclinable, अव्यय)" },
+   { "dev": "संस्थिता", "gloss": "firmly and permanently established (सम् + स्थिता, from स्था; सम् giving the sense \"completely, abidingly\")" }
+  ],
+  "meaning": "She who abides above the six cakras.",
+  "vigraha": ["षट्चक्राणाम् उपरि संस्थिता।"],
+  "note": "Sandhi: चक्र + उपरि → चक्रोपरि (अ + उ → ओ by guṇa, Pāṇini 6.1.87 आद्गुणः).\n\nThe six the commentary names are mūlādhāra, svādhiṣṭhāna, maṇipūra, anāhata, viśuddhi and ājñā; what lies above them is the sahasrāra, where 105 सहस्राराम्बुजारूढा has already seated Her. Where 99–104 climbed the cakras one at a time, this nama states the destination as a single fact.\n\nBecause उपरि is an indeclinable, editions commonly print षट्चक्रोपरि संस्थिता as two words even though it counts as one nama."
+ },
+ "109": {
+  "split": "मह-आसक्तिः",
+  "splitIast": "maha-āsaktiḥ",
+  "words": [
+   { "dev": "मह", "gloss": "festival, celebration; also tejas, radiance — the Viśva lexicon gives both senses" },
+   { "dev": "आसक्तिः", "gloss": "attachment, devotion, being fixed upon (आ + सक्ति, from सञ्ज् \"to cling\")" }
+  ],
+  "meaning": "She who is devoted to the festival — the festival being the union of Śiva and Śakti in the sahasrāra.",
+  "vigraha": ["महे आसक्तिः यस्याः सा। — bahuvrīhi"],
+  "note": "Sandhi: मह + आसक्तिः → महासक्तिः (अ + आ → आ, Pāṇini 6.1.101 अकः सवर्णे दीर्घः). The long आ is a joint, not a महा-.\n\nThree readings, all in Bhāskararāya. (1) मह = festival + आसक्ति = devoted to; the festival is Śiva's union with Śakti in the sahasrāra, so the nama names Her delight in the very consummation the preceding namas have been climbing towards. (2) मह = tejas + आसक्ति: devoted to radiance. (3) महत् + आ + सक्ति, read as greatness, on all sides, attachment.\n\nEditions also read महाशक्तिः, \"the Great Power,\" a straightforward महा + शक्तिः. The text followed here reads महासक्तिः, which requires the मह + आसक्ति split above — the two variants differ by a single sibilant and give quite different namas."
+ },
+ "110": {
+  "split": "कुण्डल-इनी",
+  "splitIast": "kuṇḍala-inī",
+  "words": [
+   { "dev": "कुण्डल", "gloss": "a coil, ring, circle (from कुण्ड, a bowl or hollow)" },
+   { "dev": "इनी", "gloss": "the possessive suffix इनि with the feminine ङीप् — \"she who has\" (Pāṇini 5.2.115, अत इनिठनौ)" }
+  ],
+  "meaning": "The Coiled One — she who is possessed of coils.",
+  "vigraha": ["कुण्डलम् अस्ति अस्याः इति कुण्डलिनी। — matvarthīya"],
+  "note": "कुण्डल + इनि gives the stem कुण्डलिन्, feminine कुण्डलिनी. The split falls at कुण्डल, not कुण्ड — the ल belongs to the stem, not to the suffix.\n\nBhāskararāya's Tantrarāja citation gives the reason for the name: the vital energy (jīvaśakti) sleeps in the mūlādhāra \"like a serpent having three and a half coils,\" radiant, hissing in the centre of the suṣumnā — and a man who cannot hear that sound on stopping his ears is near death. The Devī Purāṇa offers a second derivation from the śṛṅgāṭaka or triangular form, its three angles being icchā, jñāna and kriyā. A third reading identifies कुण्डलिनी with the vāgbhava-bīja."
+ },
+ "111": {
+  "split": "बिस-तन्तु-तनीयसी",
+  "splitIast": "bisa-tantu-tanīyasī",
+  "words": [
+   { "dev": "बिस", "gloss": "the lotus stalk, the fibrous stem of the lotus" },
+   { "dev": "तन्तु", "gloss": "thread, fibre, filament — बिसतन्तु, the thread drawn from a lotus stalk" },
+   { "dev": "तनीयसी", "gloss": "the slenderer, the very finest (तनु \"thin\" + the comparative suffix ईयसुन् → तनीयस्, feminine तनीयसी)" }
+  ],
+  "meaning": "She who is finer than the fibre of a lotus stalk.",
+  "vigraha": ["बिसतन्तोः अपि तनीयसी। — the comparative governs the ablative"],
+  "note": "तनीयसी is a degree-form, so the compound is not \"thin as a lotus fibre\" but \"thinner even than\" one, with the ablative बिसतन्तोः understood. The Śruti Bhāskararāya cites (Taittirīya Āraṇyaka X.13.2) gives the same order of smallness: \"fine as the point of an ear of rice, saffron-coloured, radiant, and like an atom.\"\n\nRead with 107, the verse brackets the kuṇḍalinī between two similes of the fine bright thread — the lightning-creeper and the lotus fibre. The Vāmakeśvara Tantra quoted here makes the figure literal: she lies in the mūlādhāra in the form of a serpent, lotus-fibre fine, tail in mouth, joined to the brahmarandhra.\n\nThe commentary marks a structural close at this nama: the names from 90 down to this one form a single group — the kula, cakra and kuṇḍalinī sequence. Nama 112 opens a new run."
+ },
+ "112": {
+  "split": "भव-आनी",
+  "splitIast": "bhava-ānī",
+  "words": [
+   { "dev": "भव", "gloss": "Bhava — Rudra, Mahādeva; also saṃsāra, the round of becoming; also Manmatha; also, among Śiva's eight forms, the water-form" },
+   { "dev": "आनी", "gloss": "the feminine ङीष् with its आनुक् augment (Pāṇini 4.1.49), the suffix that forms consorts' names" }
+  ],
+  "meaning": "Bhavānī — the consort of Bhava.",
+  "vigraha": ["भवस्य पत्नी भवानी।"],
+  "note": "Pāṇini 4.1.49 (इन्द्रवरुणभवशर्वरुद्रमृडहिमारण्ययवयवनमातुलाचार्याणामानुक्) lists भव among the words taking the आनुक् augment before the feminine ङीष् — which is why the name is भवानी and not *भवी. The same rule yields शर्वाणी at nama 121, and रुद्राणी and मृडानी elsewhere.\n\nBhāskararāya works all four senses of भव. As Rudra's consort she is Bhavānī simply. Reading भव as saṃsāra, Kāma and Rudra together, the Devī Purāṇa derives the name instead from अन् \"to breathe, to live\" — she who gives life to those three. Taking भव as Śiva's water-form (the Liṅga and Vāyu Purāṇas: all beings arise and subsist in water, hence he is Bhava), she is the one who animates the waters. The Padma Purāṇa names her the presiding deity of Sthāneśvara.\n\nNamas 112–117 all open on भ, and 118 onwards carry the alliteration into भक्ति-; such phonic clusters are structural in the Sahasranāma, not incidental."
+ },
+ "113": {
+  "split": "भावना-गम्या",
+  "splitIast": "bhāvanā-gamyā",
+  "words": [
+   { "dev": "भावना", "gloss": "meditation, contemplative realization — literally the bringing into being in the mind (from भू, causative भावय्, with the action-suffix अन and feminine आ)" },
+   { "dev": "गम्या", "gloss": "to be reached, attainable (गम् \"to go\" + the gerundive यत्)" }
+  ],
+  "meaning": "She who is to be attained by meditation.",
+  "vigraha": ["भावनया गम्या। — tṛtīyā tatpuruṣa"],
+  "note": "The commentary marks a turn here: the five forms having been described, these namas give the means of reaching them.\n\nBhāskararāya divides भावना into meditation on the words (śabda) and on the meanings (artha), and records the classifications in threes — Brāhmī, Māheśvarī and Akṣara (Kūrma Purāṇa); or Sakala, Sakala-niṣkala and Niṣkala, which the Yoginīhṛdaya (I.27) maps onto the ascent just described: mūlādhāra to ājñā is sakala, indu to unmanī sakala-niṣkala, and the mahābindu niṣkala.\n\nA second reading takes गम्या as अगम्या, unattainable — She is not to be reached by the path of action, karma-mārga, which serves only to purify the mind for the meditation that does reach Her."
+ },
+ "114": {
+  "split": "भव-अरण्य-कुठारिका",
+  "splitIast": "bhava-araṇya-kuṭhārikā",
+  "words": [
+   { "dev": "भव", "gloss": "becoming, worldly existence, saṃsāra" },
+   { "dev": "अरण्य", "gloss": "forest, wilderness — भवारण्य, the forest of existence" },
+   { "dev": "कुठारिका", "gloss": "a small axe, a hatchet (कुठार \"axe\" + the diminutive क with feminine आ)" }
+  ],
+  "meaning": "She who is the axe to the forest of worldly existence.",
+  "vigraha": ["भवारण्यस्य कुठारिका। — ṣaṣṭhī tatpuruṣa"],
+  "note": "Sandhi: भव + अरण्य → भवारण्य (अ + अ → आ, Pāṇini 6.1.101 अकः सवर्णे दीर्घः).\n\nThe diminutive कुठारिका rather than कुठार is not merely feminine agreement — the image is of a small hand-axe, the thing that actually clears a forest, tree by tree rather than at a stroke.\n\nभव carries straight over from 112, where it meant Bhava-Rudra; here it means the saṃsāra that is His other name. Two consecutive namas turn the same word to opposite ends — consort of Bhava, destroyer of bhava."
+ },
+ "115": {
+  "split": "भद्र-प्रिया",
+  "splitIast": "bhadra-priyā",
+  "words": [
+   { "dev": "भद्र", "gloss": "auspicious, good, blessed; welfare, benevolence; also, lexically, a species of elephant" },
+   { "dev": "प्रिया", "gloss": "dear to, fond of, delighting in (from प्री \"to please\")" }
+  ],
+  "meaning": "She who delights in what is auspicious.",
+  "vigraha": ["भद्रं प्रियं यस्याः सा। — bahuvrīhi"],
+  "note": "Bhāskararāya notes that भद्र may also be taken in its lexical sense of a kind of elephant, giving \"she who is fond of the bhadra elephant\" — a reading that ties the nama to Airāvata and royal iconography rather than to abstract benevolence."
+ },
+ "116": {
+  "split": "भद्र-मूर्ति",
+  "splitIast": "bhadra-mūrti",
+  "words": [
+   { "dev": "भद्र", "gloss": "auspicious, benign, blessed" },
+   { "dev": "मूर्ति", "gloss": "form, embodiment, visible shape" }
+  ],
+  "meaning": "She whose very form is auspiciousness.",
+  "vigraha": ["भद्रा मूर्तिः यस्याः सा। — bahuvrīhi"],
+  "note": "The text here prints भद्रमूर्ति without the final visarga; the nama is standardly भद्रमूर्तिः.\n\nWhere 115 said She delights in the auspicious, 116 says She is it — the pair moves from preference to identity, and 117 completes the movement by having Her confer it."
+ },
+ "117": {
+  "split": "भक्त-सौभाग्य-दायिनी",
+  "splitIast": "bhakta-saubhāgya-dāyinī",
+  "words": [
+   { "dev": "भक्त", "gloss": "devotee, one who is devoted (from भज् \"to share, to worship\")" },
+   { "dev": "सौभाग्य", "gloss": "good fortune, prosperity, marital felicity (vṛddhi derivative of सुभग \"well-portioned,\" by the suffix ष्यञ्)" },
+   { "dev": "दायिनी", "gloss": "she who gives, bestower (दा \"to give\" + णिनि, feminine ङीप्)" }
+  ],
+  "meaning": "She who bestows good fortune on her devotees.",
+  "vigraha": ["भक्तानां सौभाग्यं ददातीति भक्तसौभाग्यदायिनी।"],
+  "note": "सौभाग्य is built on सुभग, and Bhāskararāya identifies सुभगा with Lalitā herself — so the saubhāgyas She bestows are Her own qualities extended to the devotee.\n\nThe Agni Purāṇa gives भग seven senses: fortune, desire, magnanimity, strength, effort, sun, fame. The Padma Purāṇa instead lists a concrete saubhāgyāṣṭaka, the eight substances used on auspicious occasions — sugarcane, pārijāta, niṣpāva and vājīra seeds, cow's milk and its products, saffron-coloured things, flowers, salt. A simpler reading takes सु + भाग्य directly: She makes Her devotees fortunate.\n\nThe commentary closes a group at this nama: 109 to 117, nine names in all, are divided according to the Cchalākṣara Sūtras."
+ }
+}

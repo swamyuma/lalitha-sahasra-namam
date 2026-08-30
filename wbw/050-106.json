@@ -1,0 +1,1582 @@
+{
+ "50": {
+  "split": "अनवद्य-अङ्गी",
+  "splitIast": "anavadya-aṅgī",
+  "words": [
+   {
+    "dev": "अनवद्य",
+    "gloss": "faultless, flawless, beyond criticism"
+   },
+   {
+    "dev": "अङ्गी",
+    "gloss": "one possessing limbs, one having a body"
+   }
+  ],
+  "meaning": "She whose limbs are flawless."
+ },
+ "51": {
+  "split": "सर्व-आभरण-भूषिता",
+  "splitIast": "sarva-ābharaṇa-bhūṣitā",
+  "words": [
+   {
+    "dev": "सर्व",
+    "gloss": "all"
+   },
+   {
+    "dev": "आभरण",
+    "gloss": "ornaments, adornments"
+   },
+   {
+    "dev": "भूषिता",
+    "gloss": "adorned, decorated"
+   }
+  ],
+  "meaning": "She who is adorned with every kind of ornament.",
+  "vigraha": [
+   "सर्वैः आभरणैः भूषिता।"
+  ]
+ },
+ "52": {
+  "split": "शिव-कामेश्वर-अङ्क-स्था",
+  "splitIast": "śiva-kāmeśvara-aṅka-sthā",
+  "words": [
+   {
+    "dev": "शिव",
+    "gloss": "Śiva"
+   },
+   {
+    "dev": "कामेश्वर",
+    "gloss": "Kāmeśvara, Śiva as the Divine Consort"
+   },
+   {
+    "dev": "अङ्क",
+    "gloss": "lap, bosom"
+   },
+   {
+    "dev": "स्था",
+    "gloss": "seated, abiding, situated"
+   }
+  ],
+  "meaning": "She who is seated on the lap of Śiva-Kāmeśvara.",
+  "vigraha": [
+   "शिवकामेश्वरस्य अङ्के स्थिता।"
+  ]
+ },
+ "53": {
+  "split": "शिवा",
+  "splitIast": "śivā",
+  "words": [
+   {
+    "dev": "शिवा",
+    "gloss": "the Auspicious One; feminine form of Śiva"
+   }
+  ],
+  "meaning": "The Auspicious Goddess, the Divine Power of Śiva.",
+  "vigraha": [
+   "शिवं कल्याणं ददातीति शिवा।",
+   "शिवस्य शक्तिरूपा शिवा।"
+  ]
+ },
+ "54": {
+  "split": "स्व-अधीन-वल्लभा",
+  "splitIast": "sva-adhīna-vallabhā",
+  "words": [
+   {
+    "dev": "स्व",
+    "gloss": "her own"
+   },
+   {
+    "dev": "अधीन",
+    "gloss": "devoted to, under the influence of"
+   },
+   {
+    "dev": "वल्लभ",
+    "gloss": "beloved, husband, dear one"
+   }
+  ],
+  "meaning": "She whose beloved Lord is completely devoted to her.",
+  "vigraha": [
+   "स्वाधीनः वल्लभः यस्याः सा।"
+  ]
+ },
+ "55": {
+  "split": "सुमेरु-मध्य-शृङ्ग-स्था",
+  "splitIast": "sumeru-madhya-śṛṅga-sthā",
+  "words": [
+   {
+    "dev": "सुमेरु",
+    "gloss": "Mount Meru, the golden axial mountain (सु = excellent, golden + मेरु = Meru)",
+    "iast": "sumeru"
+   },
+   {
+    "dev": "मध्य",
+    "gloss": "middle, central",
+    "iast": "madhya"
+   },
+   {
+    "dev": "शृङ्ग",
+    "gloss": "peak, summit",
+    "iast": "śṛṅga"
+   },
+   {
+    "dev": "स्था",
+    "gloss": "abiding, dwelling, seated",
+    "iast": "sthā"
+   }
+  ],
+  "meaning": "She who dwells on the central peak of Mount Meru.",
+  "vigraha": [
+   "सुमेरोः मध्यशृङ्गे स्थिता या सा।"
+  ],
+  "note": "Of Meru's three summits, the middle one bears Her city."
+ },
+ "56": {
+  "split": "श्रीमत्-नगर-नायिका",
+  "splitIast": "śrīmat-nagara-nāyikā",
+  "words": [
+   {
+    "dev": "श्रीमत्",
+    "gloss": "possessing श्री — splendour, auspiciousness, prosperity (श्री + मतुप्; nominative श्रीमान्, stem श्रीमत् in composition)",
+    "iast": "śrīmat"
+   },
+   {
+    "dev": "नगर",
+    "gloss": "city — here Śrīnagara / Śrīpura, the city on Meru's middle peak, where the previous nama has just placed us",
+    "iast": "nagara"
+   },
+   {
+    "dev": "नायिका",
+    "gloss": "mistress, sovereign lady, leader (feminine of नायक, from नी \"to lead\": नी + ण्वुल् → नायक)",
+    "iast": "nāyikā"
+   }
+  ],
+  "meaning": "The Sovereign Lady of the resplendent City.",
+  "vigraha": [
+   "श्रीमतः नगरस्य नायिका। — ṣaṣṭhī tatpuruṣa"
+  ],
+  "note": "Sandhi: श्रीमत् + नगर → श्रीमन्नगर। The final त् before the nasal न् assimilates in nasality (Pāṇini 8.4.45, यरोऽनुनासिकेऽनुनासिको वा), giving न् + न → न्न। The visible न्न is thus a joint, not a doubled root consonant.\n\nTwo readings are current. Descriptive: श्रीमत् qualifies नगर — the city possesses श्री, and She rules it. Proper name: श्रीमन्नगर taken as the city's own name (Śrīmannagara = Śrīnagara / Śrīpura), hence \"the Lady of Śrīnagara\"; Bhāskararāya reads the compound this way.\n\nNamas 55–58 form a nested descent inward — Meru's middle peak (55) → the city upon it (56) → the cintāmaṇi palace within the city (57) → the pañcabrahma seat within the palace (58). This nama is the second ring. The root नी here also anticipates Her sovereign and commander namas in the Bhaṇḍāsura war section."
+ },
+ "57": {
+  "split": "चिन्तामणि-गृह-अन्तः-स्था",
+  "splitIast": "cintāmaṇi-gṛha-antaḥ-sthā",
+  "words": [
+   {
+    "dev": "चिन्ता",
+    "gloss": "thought, wish",
+    "iast": "cintā"
+   },
+   {
+    "dev": "मणि",
+    "gloss": "gem → चिन्तामणि = the wish-fulfilling gem",
+    "iast": "maṇi"
+   },
+   {
+    "dev": "गृह",
+    "gloss": "house, palace, mansion",
+    "iast": "gṛha"
+   },
+   {
+    "dev": "अन्तः",
+    "gloss": "within, inside",
+    "iast": "antaḥ"
+   },
+   {
+    "dev": "स्था",
+    "gloss": "abiding, seated",
+    "iast": "sthā"
+   }
+  ],
+  "meaning": "She who abides within the palace built of wish-fulfilling gems.",
+  "vigraha": [
+   "चिन्तामणिगृहस्य अन्तः स्थिता।"
+  ],
+  "note": "The Cintāmaṇi-gṛha stands at the heart of Śrīnagara."
+ },
+ "58": {
+  "split": "पञ्च-ब्रह्म-आसन-स्थिता",
+  "splitIast": "pañca-brahma-āsana-sthitā",
+  "words": [
+   {
+    "dev": "पञ्च",
+    "gloss": "five",
+    "iast": "pañca"
+   },
+   {
+    "dev": "ब्रह्म",
+    "gloss": "the Brahmas — Brahmā, Viṣṇu, Rudra, Īśvara, Sadāśiva",
+    "iast": "brahma"
+   },
+   {
+    "dev": "आसन",
+    "gloss": "seat, couch",
+    "iast": "āsana"
+   },
+   {
+    "dev": "स्थिता",
+    "gloss": "seated, established, firmly abiding",
+    "iast": "sthitā"
+   }
+  ],
+  "meaning": "She who is seated on the couch formed of the five Brahmās.",
+  "vigraha": [
+   "पञ्चब्रह्ममयम् आसनम्, तस्मिन् स्थिता।"
+  ],
+  "note": "Brahmā, Viṣṇu, Rudra and Īśvara form its four legs; Sadāśiva is the plank (फलक) on which She rests."
+ },
+ "59": {
+  "split": "महा-पद्म-अटवी-संस्था",
+  "splitIast": "mahā-padma-aṭavī-saṃsthā",
+  "words": [
+   {
+    "dev": "महा",
+    "gloss": "great, vast"
+   },
+   {
+    "dev": "पद्म",
+    "gloss": "lotus"
+   },
+   {
+    "dev": "अटवी",
+    "gloss": "forest, wilderness"
+   },
+   {
+    "dev": "संस्था",
+    "gloss": "fully abiding (सम् intensifier + स्था)"
+   }
+  ],
+  "meaning": "She who abides in the vast forest of great lotuses.",
+  "note": "The compound splits at पद्म + अटवी (a → ā), so the surface महापद्माटवी hides a four-member sequence rather than three. And संस्था here carries the सम् prefix, a slight intensification over the plain स्था used in the previous verse's namas."
+ },
+ "60": {
+  "split": "कदम्ब-वन-वासिनी",
+  "splitIast": "kadamba-vana-vāsinī",
+  "words": [
+   {
+    "dev": "कदम्ब",
+    "gloss": "the kadamba tree"
+   },
+   {
+    "dev": "वन",
+    "gloss": "grove, forest"
+   },
+   {
+    "dev": "वासिनी",
+    "gloss": "she who dwells (from वस्)"
+   }
+  ],
+  "meaning": "She who dwells in the grove of kadamba trees."
+ },
+ "61": {
+  "split": "सुधा-सागर-मध्य-स्था",
+  "splitIast": "sudhā-sāgara-madhya-sthā",
+  "words": [
+   {
+    "dev": "सुधा",
+    "gloss": "nectar, ambrosia"
+   },
+   {
+    "dev": "सागर",
+    "gloss": "ocean"
+   },
+   {
+    "dev": "मध्य",
+    "gloss": "midst"
+   },
+   {
+    "dev": "स्था",
+    "gloss": "abiding"
+   }
+  ],
+  "meaning": "She who abides in the midst of the ocean of nectar."
+ },
+ "62": {
+  "split": "काम-अक्षी",
+  "splitIast": "kāma-akṣī",
+  "words": [
+   {
+    "dev": "काम",
+    "gloss": "desire, love; also Kāma"
+   },
+   {
+    "dev": "अक्षी",
+    "gloss": "eye, eyes"
+   }
+  ],
+  "meaning": "She whose eyes are filled with love.",
+  "note": "Or, taking काम as the object given: \"whose glance grants what is desired.\""
+ },
+ "63": {
+  "split": "काम-दायिनी",
+  "splitIast": "kāma-dāyinī",
+  "words": [
+   {
+    "dev": "काम",
+    "gloss": "desire, the thing desired"
+   },
+   {
+    "dev": "दायिनी",
+    "gloss": "bestower (from दा)"
+   }
+  ],
+  "meaning": "She who bestows all that is desired."
+ },
+ "64": {
+  "split": "देव-ऋषि-गण-संघात-स्तूयमान-आत्म-वैभवा",
+  "splitIast": "deva-ṛṣi-gaṇa-saṃghāta-stūyamāna-ātma-vaibhavā",
+  "words": [
+   {
+    "dev": "देव",
+    "gloss": "gods, celestials"
+   },
+   {
+    "dev": "ऋषि",
+    "gloss": "seers, sages (देव + ऋषि → देवर्षि, अ + ऋ → अर्)"
+   },
+   {
+    "dev": "गण",
+    "gloss": "host, troop, band"
+   },
+   {
+    "dev": "संघात",
+    "gloss": "assemblage, massed multitude (सम् + घात)"
+   },
+   {
+    "dev": "स्तूयमान",
+    "gloss": "being praised, being hymned (passive participle of स्तु \"to praise\")"
+   },
+   {
+    "dev": "आत्म",
+    "gloss": "own, her own self"
+   },
+   {
+    "dev": "वैभव",
+    "gloss": "glory, majesty, greatness"
+   }
+  ],
+  "meaning": "She whose own glory is hymned by the massed hosts of gods and sages.",
+  "vigraha": [
+   "देवर्षिगणसंघातैः स्तूयमानम् आत्मवैभवं यस्याः सा।"
+  ]
+ },
+ "65": {
+  "split": "भण्डासुर-वध-उद्युक्त-शक्ति-सेना-समन्विता",
+  "splitIast": "bhaṇḍāsura-vadha-udyukta-śakti-senā-samanvitā",
+  "words": [
+   {
+    "dev": "भण्ड",
+    "gloss": "Bhaṇḍa, the demon's name"
+   },
+   {
+    "dev": "असुर",
+    "gloss": "demon → भण्डासुर = the demon Bhaṇḍāsura"
+   },
+   {
+    "dev": "वध",
+    "gloss": "slaying, killing"
+   },
+   {
+    "dev": "उद्युक्त",
+    "gloss": "girded up, ready, intent upon (उत् + युक्त; वध + उद्युक्त → वधोद्युक्त)"
+   },
+   {
+    "dev": "शक्ति",
+    "gloss": "the Śaktis, Her divine powers"
+   },
+   {
+    "dev": "सेना",
+    "gloss": "army, host"
+   },
+   {
+    "dev": "समन्विता",
+    "gloss": "accompanied by, attended by (सम् + अनु + इता)"
+   }
+  ],
+  "meaning": "She who is attended by the army of Śaktis girded for the slaying of Bhaṇḍāsura.",
+  "vigraha": [
+   "भण्डासुरस्य वधाय उद्युक्ताभिः शक्तिसेनाभिः समन्विता।"
+  ]
+ },
+ "66": {
+  "split": "सम्पत्करी-समारूढ-सिन्धुर-व्रज-सेविता",
+  "splitIast": "sampatkarī-samārūḍha-sindhura-vraja-sevitā",
+  "words": [
+   {
+    "dev": "सम्पत्करी",
+    "gloss": "wealth, abundance (सम्पत्) + maker, fem. (करी) → Sampatkarī, commander of Her elephant division"
+   },
+   {
+    "dev": "समारूढ",
+    "gloss": "mounted upon (सम् + आ + रूढ, from रुह्)"
+   },
+   {
+    "dev": "सिन्धुर",
+    "gloss": "elephant"
+   },
+   {
+    "dev": "व्रज",
+    "gloss": "herd, troop"
+   },
+   {
+    "dev": "सेविता",
+    "gloss": "attended, served"
+   }
+  ],
+  "meaning": "She who is attended by the elephant host led by Sampatkarī, seated upon it."
+ },
+ "67": {
+  "split": "अश्वारूढा-अधिष्ठित-अश्व-कोटि-कोटिभिः-आवृता",
+  "splitIast": "aśvārūḍhā-adhiṣṭhita-aśva-koṭi-koṭibhiḥ-āvṛtā",
+  "words": [
+   {
+    "dev": "अश्वारूढा",
+    "gloss": "horse (अश्व) + mounted (आरूढा) → Aśvārūḍhā, commander of Her cavalry"
+   },
+   {
+    "dev": "अधिष्ठित",
+    "gloss": "marshalled, presided over (अधि + स्थित)"
+   },
+   {
+    "dev": "अश्व",
+    "gloss": "steed"
+   },
+   {
+    "dev": "कोटि",
+    "gloss": "a crore → कोटिकोटिभिः = by crores upon crores (instrumental plural)"
+   },
+   {
+    "dev": "आवृता",
+    "gloss": "surrounded, encompassed (आ + वृत्)"
+   }
+  ],
+  "meaning": "She who is encompassed by crores upon crores of steeds marshalled by Aśvārūḍhā.",
+  "note": "Nama 66 pairs with 65: the Śakti army named there is now itemised by division — elephants under Sampatkarī, cavalry under Aśvārūḍhā.\n\nText: the Devanagari reads कोटिकोटिभिरावृता (ट, not ठ). The सिंधुर / सिन्धुर difference is only anusvāra versus conjunct spelling; both are current, and the verse line keeps the anusvāra form."
+ },
+ "68": {
+  "split": "चक्रराज-रथ-आरूढ-सर्व-आयुध-परिष्कृता",
+  "splitIast": "cakrarāja-ratha-ārūḍha-sarva-āyudha-pariṣkṛtā",
+  "words": [
+   {
+    "dev": "चक्र",
+    "gloss": "wheel, disc; also the Śrīcakra"
+   },
+   {
+    "dev": "राज",
+    "gloss": "king, chief → चक्रराज = Cakrarāja, the sovereign cakra, here the name of Her own nine-tiered chariot"
+   },
+   {
+    "dev": "रथ",
+    "gloss": "chariot"
+   },
+   {
+    "dev": "आरूढ",
+    "gloss": "mounted upon, having ascended (आ + रूढ, from रुह्)"
+   },
+   {
+    "dev": "सर्व",
+    "gloss": "all, every"
+   },
+   {
+    "dev": "आयुध",
+    "gloss": "weapon"
+   },
+   {
+    "dev": "परिष्कृता",
+    "gloss": "fully equipped, furnished, decked out (परि + कृता, with ष् by the ruki rule)"
+   }
+  ],
+  "meaning": "She who, mounted upon the chariot Cakrarāja, is fully equipped with every weapon.",
+  "vigraha": [
+   "चक्रराजरथम् आरूढा सर्वायुधैः परिष्कृता।"
+  ]
+ },
+ "69": {
+  "split": "गेयचक्र-रथ-आरूढ-मन्त्रिणी-परिसेविता",
+  "splitIast": "geyacakra-ratha-ārūḍha-mantriṇī-parisevitā",
+  "words": [
+   {
+    "dev": "गेय",
+    "gloss": "that which is to be sung, song, music (from गै \"to sing\")"
+   },
+   {
+    "dev": "चक्र",
+    "gloss": "wheel, cakra → गेयचक्र = Geyacakra, the \"chariot of song\""
+   },
+   {
+    "dev": "रथ",
+    "gloss": "chariot"
+   },
+   {
+    "dev": "आरूढ",
+    "gloss": "mounted upon"
+   },
+   {
+    "dev": "मन्त्रिणी",
+    "gloss": "the Minister — Śyāmalā (Rāja-mātaṅgī), Her prime minister (feminine of मन्त्रिन्)"
+   },
+   {
+    "dev": "परिसेविता",
+    "gloss": "closely attended upon, waited on all round (परि + सेविता)"
+   }
+  ],
+  "meaning": "She who is closely attended by the Minister Śyāmalā, mounted upon the Geyacakra chariot.",
+  "vigraha": [
+   "गेयचक्ररथम् आरूढया मन्त्रिण्या परिसेविता।"
+  ],
+  "note": "These two open the chariot sequence — 68 is the Goddess's own Cakrarāja, 69 the Geyacakra of Her minister Śyāmalā, and 70 follows with the Kiricakra of Daṇḍanāthā (Vārāhī)."
+ },
+ "70": {
+  "split": "किरिचक्र-रथ-आरूढ-दण्डनाथा-पुरस्कृता",
+  "splitIast": "kiricakra-ratha-ārūḍha-daṇḍanāthā-puraskṛtā",
+  "words": [
+   {
+    "dev": "किरि",
+    "gloss": "boar, hog → किरिचक्र = Kiricakra, the \"boar chariot\" of Vārāhī"
+   },
+   {
+    "dev": "चक्र",
+    "gloss": "wheel, cakra"
+   },
+   {
+    "dev": "रथ",
+    "gloss": "chariot"
+   },
+   {
+    "dev": "आरूढ",
+    "gloss": "mounted upon (आ + रूढ, from रुह्)"
+   },
+   {
+    "dev": "दण्ड",
+    "gloss": "staff, rod, chastisement"
+   },
+   {
+    "dev": "नाथा",
+    "gloss": "mistress, lady → दण्डनाथा = Daṇḍanāthā (Vārāhī), commander-in-chief, wielder of the rod of punishment"
+   },
+   {
+    "dev": "पुरस्कृता",
+    "gloss": "placed in front, led by, honoured (पुरः + कृता)"
+   }
+  ],
+  "meaning": "She who is preceded by Daṇḍanāthā, mounted upon the Kiricakra chariot.",
+  "vigraha": [
+   "किरिचक्ररथम् आरूढया दण्डनाथया पुरस्कृता।"
+  ]
+ },
+ "71": {
+  "split": "ज्वाला-मालिनिका-आक्षिप्त-वह्नि-प्राकार-मध्यगा",
+  "splitIast": "jvālā-mālinikā-ākṣipta-vahni-prākāra-madhyagā",
+  "words": [
+   {
+    "dev": "ज्वाला",
+    "gloss": "flame, blaze"
+   },
+   {
+    "dev": "मालिनिका",
+    "gloss": "the garlanded one (मालिनी + क) → ज्वालामालिनिका = Jvālāmālinī, the Śakti garlanded with flames"
+   },
+   {
+    "dev": "आक्षिप्त",
+    "gloss": "flung up, cast out, projected (आ + क्षिप्त, from क्षिप् \"to throw\")"
+   },
+   {
+    "dev": "वह्नि",
+    "gloss": "fire"
+   },
+   {
+    "dev": "प्राकार",
+    "gloss": "rampart, enclosing wall, fortification"
+   },
+   {
+    "dev": "मध्यगा",
+    "gloss": "middle, centre (मध्य) + abiding in, situated in (गा, from गम्) → she who dwells at the centre"
+   }
+  ],
+  "meaning": "She who abides at the centre of the rampart of fire flung up by Jvālāmālinī.",
+  "vigraha": [
+   "ज्वालामालिनिकया आक्षिप्तस्य वह्निप्राकारस्य मध्यगा।"
+  ],
+  "note": "Nama 70 closes the chariot triad (Cakrarāja, Geyacakra, Kiricakra); 71 turns to the fiery rampart Jvālāmālinī threw up around the host in the war against Bhaṇḍāsura."
+ },
+ "72": {
+  "split": "भण्ड-सैन्य-वध-उद्युक्त-शक्ति-विक्रम-हर्षिता",
+  "splitIast": "bhaṇḍa-sainya-vadha-udyukta-śakti-vikrama-harṣitā",
+  "words": [
+   {
+    "dev": "भण्ड",
+    "gloss": "Bhaṇḍa, i.e. Bhaṇḍāsura"
+   },
+   {
+    "dev": "सैन्य",
+    "gloss": "army, host, forces (from सेना)"
+   },
+   {
+    "dev": "वध",
+    "gloss": "slaying, slaughter"
+   },
+   {
+    "dev": "उद्युक्त",
+    "gloss": "girded up, ready, intent upon (उत् + युक्त; वध + उद्युक्त → वधोद्युक्त)"
+   },
+   {
+    "dev": "शक्ति",
+    "gloss": "the Śaktis, Her divine powers"
+   },
+   {
+    "dev": "विक्रम",
+    "gloss": "valour, prowess, heroic stride"
+   },
+   {
+    "dev": "हर्षिता",
+    "gloss": "delighted, gladdened (from हृष् \"to rejoice\")"
+   }
+  ],
+  "meaning": "She who is delighted by the valour of the Śaktis girded for the slaughter of Bhaṇḍa's army.",
+  "vigraha": [
+   "भण्डसैन्यवधाय उद्युक्तानां शक्तीनां विक्रमेण हर्षिता।"
+  ]
+ },
+ "73": {
+  "split": "नित्या-पराक्रम-आटोप-निरीक्षण-समुत्सुका",
+  "splitIast": "nityā-parākrama-āṭopa-nirīkṣaṇa-samutsukā",
+  "words": [
+   {
+    "dev": "नित्या",
+    "gloss": "the Nityās, the fifteen eternal Śaktis of the lunar days"
+   },
+   {
+    "dev": "पराक्रम",
+    "gloss": "might, valour, martial prowess (परा + क्रम)"
+   },
+   {
+    "dev": "आटोप",
+    "gloss": "swelling, exuberance, imposing magnitude"
+   },
+   {
+    "dev": "निरीक्षण",
+    "gloss": "beholding, looking on, witnessing (नि + ईक्षण)"
+   },
+   {
+    "dev": "समुत्सुका",
+    "gloss": "keenly eager, full of longing (सम् + उत्सुका)"
+   }
+  ],
+  "meaning": "She who is eager to behold the swelling valour of the Nityā deities.",
+  "vigraha": [
+   "नित्यानां पराक्रमाटोपस्य निरीक्षणे समुत्सुका।"
+  ],
+  "note": "Nama 72 answers 65 — there She is attended by the Śaktis girded to slay Bhaṇḍāsura himself, here gladdened by their prowess against his army. In 72–73 the Goddess is watcher rather than combatant: delighted, then eager to watch on."
+ },
+ "74": {
+  "split": "भण्ड-पुत्र-वध-उद्युक्त-बाला-विक्रम-नन्दिता",
+  "splitIast": "bhaṇḍa-putra-vadha-udyukta-bālā-vikrama-nanditā",
+  "words": [
+   {
+    "dev": "भण्ड",
+    "gloss": "Bhaṇḍa, i.e. Bhaṇḍāsura"
+   },
+   {
+    "dev": "पुत्र",
+    "gloss": "son → भण्डपुत्र = the sons of Bhaṇḍāsura (thirty, per the Lalitopākhyāna)"
+   },
+   {
+    "dev": "वध",
+    "gloss": "slaying"
+   },
+   {
+    "dev": "उद्युक्त",
+    "gloss": "girded up, intent upon (उत् + युक्त; वध + उद्युक्त → वधोद्युक्त)"
+   },
+   {
+    "dev": "बाला",
+    "gloss": "Bālā, the young Goddess Bālā Tripurasundarī, Her nine-year-old daughter"
+   },
+   {
+    "dev": "विक्रम",
+    "gloss": "valour, prowess"
+   },
+   {
+    "dev": "नन्दिता",
+    "gloss": "gladdened, made joyful (from नन्द् \"to rejoice\")"
+   }
+  ],
+  "meaning": "She who is gladdened by the valour of Bālā, girded to slay the sons of Bhaṇḍāsura.",
+  "vigraha": [
+   "भण्डपुत्रवधाय उद्युक्तायाः बालायाः विक्रमेण नन्दिता।"
+  ]
+ },
+ "75": {
+  "split": "मन्त्रिणी-अम्बा-विरचित-विषङ्ग-वध-तोषिता",
+  "splitIast": "mantriṇī-ambā-viracita-viṣaṅga-vadha-toṣitā",
+  "words": [
+   {
+    "dev": "मन्त्रिणी",
+    "gloss": "the Minister, Śyāmalā (Rāja-mātaṅgī)"
+   },
+   {
+    "dev": "अम्बा",
+    "gloss": "mother, revered lady → मन्त्रिण्यम्बा = Mother Mantriṇī (मन्त्रिणी + अम्बा → मन्त्रिण्यम्बा, ई + अ → य् अ)"
+   },
+   {
+    "dev": "विरचित",
+    "gloss": "wrought, accomplished, brought about (वि + रचित)"
+   },
+   {
+    "dev": "विषङ्ग",
+    "gloss": "Viṣaṅga, Bhaṇḍāsura's brother and general"
+   },
+   {
+    "dev": "वध",
+    "gloss": "slaying"
+   },
+   {
+    "dev": "तोषिता",
+    "gloss": "pleased, gratified, satisfied (from तुष् \"to be content\")"
+   }
+  ],
+  "meaning": "She who is gratified by the slaying of Viṣaṅga wrought by Mother Mantriṇī.",
+  "vigraha": [
+   "मन्त्रिण्यम्बया विरचितेन विषङ्गवधेन तोषिता।"
+  ],
+  "note": "Namas 74–75 continue the spectator sequence, now naming who kills whom — Bālā takes Bhaṇḍāsura's sons, Mantriṇī takes his brother Viṣaṅga, and 76 gives Vārāhī the other brother, Viśukra."
+ },
+ "76": {
+  "split": "विशुक्र-प्राण-हरण-वाराही-वीर्य-नन्दिता",
+  "splitIast": "viśukra-prāṇa-haraṇa-vārāhī-vīrya-nanditā",
+  "words": [
+   {
+    "dev": "विशुक्र",
+    "gloss": "Viśukra, Bhaṇḍāsura's brother"
+   },
+   {
+    "dev": "प्राण",
+    "gloss": "life, vital breath"
+   },
+   {
+    "dev": "हरण",
+    "gloss": "taking away, carrying off (from हृ \"to seize\")"
+   },
+   {
+    "dev": "वाराही",
+    "gloss": "Vārāhī, i.e. Daṇḍanāthā, the boar-faced commander-in-chief"
+   },
+   {
+    "dev": "वीर्य",
+    "gloss": "might, heroism, valour"
+   },
+   {
+    "dev": "नन्दिता",
+    "gloss": "gladdened, made joyful (from नन्द् \"to rejoice\")"
+   }
+  ],
+  "meaning": "She who is gladdened by the might of Vārāhī in taking the life of Viśukra.",
+  "vigraha": [
+   "विशुक्रस्य प्राणहरणे वाराह्याः वीर्येण नन्दिता।"
+  ]
+ },
+ "77": {
+  "split": "कामेश्वर-मुख-आलोक-कल्पित-श्री-गणेश्वरा",
+  "splitIast": "kāmeśvara-mukha-āloka-kalpita-śrī-gaṇeśvarā",
+  "words": [
+   {
+    "dev": "कामेश्वर",
+    "gloss": "Kāmeśvara, Śiva as Her consort"
+   },
+   {
+    "dev": "मुख",
+    "gloss": "face, countenance"
+   },
+   {
+    "dev": "आलोक",
+    "gloss": "a look, glance, beholding (आ + लोक; मुख + आलोक → मुखालोक)"
+   },
+   {
+    "dev": "कल्पित",
+    "gloss": "fashioned, brought into being, created"
+   },
+   {
+    "dev": "श्री",
+    "gloss": "auspicious, glorious (honorific)"
+   },
+   {
+    "dev": "गणेश्वर",
+    "gloss": "Lord of the gaṇas, Gaṇeśa → गणेश्वरा, feminine bahuvrīhi: \"she by whom he was made\""
+   }
+  ],
+  "meaning": "She who brought forth Śrī Gaṇeśvara by a glance at the face of Kāmeśvara.",
+  "vigraha": [
+   "कामेश्वरमुखालोकेन कल्पितः श्रीगणेश्वरः यया सा।"
+  ],
+  "note": "Nama 76 closes the roll of slain commanders — Bhaṇḍāsura's sons to Bālā, Viṣaṅga to Mantriṇī, Viśukra to Vārāhī. 77 turns to Viśukra's Jayavighna yantra, which had struck the host with torpor: at Her glance upon Kāmeśvara's face Gaṇeśa arose and broke the obstruction."
+ },
+ "78": {
+  "split": "महा-गणेश-निर्भिन्न-विघ्न-यन्त्र-प्रहर्षिता",
+  "splitIast": "mahā-gaṇeśa-nirbhinna-vighna-yantra-praharṣitā",
+  "words": [
+   {
+    "dev": "महा",
+    "gloss": "great"
+   },
+   {
+    "dev": "गणेश",
+    "gloss": "Gaṇeśa → महागणेश = Mahāgaṇeśa, the great Gaṇeśa born of Her glance"
+   },
+   {
+    "dev": "निर्भिन्न",
+    "gloss": "shattered, split apart, broken through (निः + भिन्न, from भिद् \"to cleave\")"
+   },
+   {
+    "dev": "विघ्न",
+    "gloss": "obstacle, obstruction"
+   },
+   {
+    "dev": "यन्त्र",
+    "gloss": "yantra, mystic device → विघ्नयन्त्र = the Jayavighna yantra of obstruction"
+   },
+   {
+    "dev": "प्रहर्षिता",
+    "gloss": "greatly delighted, thrilled (प्र + हर्षिता, intensive of हृष्)"
+   }
+  ],
+  "meaning": "She who was thrilled when Mahāgaṇeśa shattered the yantra of obstruction.",
+  "vigraha": [
+   "महागणेशेन निर्भिन्नं विघ्नयन्त्रं, तेन प्रहर्षिता।"
+  ]
+ },
+ "79": {
+  "split": "भण्डासुर-इन्द्र-निर्मुक्त-शस्त्र-प्रत्यस्त्र-वर्षिणी",
+  "splitIast": "bhaṇḍāsura-indra-nirmukta-śastra-pratyastra-varṣiṇī",
+  "words": [
+   {
+    "dev": "भण्डासुर",
+    "gloss": "the demon Bhaṇḍa"
+   },
+   {
+    "dev": "इन्द्र",
+    "gloss": "chief, foremost, lord → भण्डासुरेन्द्र = Bhaṇḍāsura, lord of the asuras"
+   },
+   {
+    "dev": "निर्मुक्त",
+    "gloss": "released, discharged, let fly (निः + मुक्त)"
+   },
+   {
+    "dev": "शस्त्र",
+    "gloss": "weapon, hurled or hand-held arm"
+   },
+   {
+    "dev": "प्रत्यस्त्र",
+    "gloss": "counter-missile, answering astra (प्रति + अस्त्र)"
+   },
+   {
+    "dev": "वर्षिणी",
+    "gloss": "she who rains down, showers forth (from वृष् \"to rain\")"
+   }
+  ],
+  "meaning": "She who rains down counter-missiles against the weapons discharged by Bhaṇḍāsura, lord of demons.",
+  "vigraha": [
+   "भण्डासुरेन्द्रेण निर्मुक्तेषु शस्त्रेषु प्रत्यस्त्राणि वर्षतीति।"
+  ],
+  "note": "शस्त्र and अस्त्र are not interchangeable — शस्त्र is the ordinary weapon, अस्त्र the missile impelled by mantra, so प्रत्यस्त्र is the mantra-answer to what he throws. 79 is also where the Goddess stops watching and enters the fight Herself."
+ },
+ "80": {
+  "split": "कर-अङ्गुलि-नख-उत्पन्न-नारायण-दश-आकृतिः",
+  "splitIast": "kara-aṅguli-nakha-utpanna-nārāyaṇa-daśa-ākṛtiḥ",
+  "words": [
+   {
+    "dev": "कर",
+    "gloss": "hand"
+   },
+   {
+    "dev": "अङ्गुलि",
+    "gloss": "finger"
+   },
+   {
+    "dev": "नख",
+    "gloss": "nail → कराङ्गुलिनख = Her fingernails"
+   },
+   {
+    "dev": "उत्पन्न",
+    "gloss": "sprung forth, arisen (उत् + पन्न)"
+   },
+   {
+    "dev": "नारायण",
+    "gloss": "Nārāyaṇa, Viṣṇu"
+   },
+   {
+    "dev": "दश",
+    "gloss": "ten"
+   },
+   {
+    "dev": "आकृतिः",
+    "gloss": "form → दशाकृतिः = the ten forms, the ten avatāras"
+   }
+  ],
+  "meaning": "She from whose fingernails sprang forth the ten forms of Nārāyaṇa.",
+  "note": "Text: the ङ्गु ligature in कराङ्गुलि had dropped its ङ् in the scanned Devanagari, a common loss.\n\nNama 80 ends in a visarga (दशाकृतिः, an -i stem nominative), unlike the -ā endings around it — worth keeping when reciting the pair."
+ },
+ "81": {
+  "split": "महा-पाशुपत-अस्त्र-अग्नि-निर्दग्ध-असुर-सैनिका",
+  "splitIast": "mahā-pāśupata-astra-agni-nirdagdha-asura-sainikā",
+  "words": [
+   {
+    "dev": "महा",
+    "gloss": "great, supreme"
+   },
+   {
+    "dev": "पाशुपत",
+    "gloss": "of Paśupati (Śiva) → महापाशुपतास्त्र, Śiva's supreme missile"
+   },
+   {
+    "dev": "अस्त्र",
+    "gloss": "mantra-impelled missile"
+   },
+   {
+    "dev": "अग्नि",
+    "gloss": "fire"
+   },
+   {
+    "dev": "निर्दग्ध",
+    "gloss": "burnt utterly (निः + दग्ध, from दह्)"
+   },
+   {
+    "dev": "असुर",
+    "gloss": "demon"
+   },
+   {
+    "dev": "सैनिका",
+    "gloss": "soldier (सैनिक) → सैनिका, feminine to agree with Her"
+   }
+  ],
+  "meaning": "She by whom the demon soldiery was burnt to ash in the fire of the great Pāśupata missile.",
+  "note": "Nama 81 chains three a + a → ā joins in a row (पाशुपत + अस्त्र, अस्त्र + अग्नि, निर्दग्ध + असुर), which is why the surface form hides so many members."
+ },
+ "82": {
+  "split": "कामेश्वर-अस्त्र-निर्दग्ध-स-भण्डासुर-शून्यका",
+  "splitIast": "kāmeśvara-astra-nirdagdha-sa-bhaṇḍāsura-śūnyakā",
+  "words": [
+   {
+    "dev": "कामेश्वर",
+    "gloss": "Kāmeśvara, Her consort → कामेश्वरास्त्र = the Kāmeśvara missile"
+   },
+   {
+    "dev": "अस्त्र",
+    "gloss": "missile, weapon impelled by mantra"
+   },
+   {
+    "dev": "निर्दग्ध",
+    "gloss": "burnt down utterly, reduced to ash (निः + दग्ध, from दह्)"
+   },
+   {
+    "dev": "स",
+    "gloss": "together with, along with (the prefix स in the sense of सह)"
+   },
+   {
+    "dev": "भण्डासुर",
+    "gloss": "Bhaṇḍāsura → सभण्डासुर = together with Bhaṇḍāsura"
+   },
+   {
+    "dev": "शून्यका",
+    "gloss": "Śūnyaka, Bhaṇḍāsura's capital city (शून्य = empty, void) → शून्यका, feminine bahuvrīhi agreeing with Her"
+   }
+  ],
+  "meaning": "She by whom Śūnyaka, along with Bhaṇḍāsura himself, was burnt to ash by the Kāmeśvara missile.",
+  "vigraha": [
+   "कामेश्वरास्त्रेण निर्दग्धं सभण्डासुरं शून्यकं यया सा।"
+  ]
+ },
+ "83": {
+  "split": "ब्रह्म-उपेन्द्र-महेन्द्र-आदि-देव-संस्तुत-वैभवा",
+  "splitIast": "brahma-upendra-mahendra-ādi-deva-saṃstuta-vaibhavā",
+  "words": [
+   {
+    "dev": "ब्रह्म",
+    "gloss": "Brahmā (ब्रह्म in compound; ब्रह्म + उपेन्द्र → ब्रह्मोपेन्द्र)"
+   },
+   {
+    "dev": "उपेन्द्र",
+    "gloss": "Upendra, Viṣṇu — \"the younger Indra\" (उप + इन्द्र)"
+   },
+   {
+    "dev": "महेन्द्र",
+    "gloss": "Mahendra, the great Indra (महा + इन्द्र)"
+   },
+   {
+    "dev": "आदि",
+    "gloss": "beginning with, and the rest"
+   },
+   {
+    "dev": "देव",
+    "gloss": "gods, celestials"
+   },
+   {
+    "dev": "संस्तुत",
+    "gloss": "fully extolled, praised in chorus (सम् + स्तुत, from स्तु)"
+   },
+   {
+    "dev": "वैभवा",
+    "gloss": "glory, majesty, greatness (वैभव) → वैभवा, feminine bahuvrīhi"
+   }
+  ],
+  "meaning": "She whose glory is extolled by Brahmā, Viṣṇu, Indra and the other gods.",
+  "vigraha": [
+   "ब्रह्मोपेन्द्रमहेन्द्रादिभिः देवैः संस्तुतं वैभवं यस्याः सा।"
+  ],
+  "note": "Nama 82 ends the war — the city Śūnyaka burns with its lord. 83 answers 64: there Her glory was hymned by the massed hosts of gods and sages, here by the chief gods named one by one, with the victory now behind it."
+ },
+ "84": {
+  "split": "हर-नेत्र-अग्नि-संदग्ध-काम-संजीवन-औषधिः",
+  "splitIast": "hara-netra-agni-saṃdagdha-kāma-saṃjīvana-auṣadhiḥ",
+  "words": [
+   {
+    "dev": "हर",
+    "gloss": "Hara, Śiva, \"the remover\""
+   },
+   {
+    "dev": "नेत्र",
+    "gloss": "eye — here the third eye"
+   },
+   {
+    "dev": "अग्नि",
+    "gloss": "fire → नेत्राग्नि = the fire of that eye"
+   },
+   {
+    "dev": "संदग्ध",
+    "gloss": "wholly burnt, consumed (सम् + दग्ध, from दह् \"to burn\")"
+   },
+   {
+    "dev": "काम",
+    "gloss": "Kāma, Manmatha, the god of love"
+   },
+   {
+    "dev": "संजीवन",
+    "gloss": "restoring to life, reviving (सम् + जीवन)"
+   },
+   {
+    "dev": "औषधिः",
+    "gloss": "healing herb, medicament (संजीवन + औषधि → संजीवनौषधि, अ + औ → औ)"
+   }
+  ],
+  "meaning": "She who is the life-restoring herb for Kāma, burnt to ash by the fire of Hara's eye.",
+  "vigraha": [
+   "हरनेत्राग्निना संदग्धस्य कामस्य संजीवनौषधिः।"
+  ]
+ },
+ "85": {
+  "split": "श्रीमत्-वाग्भव-कूट-एक-स्वरूप-मुख-पङ्कजा",
+  "splitIast": "śrīmat-vāgbhava-kūṭa-eka-svarūpa-mukha-paṅkajā",
+  "words": [
+   {
+    "dev": "श्रीमत्",
+    "gloss": "glorious, resplendent (श्रीमत् + वाग्भव → श्रीमद्वाग्भव, त् → द् before voiced व)"
+   },
+   {
+    "dev": "वाग्भव",
+    "gloss": "the Vāgbhava kūṭa, first segment of the Pañcadaśī mantra (वाक् = speech + भव = origin, \"the source of speech\")"
+   },
+   {
+    "dev": "कूट",
+    "gloss": "peak, segment, cluster — a kūṭa of the mantra"
+   },
+   {
+    "dev": "एक",
+    "gloss": "one, sole, single (कूट + एक → कूटैक, अ + ए → ऐ)"
+   },
+   {
+    "dev": "स्वरूप",
+    "gloss": "own form, essential nature"
+   },
+   {
+    "dev": "मुख",
+    "gloss": "face"
+   },
+   {
+    "dev": "पङ्कजा",
+    "gloss": "lotus (पङ्क = mud + ज = born) → मुखपङ्कजा = she whose face is a lotus"
+   }
+  ],
+  "meaning": "She whose lotus face is one in essence with the glorious Vāgbhava kūṭa.",
+  "vigraha": [
+   "श्रीमद्वाग्भवकूटस्य एकस्वरूपं मुखपङ्कजं यस्याः सा।"
+  ],
+  "note": "Nama 84 pivots from war to grace — the Kāma burnt in the old myth is revived by Her. 85 opens the mantra-body sequence: the three kūṭas of the Pañcadaśī are mapped onto Her form, Vāgbhava as the face here, Kāmarāja from neck to waist in 86, and the Śakti kūṭa below the waist in 87."
+ },
+ "86": {
+  "split": "कण्ठ-अधः-कटि-पर्यन्त-मध्य-कूट-स्वरूपिणी",
+  "splitIast": "kaṇṭha-adhaḥ-kaṭi-paryanta-madhya-kūṭa-svarūpiṇī",
+  "words": [
+   {
+    "dev": "कण्ठ",
+    "gloss": "throat, neck"
+   },
+   {
+    "dev": "अधः",
+    "gloss": "below, beneath (कण्ठ + अधः → कण्ठाधः)"
+   },
+   {
+    "dev": "कटि",
+    "gloss": "waist, hip"
+   },
+   {
+    "dev": "पर्यन्त",
+    "gloss": "extending as far as, up to (परि + अन्त)"
+   },
+   {
+    "dev": "मध्य",
+    "gloss": "middle"
+   },
+   {
+    "dev": "कूट",
+    "gloss": "segment of the mantra → मध्यकूट = the middle kūṭa, i.e. the Kāmarāja kūṭa"
+   },
+   {
+    "dev": "स्वरूपिणी",
+    "gloss": "she who has that as her very form (स्वरूप + इनी)"
+   }
+  ],
+  "meaning": "She whose form from below the throat down to the waist is the middle, Kāmarāja, kūṭa.",
+  "vigraha": [
+   "कण्ठात् अधः कटिपर्यन्तं मध्यकूटस्वरूपिणी।"
+  ]
+ },
+ "87": {
+  "split": "शक्ति-कूट-एकता-आपन्न-कटि-अधः-भाग-धारिणी",
+  "splitIast": "śakti-kūṭa-ekatā-āpanna-kaṭi-adhaḥ-bhāga-dhāriṇī",
+  "words": [
+   {
+    "dev": "शक्ति",
+    "gloss": "Śakti, power → शक्तिकूट = the third segment of the Pañcadaśī"
+   },
+   {
+    "dev": "कूट",
+    "gloss": "segment, peak"
+   },
+   {
+    "dev": "एकता",
+    "gloss": "oneness, identity (एक + ता; कूट + एकता → कूटैकता, अ + ए → ऐ)"
+   },
+   {
+    "dev": "आपन्न",
+    "gloss": "attained, come into, arrived at (आ + पन्न; एकता + आपन्न → एकतापन्न)"
+   },
+   {
+    "dev": "कटि",
+    "gloss": "waist"
+   },
+   {
+    "dev": "अधः",
+    "gloss": "below (कटि + अधः → कट्यधः, इ + अ → य्)"
+   },
+   {
+    "dev": "भाग",
+    "gloss": "part, portion"
+   },
+   {
+    "dev": "धारिणी",
+    "gloss": "she who bears, carries (from धृ \"to bear\")"
+   }
+  ],
+  "meaning": "She who bears the portion below the waist as having become one with the Śakti kūṭa.",
+  "vigraha": [
+   "शक्तिकूटेन एकताम् आपन्नं कट्यधोभागं धारयतीति।"
+  ],
+  "note": "Namas 85–87 close the triad — Vāgbhava as the face, Kāmarāja from throat to waist, Śakti kūṭa below it. The three namas together say that the Pañcadaśī mantra and Her body are one thing, so that reciting the mantra is itself the worship of Her form."
+ },
+ "88": {
+  "split": "मूल-मन्त्र-आत्मिका",
+  "splitIast": "mūla-mantra-ātmikā",
+  "words": [
+   {
+    "dev": "मूल",
+    "gloss": "root, original, fundamental"
+   },
+   {
+    "dev": "मन्त्र",
+    "gloss": "mantra → मूलमन्त्र = the root mantra, the Pañcadaśī (or Ṣoḍaśī)"
+   },
+   {
+    "dev": "आत्मिका",
+    "gloss": "whose self or essence it is (from आत्मन्, feminine)"
+   }
+  ],
+  "meaning": "She whose very self is the root mantra.",
+  "vigraha": [
+   "मूलमन्त्रः आत्मा यस्याः सा।"
+  ]
+ },
+ "89": {
+  "split": "मूल-कूट-त्रय-कलेबरा",
+  "splitIast": "mūla-kūṭa-traya-kalebarā",
+  "words": [
+   {
+    "dev": "मूल",
+    "gloss": "root → मूलकूट = the kūṭas of the root mantra"
+   },
+   {
+    "dev": "कूट",
+    "gloss": "segment, peak"
+   },
+   {
+    "dev": "त्रय",
+    "gloss": "triad, the three"
+   },
+   {
+    "dev": "कलेबरा",
+    "gloss": "body, bodily frame (कलेबर, variant of कलेवर) → कलेबरा, feminine"
+   }
+  ],
+  "meaning": "She whose body is the three kūṭas of the root mantra.",
+  "vigraha": [
+   "मूलमन्त्रस्य कूटत्रयं कलेबरं यस्याः सा।"
+  ]
+ },
+ "90": {
+  "split": "कुल-अमृत-एक-रसिका",
+  "splitIast": "kula-amṛta-eka-rasikā",
+  "words": [
+   {
+    "dev": "कुल",
+    "gloss": "the Kula, the Kaula lineage and its inner meaning"
+   },
+   {
+    "dev": "अमृत",
+    "gloss": "nectar, ambrosia (कुल + अमृत → कुलामृत)"
+   },
+   {
+    "dev": "एक",
+    "gloss": "one, sole, alone (अमृत + एक → अमृतैक, अ + ए → ऐ)"
+   },
+   {
+    "dev": "रसिका",
+    "gloss": "she who savours, relishes, has a taste for (from रस \"flavour, relish\")"
+   }
+  ],
+  "meaning": "She who delights in the nectar of Kula alone.",
+  "vigraha": [
+   "कुलामृतम् एकम् एव रसयतीति।"
+  ]
+ },
+ "91": {
+  "split": "कुल-संकेत-पालिनी",
+  "splitIast": "kula-saṃketa-pālinī",
+  "words": [
+   {
+    "dev": "कुल",
+    "gloss": "the Kaula tradition"
+   },
+   {
+    "dev": "संकेत",
+    "gloss": "secret sign, esoteric convention, agreed code (सम् + केत)"
+   },
+   {
+    "dev": "पालिनी",
+    "gloss": "protectress, guardian (from पाल् \"to protect\")"
+   }
+  ],
+  "meaning": "She who guards the secret conventions of the Kula tradition.",
+  "vigraha": [
+   "कुलसंकेतं पालयतीति कुलसंकेतपालिनी।"
+  ],
+  "note": "Namas 88–89 carry the mantra-body identity of 85–87 to its conclusion — first the mantra as Her self, then its three kūṭas as Her frame. 90–91 then turn to the Kaula transmission that guards it.\n\nText: कलेबर and कलेवर are both attested; the ब / व interchange is normal, and LSN editions usually print कलेबरा."
+ },
+ "92": {
+  "split": "कुल-अङ्गना",
+  "splitIast": "kula-aṅganā",
+  "words": [
+   {
+    "dev": "कुल",
+    "gloss": "family, noble lineage; in Śrīvidyā, the Kula — Śakti, the mūlādhāra"
+   },
+   {
+    "dev": "अङ्गना",
+    "gloss": "woman, lady, one of graceful limbs (from अङ्ग \"limb\")"
+   }
+  ],
+  "meaning": "The Lady of the Kula — she who is the woman of that noble house."
+ },
+ "93": {
+  "split": "कुल-अन्तः-स्था",
+  "splitIast": "kula-antaḥ-sthā",
+  "words": [
+   {
+    "dev": "कुल",
+    "gloss": "the Kula (also read as the mūlādhāra, or the assembly of tattvas)"
+   },
+   {
+    "dev": "अन्तः",
+    "gloss": "within, inside"
+   },
+   {
+    "dev": "स्था",
+    "gloss": "abiding, seated"
+   }
+  ],
+  "meaning": "She who abides within the Kula.",
+  "vigraha": [
+   "कुलस्य अन्तः स्थिता।"
+  ]
+ },
+ "94": {
+  "split": "कौलिनी",
+  "splitIast": "kaulinī",
+  "words": [
+   {
+    "dev": "कौल",
+    "gloss": "belonging to the Kula, of the Kaula path — vṛddhi derivative of कुल"
+   },
+   {
+    "dev": "कौलिनी",
+    "gloss": "the presiding Goddess of Kaula worship; the Śakti in the mūlādhāra who joins kula (Śakti) to akula (Śiva)"
+   }
+  ],
+  "meaning": "She who is the Deity of the Kaula path."
+ },
+ "95": {
+  "split": "कुल-योगिनी",
+  "splitIast": "kula-yoginī",
+  "words": [
+   {
+    "dev": "कुल",
+    "gloss": "the Kula"
+   },
+   {
+    "dev": "योगिनी",
+    "gloss": "yoginī, female adept; she who is joined, who unites (from युज् \"to yoke\")"
+   }
+  ],
+  "meaning": "The Yoginī of the Kula."
+ },
+ "96": {
+  "split": "अ-कुला",
+  "splitIast": "a-kulā",
+  "words": [
+   {
+    "dev": "अ",
+    "gloss": "not, beyond (negative prefix)"
+   },
+   {
+    "dev": "कुला",
+    "gloss": "kula (कुल) → अकुल = that which is past kula; in Kaula usage Akula is Śiva, seated in the sahasrāra, as Kula is Śakti"
+   }
+  ],
+  "meaning": "She who is Akula — beyond the Kula, one with Śiva."
+ },
+ "97": {
+  "split": "समय-अन्तः-स्था",
+  "splitIast": "samaya-antaḥ-sthā",
+  "words": [
+   {
+    "dev": "समय",
+    "gloss": "the Samaya doctrine and its worship; literally agreement, convention — also read as सम + अय, the state in which Śiva and Śakti are equal"
+   },
+   {
+    "dev": "अन्तः",
+    "gloss": "within"
+   },
+   {
+    "dev": "स्था",
+    "gloss": "abiding"
+   }
+  ],
+  "meaning": "She who abides within the Samaya path.",
+  "vigraha": [
+   "समयस्य अन्तः स्थिता।"
+  ]
+ },
+ "98": {
+  "split": "समय-आचार-तत्परा",
+  "splitIast": "samaya-ācāra-tatparā",
+  "words": [
+   {
+    "dev": "समय",
+    "gloss": "the Samaya doctrine (समय + आचार → समयाचार)"
+   },
+   {
+    "dev": "आचार",
+    "gloss": "practice, observance, prescribed conduct"
+   },
+   {
+    "dev": "तत्परा",
+    "gloss": "intent upon, holding that as highest (तत् + पर) → तत्परा, feminine"
+   }
+  ],
+  "meaning": "She who is devoted to the observances of the Samaya path.",
+  "note": "Namas 92–96 belong to the Kaula reckoning and 97–98 to the Samaya, the two being the outer and the inner worship — Samaya performed within the six cakras and held the higher by Bhāskararāya. The sequence honours both, and 96 अकुला is the hinge: having been named through Kula five times, She is then named as what lies past it.\n\nअन्तस्था in 93 and 97 is अन्तः + स्था with the visarga assimilated, as in 57 चिन्तामणिगृहान्तस्था."
+ },
+ "99": {
+  "split": "मूल-आधार-एक-निलया",
+  "splitIast": "mūla-ādhāra-eka-nilayā",
+  "words": [
+   {
+    "dev": "मूल",
+    "gloss": "root"
+   },
+   {
+    "dev": "आधार",
+    "gloss": "support, base, foundation → मूलाधार = the root-support cakra at the base of the spine"
+   },
+   {
+    "dev": "एक",
+    "gloss": "one, sole, alone (आधार + एक → आधारैक, अ + ए → ऐ)"
+   },
+   {
+    "dev": "निलया",
+    "gloss": "abode, dwelling; she whose abode it is (नि + लय)"
+   }
+  ],
+  "meaning": "She whose sole abode is the mūlādhāra.",
+  "vigraha": [
+   "मूलाधारः एकः निलयः यस्याः सा।"
+  ]
+ },
+ "100": {
+  "split": "ब्रह्म-ग्रन्थि-विभेदिनी",
+  "splitIast": "brahma-granthi-vibhedinī",
+  "words": [
+   {
+    "dev": "ब्रह्म",
+    "gloss": "Brahmā → ब्रह्मग्रन्थि = the Brahma-knot, first of the three obstructing knots, at the mūlādhāra"
+   },
+   {
+    "dev": "ग्रन्थि",
+    "gloss": "knot, node, tie (from ग्रन्थ् \"to bind\")"
+   },
+   {
+    "dev": "विभेदिनी",
+    "gloss": "she who splits open, pierces, sunders (वि + भेदिनी, from भिद् \"to cleave\")"
+   }
+  ],
+  "meaning": "She who pierces the Brahma-knot.",
+  "vigraha": [
+   "ब्रह्मग्रन्थिं विभिनत्तीति।"
+  ]
+ },
+ "101": {
+  "split": "मणिपूर-अन्तः-उदिता",
+  "splitIast": "maṇipūra-antaḥ-uditā",
+  "words": [
+   {
+    "dev": "मणि",
+    "gloss": "gem, jewel"
+   },
+   {
+    "dev": "पूर",
+    "gloss": "filled, replete; also city → मणिपूर = the navel cakra, \"the one filled with gems\""
+   },
+   {
+    "dev": "अन्तः",
+    "gloss": "within, inside (मणिपूर + अन्तः → मणिपूरान्तः; अन्तः + उदिता → अन्तरुदिता, visarga → र् before a vowel)"
+   },
+   {
+    "dev": "उदिता",
+    "gloss": "risen, arisen, come forth (उत् + इता, from इ \"to go\")"
+   }
+  ],
+  "meaning": "She who rises up within the Maṇipūra cakra.",
+  "vigraha": [
+   "मणिपूरस्य अन्तः उदिता।"
+  ]
+ },
+ "102": {
+  "split": "विष्णु-ग्रन्थि-विभेदिनी",
+  "splitIast": "viṣṇu-granthi-vibhedinī",
+  "words": [
+   {
+    "dev": "विष्णु",
+    "gloss": "Viṣṇu → विष्णुग्रन्थि = the Viṣṇu-knot, second of the three, at the heart (anāhata)"
+   },
+   {
+    "dev": "ग्रन्थि",
+    "gloss": "knot, node"
+   },
+   {
+    "dev": "विभेदिनी",
+    "gloss": "she who pierces, splits open (वि + भिद्)"
+   }
+  ],
+  "meaning": "She who pierces the Viṣṇu-knot.",
+  "vigraha": [
+   "विष्णुग्रन्थिं विभिनत्तीति।"
+  ],
+  "note": "From 99 the namas trace the kuṇḍalinī ascent, and they alternate — a cakra reached, then the knot above it broken. The three granthis are Brahma at the base, Viṣṇu at the heart, Rudra at the brow; 103–104 complete the pattern with आज्ञाचक्रान्तरालस्था and रुद्रग्रन्थिविभेदिनी before the sahasrāra is reached in 105."
+ },
+ "103": {
+  "split": "आज्ञा-चक्र-अन्तराल-स्था",
+  "splitIast": "ājñā-cakra-antarāla-sthā",
+  "words": [
+   {
+    "dev": "आज्ञा",
+    "gloss": "command → आज्ञाचक्र, the wheel of command at the brow"
+   },
+   {
+    "dev": "चक्र",
+    "gloss": "wheel"
+   },
+   {
+    "dev": "अन्तराल",
+    "gloss": "the interior, intervening space (अन्तर + आल)"
+   },
+   {
+    "dev": "स्था",
+    "gloss": "abiding"
+   }
+  ],
+  "meaning": "She who abides in the interior of the Ājñā cakra."
+ },
+ "104": {
+  "split": "रुद्र-ग्रन्थि-विभेदिनी",
+  "splitIast": "rudra-granthi-vibhedinī",
+  "words": [
+   {
+    "dev": "रुद्र",
+    "gloss": "Rudra → रुद्रग्रन्थि, the last knot, at the brow"
+   },
+   {
+    "dev": "ग्रन्थि",
+    "gloss": "knot"
+   },
+   {
+    "dev": "विभेदिनी",
+    "gloss": "she who pierces (वि + भिद्)"
+   }
+  ],
+  "meaning": "She who pierces the Rudra-knot."
+ },
+ "105": {
+  "split": "सहस्रार-अम्बुज-आरूढा",
+  "splitIast": "sahasrāra-ambuja-ārūḍhā",
+  "words": [
+   {
+    "dev": "सहस्रार",
+    "gloss": "thousand (सहस्र) + spoke (अर) → सहस्रार, the thousand-petalled crown cakra"
+   },
+   {
+    "dev": "अम्बुज",
+    "gloss": "lotus (अम्बु = water + ज = born)"
+   },
+   {
+    "dev": "आरूढा",
+    "gloss": "having ascended (आ + रूढ, from रुह्)"
+   }
+  ],
+  "meaning": "She who has ascended the thousand-petalled lotus."
+ },
+ "106": {
+  "split": "सुधा-सार-अभिवर्षिणी",
+  "splitIast": "sudhā-sāra-abhivarṣiṇī",
+  "words": [
+   {
+    "dev": "सुधा",
+    "gloss": "nectar, ambrosia"
+   },
+   {
+    "dev": "सार",
+    "gloss": "essence, choicest extract"
+   },
+   {
+    "dev": "अभिवर्षिणी",
+    "gloss": "she who showers down abundantly (अभि + वृष्)"
+   }
+  ],
+  "meaning": "She who showers down the very essence of nectar.",
+  "note": "The ascent completes at 105 and then reverses direction: 106 pours the amṛta back down. The root वृष् recurs from nama 79 — counter-missiles rained on Bhaṇḍāsura there, nectar on the devotee here. Likewise आरूढा, last seen mounting war-chariots in 67–70, now mounts a lotus."
+ }
+}
