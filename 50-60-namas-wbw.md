@@ -17112,3 +17112,1700 @@ Textual note for verses 81–90.
 **Ten of the sixteen Nityās are namas of the thousand**, on Sastry's list at 391 — Bhagamālinī (277), Nityaklinnā (388), Vahnivāsinī (352), Śivadūtī (405), Nityā (136), Vijayā (346), Sarvamaṅgalā (200), Jvālāmālinī (71), Tripurasundarī (234, 997), and Citrā. That is a closer overlap than the text has with any other set it draws on.
 
 **And 392 श्रीकण्ठार्धशरीरिणी returns nama 1's poison-reading of श्री** — the only two places in the text where श्री means poison — then identifies Śrīkaṇṭha with the letter अ, argues that अ is half of every syllable, and closes by observing that half the *written* अ resembles the Kāmakalā. It is the only argument in the thousand that turns on how a letter looks on the page.
+
+
+---
+
+## तत्त्वासना तत्त्वमयी पञ्चकोशान्तरस्थिता । निःसीममहिमा नित्ययौवना मदशालिनी
+
+*tattvāsanā tattvamayī pañcakośāntarasthitā । niḥsīmamahimā nityayauvanā madaśālinī*
+
+Verse 91, namas 424–431.
+
+> **This verse settles a question left open at 907 and at 1000.** The Paribhāṣā verses at the end of the text prescribe that तत्त्वमयी be divided as तत् + त्वम् + अयि, and the note at 907 could not see where the rule applied, since 907 was read there as तत्त्व + मयी. The word occurs twice in the thousand, and this is the other occurrence — where the rule *is* applied, producing three namas, 425, 426 and 427. So तत्त्वमयी stands to 907 exactly as साध्वी at 711–712 stands to its undivided occurrence: written twice, divided once. And the Paribhāṣā's two neuter namas, तत् and ब्रह्म, are now both placed — तत् is 425 and ब्रह्म is 822.
+
+424. तत्त्वासना → तत्त्व-आसना
+
+तत्त्व = a reality, a category of existence — तत् "that" with the abstract त्व
+आसना = seat, posture (from आस् "to sit"); and per the second reading, from अस् "to throw away"
+"She whose seat is the tattvas."
+
+Vigraha: तत्त्वानि आसनं यस्याः सा।
+
+Sandhi: तत्त्व + आसना → तत्त्वासना (आ by 6.1.101).
+
+"Tattvas, the thirty-six categories from Earth to Śiva; āsana, a posture called Yogapīṭha." So the seat is not a place but the whole scale of being, taken as a posture.
+
+Then a re-division that inverts the sense: "or tattvas, the categories; āsana, she rejects" — reading the second member from अस् "to throw" rather than आस् "to sit." On the first She sits on the categories; on the second She throws them off.
+
+**That pair is 906–907's contradiction compressed into a single nama.** There तत्त्वाधिका "beyond the tattvas" stood against तत्त्वमयी "made of the tattvas," and the commentary spent four resolutions reconciling them; here the same opposition is got out of one word by taking its second member two ways, and nothing is reconciled. The criterion by which the thirty-six are counted is 906's: "what remains till the pralaya, giving enjoyment to all beings, that is called tattva."
+
+आसन is the seat-word of 58 पञ्चब्रह्मासनस्थिता, 249 पञ्चप्रेतासनासीना and 905 बैन्दवासना — a couch of five gods, of five corpses, of the bindu, and here of the categories.
+
+425. तत् → तत्
+
+तत् = "that" — the demonstrative pronoun, neuter; the first term of the mahāvākya
+"That."
+
+**"The word *tat* signifies the revolution of the mind; as Devī revolves in all buddhis she is signified by the word *tat*."**
+
+That is the whole entry. The nama is a bare pronoun, and it is one of the two neuter namas the Paribhāṣā verse at 1000 counts in the thousand — "two neuter, Tat and Brahman" — the other being 822 ब्रह्म, where the run took ब्रह्म as the neuter Absolute named without gender. Both are now identified.
+
+426. त्वम् → त्वम्
+
+त्वम् = "thou" — the second person pronoun; the second term of the mahāvākya
+"Thou."
+
+**"The word *tvam* also signifies Devī."**
+
+Five words, for the second half of *tat tvam asi*. It is the shortest commentary in the text after 733 नन्दिविद्या.
+
+427. अयि → अयि
+
+अयि = a vocative and interrogative particle — "O!"; also, per the second reading, an adjective, "fortunate"
+"O!"
+
+Two readings. "This word is used in interrogation; Devī is addressed by this word as she is the mother of all." Or "ayi, fortunate one."
+
+**So 425–427 are the mahāvākya with a vocative and without its copula** — *tat tvam, ayi*, "That thou — O!" The verb असि is not in the verse, and neither Bhāskararāya nor the Paribhāṣā supplies it; the identity is left to the juxtaposition. Bhaṭṭanārāyaṇa declines the division altogether and keeps the three as one तत्त्वमयी, which Bhāskararāya records and does not follow.
+
+The mahāvākya is now in the thousand four times, and each time differently. 363 तत्पदलक्ष्यार्था takes तत् alone and specifies its *indirect* denotation, the technical लक्ष्यार्थ against the literal वाच्यार्थ. 908 तत्त्वमर्थस्वरूपिणी makes Her the meaning of both words at once. 907 तत्त्वमयी is the same word undivided. And here it is divided into its terms and each term is a name.
+
+These three are also the text's shortest namas, and with them the thousand contains a demonstrative, a personal pronoun and a particle among its names — beside 535–536 स्वाहा and स्वधा, which the Paribhāṣā counts as the two indeclinables, and 712 ई, which is a single vowel. Five of the thousand names are not nouns.
+
+428. पञ्चकोशान्तरस्थिता → पञ्च-कोश-अन्तर-स्थिता
+
+पञ्च = five
+कोश = a sheath, a covering; also a treasury, and a lexicon
+अन्तर = within, inside
+स्थिता = abiding, standing (from स्था)
+"She who abides within the five sheaths."
+
+Vigraha: पञ्चानां कोशानाम् अन्तरे स्थिता।
+
+Sandhi: कोश + अन्तर → कोशान्तर (आ by 6.1.101).
+
+**The commentary gives two entirely different sets of five, and takes both.**
+
+The first is ritual rather than anatomical: "these five kośas are the five employed in the worship of the five deities. These five are, according to the Jñānārṇava, Śrīvidyā, Paraṃjyotis, Parā, Niṣkalaśāmbhavī and the Ajapāmantra, and these are called the five sheaths." The last four "are to be worshipped individually and collectively in the Sṛṣṭi and other cakras which surround the Śrīcakra," while "the Śrīvidyā is the Bindu in the centre." So She is in the midst of the five as the centre of a diagram, and three of the five are themselves namas — 585 श्रीविद्या, 806 परंज्योतिः, and परा at 366 and 572.
+
+The second is the Taittirīya's: "annamaya, prāṇamaya, manomaya, vijñānamaya and ānandamaya, each involved in the preceding one; of these five the innermost is the ānandamaya, and with that she is identified."
+
+**Then a doctrinal dispute, stated as one.** The Vedānta Sūtra's ānandamaya section (1.1.12–19) was read by the Vṛttikāra as making the ānandamaya Brahman; "but our holy Ācārya says that the ānandamaya sheath is not Brahman, because it is impure and is included among the annamaya and other sheaths which are to be abandoned." The answer offered is the Śrīkaṇṭha Bhāṣya's: "the ānandamaya is in the form of Cit-Śakti which is the body of Brahman, who is the Parākāśa itself," on Taittirīya 2.7.1, "this ether is ānanda."
+
+Bhāskararāya then takes the side that suits the nama. "In the opinion that Brahman is the support of the ānandamaya, the meaning is that she is in the centre of these five" — and he calls that correct, on the Brahma Gītā (Sūta Saṃhitā 3.45–46): "so the ānandamaya also is filled by another Brahman which is the witness, omnipresent. That Brahman is called the support, which is existence, wisdom and unity. That is the one ever remaining essence. O great Devas, do not think otherwise."
+
+**This is the entry the run's other four kośa-namas depend on.** At 690 कोशनाथा the whole gloss is a truncated list, "Kośa may mean the five sheaths, viz. Annamaya—", and stops. At 821 ब्रह्माणी the first reading is ब्रह्मा + अणि, "tail of a bird," making Her the Brahman that forms the sheath's tail on this same Vedānta Sūtra section. At 728 कलिका She is "the bud of the Ānandamaya sheath." At 948 पञ्चमी She is "the last in the deities of the five sheaths." Only here is the point argued rather than asserted, and only here is it said which of the two rival positions the commentary holds.
+
+And Durvāsa closes it: "the Krodhabhaṭṭāraka also says — O mother, blazing with radiant light, he who knows you as surrounded by the five sheaths, anna, prāṇa, manas, buddhi and ānanda, with the marks of head, wings, support and trunk described by the words of the Mahopaniṣad, indeed is the knower of Brahman." Head, wings, tail and trunk are the Taittirīya's bird-figure, which is exactly what 821's "tail" reading requires. Krodhabhaṭṭāraka is Durvāsa, twelfth of the twelve holders of the Pañcadaśī at 238 and 812.
+
+429. निःसीममहिमा → निःसीम-महिमा
+
+निःसीम = boundless, without limit (निः "without" + सीमन् "a boundary")
+महिमा = greatness, majesty (महिमन्, the abstract of महत्)
+"She whose majesty is boundless."
+
+Vigraha: निःसीमः महिमा यस्याः सा।
+
+index.html carries no commentary for this nama, and the reason is a displacement rather than an omission: 429's gloss and body are verbatim copies of 428's, and this nama's own heading — "Illimitable Majesty. (Nissīma-mahimā.)" — is stranded at the foot of 428's body, with a stray numeral before it. So the entry stands in the printed text and has been swallowed by its predecessor.
+
+**That is the same fault as 396–397**, where 396 carried 395's gloss and body and 397's gloss held 396's stranded heading. Both are one-place displacements with the heading left behind, and this is the second instance.
+
+महिमन् does not occur elsewhere in the thousand. The abstract of महत् is used once, while the word it is built on runs through the text constantly — महाविद्या, महाशना, महालक्ष्मी and the rest.
+
+430. नित्ययौवना → नित्य-यौवना
+
+नित्य = eternal, perpetual, constant
+यौवना = youth, the state of being young (यौवन, vṛddhi from युवन्)
+"The eternally youthful."
+
+Vigraha: नित्यं यौवनं यस्याः सा।
+
+"Because she is devoid of old age in the three periods" — past, present and future. The claim is deliberately tensed: not that She is young now, but that there is no time at which She ages.
+
+जरा, old age, is the third term of 851 जन्ममृत्युजरातप्तजनविश्रान्तिदायिनी, where She gives rest to those scorched by birth, death and old age; and 553 व्याधिविनाशिनी widens व्याधि to include "old age and the rest." There the ageing is the devotee's and She removes it; here it is denied of Her.
+
+**And the nama stands against the girl-ages series** that runs the length of the text, where She is named by a specific year ten times — Sandhyā at one (422), Sarasvatī at two (704), Trimūrti at three (628), Subhagā at five (761), Caṇḍikā at seven (755), Śāmbhavī at eight (122), Durgā at nine (190), Gaurī at ten (635), Bhairavī at twelve (276), Mahālakṣmī at thirteen (210). Ten namas fix Her at an age; this one refuses the scale.
+
+431. मदशालिनी → मद-शालिनी
+
+मद = intoxication, rapture (from मद् "to be exhilarated"); also pride, musk, rut, liquor
+शालिनी = possessed of, endowed with, resplendent with (the suffix शालिन्)
+"She who shines with rapture."
+
+Vigraha: मदेन शालिनी।
+
+**"Mada, a kind of bliss untainted by worldly things."**
+
+The gloss is a correction, and it is needed, because मद is the most contested word in the thousand. 158 निर्मदा denies pride of Her outright. 576 मत्ता affirms drunkenness and then makes it "the state of egoism, the Parāhantā of Parā Śiva," supreme I-ness. 856 गर्विता specifies the pride as "supreme egoism concerning the creation of the universe." 159 मदनाशिनी makes Her its destroyer. This nama does what none of the four does: it defines the मद before predicating it, as an ānanda with no worldly object. Read back, that is the term 576 and 856 need, and it is not the term 158 is denying.
+
+And मद governs the next two namas as well — 432 मदघूर्णितरक्ताक्षी and 433 मदपाटलगण्डभूः. Three in a row on one word, which the text does again with कुल in the verse after next.
+
+Textual note. 425's dev field carries तत्त्वमयी as well as तत्, and the verse text carries the undivided word and its three parts together — तत्त्वमयी तत् त्वं अयी — so the division has been interpolated into the line rather than replacing it. 426 and 427 have no pada-cheda, correctly, being single words. 429's gloss and body are 428's.
+
+
+---
+
+## मदघूर्णितरक्ताक्षी मदपाटलगण्डभूः । चन्दनद्रवदिग्धाङ्गी चाम्पेयकुसुमप्रिया
+
+*madaghūrṇitaraktākṣī madapāṭalagaṇḍabhūḥ । candanadravadigdhāṅgī cāmpeyakusumapriyā*
+
+Verse 92, namas 432–435.
+
+432. मदघूर्णितरक्ताक्षी → मद-घूर्णित-रक्त-अक्षी
+
+मद = rapture, intoxication
+घूर्णित = rolling, whirling, swimming (from घूर्ण् "to turn round")
+रक्त = red, reddened; and equally, attached, impassioned — both from रञ्ज् "to dye"
+अक्षी = eyed (अक्षि with the feminine)
+"She whose reddened eyes roll with rapture."
+
+Vigraha: मदेन घूर्णिते रक्ते अक्षिणी यस्याः सा।
+
+Sandhi: रक्त + अक्षी → रक्ताक्षी (आ by 6.1.101).
+
+**"Ghūrṇana, rolling — turned away from worldly things."**
+
+Six words, and they gloss the description away entirely: the rolling of the eyes is not unsteadiness but aversion, and मद keeps the sense 431 had just fixed for it. The nama looks like a portrait and is read as a disposition.
+
+रक्त is the double word of 937 विरागिणी, where राग means passion and colour alike because both come from रञ्ज् "to dye" — and there the point was that no colour is properly Hers. Here the same root supplies the redness of the eye, and Bhāskararāya glosses the rolling and leaves the colour alone.
+
+433. मदपाटलगण्डभूः → मद-पाटल-गण्ड-भूः
+
+मद = rapture; and per the alternative, musk
+पाटल = pale red, rose-coloured; also the pāṭalī, the trumpet-flower
+गण्ड = the cheek
+भूः = ground, surface, region (from भू "to become")
+"She the ground of whose cheeks is rosy with rapture."
+
+Vigraha: मदेन पाटला गण्डभूः यस्याः सा।
+
+"Pāṭala, rose colour." Then an alternative that turns the compound from a blush into a cosmetic: "or mada, musk; pāṭala, a kind of flower — by these her cheeks are painted and perfumed." On the first reading the colour rises from within; on the second it is applied.
+
+**And then the lexicon, which is the entry's most useful line.** "Mada, according to the Viśva, means semen, musk, pride, joy, the rut of an elephant, and liquor." Six senses — and the run has by now used four of them: pride at 158 and 856, joy at 431, musk here, and liquor behind 576 मत्ता's drunkenness. The Viśva is the text's standing lexicon, quoted for चण्ड at 827, for मह at 109, for वीर at 836 and 898, and for मुग्ध at 868.
+
+Musk is also 16 मुखचन्द्रकलङ्काभमृगनाभिविशेषका's substance, where the forehead-mark is मृगनाभि, "the deer's navel" — itself a metaphor. So the same material is named twice in the thousand under two different figures, once on the brow and once on the cheek.
+
+434. चन्दनद्रवदिग्धाङ्गी → चन्दन-द्रव-दिग्ध-अङ्गी
+
+चन्दन = sandal, sandalwood
+द्रव = fluid, liquid, paste (from द्रु "to flow")
+दिग्ध = smeared, anointed (from दिह् "to smear")
+अङ्गी = limbed, bodied (अङ्ग with the feminine)
+"She whose limbs are smeared with liquid sandal."
+
+Vigraha: चन्दनद्रवेण दिग्धानि अङ्गानि यस्याः सा।
+
+Sandhi: दिग्ध + अङ्गी → दिग्धाङ्गी (आ by 6.1.101).
+
+index.html has no commentary for this nama; the gloss is Sastry's rendering of the compound.
+
+अङ्गी is the second member of 50 अनवद्याङ्गी, the flawless-limbed, which is the nama that closes the head-to-foot description. The limbs called faultless there are the limbs anointed here.
+
+435. चाम्पेयकुसुमप्रिया → चाम्पेय-कुसुम-प्रिया
+
+चाम्पेय = of the campaka — the vṛddhi derivative of चम्पक
+कुसुम = a flower, a blossom
+प्रिया = fond of, to whom it is dear
+"She who is fond of the campaka flower."
+
+Vigraha: चाम्पेयकुसुमानि प्रियाणि यस्याः सा।
+
+index.html has no commentary for this nama.
+
+चम्पक is the first of the four flowers in Her hair at 13 चम्पकाशोकपुन्नागसौगन्धिकलसत्कचा — so the same blossom is named twice in the thousand, there as what She wears and here as what She likes. And the taddhita चाम्पेय is the same vṛddhi derivation that gives कौलिनी from कुल at 94 and कौल from कुल in the last nama of the next verse.
+
+**432–435 are the aṅga-description resumed.** The head-to-foot varṇana ran from 13 to 51 and closed there, and the text had not returned to physical description at length since — 924's faint smile and 936 विशालाक्षी are single namas. Here four stand together, the eyes, the cheeks, the limbs and the flower, with 437 कोमलाकारा adding a fifth in the next verse. Bhāskararāya comments on only the first two, and in both cases to convert the description into something else: the rolling eyes are aversion to the world, the flush is either rapture or applied musk.
+
+Textual note. 434 and 435 have no commentary body — two of the four namas in this verse. Neither 432 nor 433 carries a pada-cheda in the data.
+
+
+---
+
+## कुशला कोमलाकारा कुरुकुल्ला कुलेश्वरी । कुलकुण्डालया कौलमार्गतत्परसेविता
+
+*kuśalā komalākārā kurukullā kuleśvarī । kulakuṇḍālayā kaulamārgatatparasevitā*
+
+Verse 93, namas 436–441.
+
+436. कुशला → कुशला
+
+कुशल = skilful, expert, adroit; also welfare, well-being
+कुश = per the lexicographers, water; and per the third reading, कु = inferior
+"The Skilful One."
+
+Vigraha: कुशं लातीति कुशला।
+
+"As she exhibits skill in the creation and the rest." So the skill is cosmological, exactly as 938 प्रगल्भा's boldness was — "she is strong in the action of creation and the rest." Neither nama names a temperament.
+
+Then two re-divisions. "Or kuśa, water; la, receiver" — taking कुश in the lexicographers' sense of water, which is also the classical vigraha of the word, so She is what receives the waters. And "or ku, inferior; śala, moon — as she is possessed of greater brightness, the moon is inferior in comparison."
+
+The third is the run's ordinary device of re-cutting a word to get a comparison, and it belongs with the moon-namas: 15 and 16 build the face as the full moon with the musk mark for its blemish, and 153 निष्कलङ्का then denies Her the blemish. Here the moon is not corrected but demoted.
+
+437. कोमलाकारा → कोमल-आकारा
+
+कोमल = soft, tender, delicate
+आकारा = form, shape, appearance (आ + कृ "to make")
+"She of tender form."
+
+Vigraha: कोमलः आकारः यस्याः सा।
+
+Sandhi: कोमल + आकारा → कोमलाकारा (आ by 6.1.101).
+
+index.html has no commentary for this nama.
+
+**The pada carried in this file reads कोमला-कारा at full confidence**, which puts the आ on the wrong side of the joint and leaves कार, "a maker," as the second member. The split is कोमल + आकार. That is the same class of error as 937's विरा-अगिणी, and worse in one respect: this one is recorded with pconf 1.
+
+438. कुरुकुल्ला → कुरुकुल्ला
+
+कुरुकुल्ला = Kurukullā, a goddess of the Śrīcakra
+"Kurukullā."
+
+**"This deity is located in the tank called Vimarśamaya in the Śrīcakra, in the space between the walls of Cit and Ahaṃkāra."**
+
+That is the fifth placement-by-wall in the text and the first that names the walls instead of numbering them. 297 हरिब्रह्मेन्द्रसेविता and 305 राजराजार्चिता put the Lokapālas and Kubera between the fourteenth and fifteenth, 686 राज्यवल्लभा the protectors between the thirteenth and fourteenth, 785 मार्ताण्डभैरवाराध्या Mārtāṇḍabhairava between the twenty-second and twenty-third. Here the interval is given by name — the wall of Cit and the wall of Ahaṃkāra — and what stands in it is a tank.
+
+Durvāsa's Lalitāstavaratna (97) is quoted for it: "I ever meditate on that Kurukullā, who resides in the ruby Kuruvinda, whose waist is bent by the weight of her breasts which put mountains to shame, and whose body is smeared with red paste." And "this deity is described in the twenty-second chapter of the Tantrarāja."
+
+So this is the fourth Lalitāstavaratna citation in the run, after 305, 686 and 785, and all four are placements in the diagram. Durvāsa is quoted for where things stand and for nothing else.
+
+**And the kuruvinda is 14's stone.** At 14 कुरुविन्दमणिश्रेणीकनत्कोटीरमण्डिता the ruby of that name is set in Her crown, with the Garuḍa Purāṇa's chapter on jewels quoted for the mines it comes from. The gem in the crown at 14 is the gem this goddess lives inside at 438.
+
+Vimarśa is 572's technical term — "the inherent vibration of Parabrahman who is in the Prakāśa aspect" — so the tank is named for the Śakti-pole of that pair, which is where a goddess would be placed.
+
+439. कुलेश्वरी → कुल-ईश्वरी
+
+कुल = a family, a lineage; the Kaula and its mūlādhāra sense; and per the commentary, the epistemic triad
+ईश्वरी = mistress, ruler (ईश्वर with the feminine)
+"The Mistress of the Kula."
+
+Vigraha: कुलस्य ईश्वरी।
+
+Sandhi: कुल + ईश्वरी → कुलेश्वरी (गुण, अ + ई → ए, Pāṇini 6.1.87 आद्गुणः).
+
+**"Kula, the triad — viz., the measurer, the measurement, and the thing measured."**
+
+That is 234 त्रिपुरा's triad exactly, where it is given as the fifth etymology of the name — "Tripurā, city of the three, that is the measurer, the measuring, and the thing measured" — and where the run noted that it agrees with none of the four etymologies at 875, 905, 976 and 997. It is given here as the sense of कुल. So the same epistemic three name Her twice, once as a city and once as a family, and the two namas are two hundred apart with no cross-reference between them.
+
+And the reading is not the Kaula one, which the next two namas use. कुल therefore carries two unrelated senses inside a single verse.
+
+The कुल-namas 90–96 stand three hundred and forty back — कुलामृतैकरसिका, कुलसंकेतपालिनी, कुलाङ्गना, कुलान्तस्था, कौलिनी, कुलयोगिनी and अकुला — where the word meant the Kaula lineage throughout and 96 अकुला was the hinge past it. This verse resumes the set and opens it with a sense that group never used.
+
+440. कुलकुण्डालया → कुल-कुण्ड-आलया
+
+कुल = the Kula
+कुण्ड = a bowl, a pit, a hollow
+आलया = abode, dwelling (आ + ली); and per the second reading, आ + लय, a place of rest
+"She whose abode is the Kulakuṇḍa."
+
+Vigraha: कुलकुण्डम् आलयः यस्याः सा।
+
+Sandhi: कुण्ड + आलया → कुण्डालया (आ by 6.1.101). The pada carried in this file reads कुल-कुण्डा-लया, which puts the आ on the wrong side of the joint and makes लय a member — the same fault as 437, in the same verse.
+
+"Kulakuṇḍa is the bindu which is in the centre of the pericarp of the mūlādhāra. It is like the small cavity in the centre of the pericarp of a lotus." So the abode is a point inside a point, and the simile is botanical rather than architectural.
+
+Then a second reading that turns the dwelling into a bed: "or ālaya, the place of rest in sleep — that is, the place of rest of Kuṇḍalinī." And the Ācārya's Saundaryalaharī 10: "after reaching your own place, assuming the form of a coiled serpent, you sleep in the cavity of the Kulakuṇḍa."
+
+**Kulakuṇḍa is 111's word.** At बिसतन्तुतनीयसी Bhāskararāya derives कुमारी as कु "earth" and मृ "absorption" — "that is Kulakuṇḍa, the mūlādhāra" — and sets out the three stages of the girl, the woman and the wife by how far she has risen. That entry is where the serpent sleeps; this nama names the place she sleeps in, and the Saundaryalaharī verse quoted here is the same posture 110 कुण्डलिनी describes on the Vāmakeśvara Tantra, "in the form of a serpent, lotus-fibre fine, tail in mouth."
+
+441. कौलमार्गतत्परसेविता → कौल-मार्ग-तत्पर-सेविता
+
+कौल = of the Kaula path (vṛddhi from कुल)
+मार्ग = a path, a way (from मृग् "to seek")
+तत्पर = intent upon, holding that as highest (तत् + पर)
+सेविता = served, attended, worshipped (from सेव्)
+"She who is worshipped by those devoted to the Kaula path."
+
+Vigraha: कौलमार्गे तत्पराः, तैः सेविता।
+
+"Mārga, the path handed down by family tradition. Kula is so called because it is connected with the mūlādhāra." The Vratakhaṇḍa: "that Devī who is established by family custom should be worshipped in that customary way by offerings, scents and the rest. She is to be worshipped by oblations in the family customary way."
+
+**Then the three modes, which is the entry's substance and the scheme 97–98 rest on.** "There are three modes in the worship of Devī, viz. Samaya, Miśra and Kaula. The first is the path laid down in the Vedas and also described in the five Āgamas of Śuka, Vasiṣṭha and the rest. The second is that which is described in the eight Tantras, Candrakalā and others; it is called mixed because it partakes of both. The Kaula mode, which differs from the above two, is described in other Tantras. Kaula is so called because it is sought for by the Kaulas. The characteristics of these modes of worship and of their devotees are described in the corresponding Tantras."
+
+So the three are classified by scripture and not by practice: five Āgamas for the Samaya, eight named Tantras for the Miśra, the remainder for the Kaula. **And two of the three are namas.** 97 समयान्तस्था and 98 समयाचारतत्परा name the first — and 98 has this nama's own second half, तत्परा, so the two are built to the same pattern three hundred and forty apart. This nama names the third. The Miśra is not a nama of the thousand, which is the one thing the text does not say about the scheme.
+
+The note at 97–98 held that Bhāskararāya ranks the Samaya higher, the two being the inner and the outer worship. This entry does not repeat the ranking; it only orders the three, Vedic first.
+
+Textual note. The verse text carries a doubled daṇḍa at the caesura. Three of this verse's six namas have no pada-cheda in the data, and two of the three that do — 437 and 440 — are wrong in the same way, an आ assigned to the wrong member, one of them at full confidence. 437 has no commentary body.
+
+
+---
+
+## कुमारगणनाथाम्बा तुष्टिः पुष्टिर्मतिर्धृतिः । शान्तिः स्वस्तिमती कान्तिर्नन्दिनी विघ्ननाशिनी
+
+*kumāragaṇanāthāmbā tuṣṭiḥ puṣṭirmatirdhṛtiḥ । śāntiḥ svastimatī kāntirnandinī vighnanāśinī*
+
+Verse 94, namas 442–451.
+
+> **The numbering in index.html is wrong from 445 to 474, and the entries below are numbered against the commentary rather than against the data.** Nama 444's dev field carries three namas glued into one — पुष्टिर्मतिर्धृतिः — so the dev sequence loses two slots, and from 445 onward every dev field stands two places lower than the nama it names. The glosses and bodies keep the printed numbering throughout, so the two can be checked against each other at every step, and they disagree by exactly two for thirty namas. **The deficit is then repaired by two errors of the opposite sign.** 470 वयोऽवस्थाविवर्जिता is split into two entries, वयो and वस्थाविवर्जिता; and the printed running title, श्रीललितासहस्रनामस्तोत्रम्, is taken for a nama and given a slot of its own. Two namas lost and two spurious ones gained, so the count comes right again at 475 विशुद्धिचक्रनिलया, which is correctly numbered in both schemes. The verse table inherits all of it: there is no row for verse 94 at all, verse 95 is given as 442–456 with the two verses merged into one line of fifteen namas, and verses 96 and 97 are each two low.
+
+442. कुमारगणनाथाम्बा → कुमार-गणनाथ-अम्बा
+
+कुमार = Kumāra, Skanda; and per the second reading, ahaṃkāra, egoism, whose presiding deity is Kumāra
+गणनाथ = Gaṇanātha, Gaṇeśa — lord of the hosts
+अम्बा = mother; and per the re-division, the binder
+"The Mother of Kumāra and Gaṇanātha."
+
+Vigraha: कुमारस्य गणनाथस्य च अम्बा।
+
+Sandhi: गणनाथ + अम्बा → गणनाथाम्बा (आ by 6.1.101).
+
+"Kumāra, Skanda; Gaṇanātha, Gaṇeśa." Then a re-division that dismantles the compound entirely: "or ku, inferior; maragaṇa, the aggregate of passional ideas; nāthas, the lords of the above; ambā, the binder — she binds those who possess the qualities of egoism."
+
+**And then the identification that gives the re-division its point.** "Kumāra, the ahaṃkāra, whose deity is Kumāra." The Varāha Purāṇa: "Viṣṇu is the Person, or Śiva by that name is called; Avyakta is Umā or Lakṣmī, the lotus-eyed; ahaṃkāra arises from the interaction of these two. This egoism is the Guha, the leader of the army." So Skanda is the I-sense, born of Puruṣa and Avyakta, and to be his mother is to be the mother of egoism.
+
+Ahaṃkāra was a wall of the Śrīcakra four namas back — 438 put Kurukullā's tank "between the walls of Cit and Ahaṃkāra." The same term is a partition of the diagram there and a god here.
+
+Gaṇeśa is 77 and 78's, where he is created out of Kāmeśvara's glance and then breaks Bhaṇḍa's obstacle-yantra. **This verse names Her his mother in its first nama and gives Her his office in its last** — 451 विघ्ननाशिनी, nine names on.
+
+443. तुष्टिः → तुष्टिः
+
+तुष्टिः = contentment, satisfaction (from तुष् "to be pleased")
+"Contentment."
+
+Vigraha: तुष्यतीति तुष्टिः।
+
+**"There are seven names, viz. contentment, nourishment, wisdom, might, tranquillity, benevolence, beauty. He proceeds to praise Devī under these names."**
+
+So Bhāskararāya opens a labelled set and says how far it runs: 443 तुष्टि, 444 पुष्टि, 445 मति, 446 धृति, 447 शान्ति, 448 स्वस्तिमती, 449 कान्ति. Seven abstract nouns, each taken as a deity in her own right. It is the only run of bare abstractions in the thousand, and the commentary marks its extent before beginning — which it does nowhere else except at the six-cakra sequence that starts at 475.
+
+The Mārkaṇḍeya Purāṇa is quoted in the form the Devī Māhātmya repeats: "the goddess who resides as contentment in all beings, adoration to her." The same in the Mallāri Māhātmya. And the Devī Bhāgavata, Book III: "that mother who is in all beings in the form of understanding, fame, firmness, prosperity, energy, faith, intelligence and memory."
+
+**And the Padma Purāṇa locates her: "Tuṣṭi is a deity in the Vastrāpatha Tīrtha."** That opens a run of place-identifications denser than anywhere else in the text — 444 in the Devadāruvana, 446 at Piṇḍāraka, 457 at Kāyāvarohaṇa, 458 on the Malaya, 464's Kālañjara, 471 at Benares. Six locations in thirty namas, against seven in the whole of the rest of the thousand.
+
+444. पुष्टिः → पुष्टिः
+
+पुष्टिः = nourishment, growth, thriving (from पुष् "to thrive")
+"Nourishment."
+
+Vigraha: पुष्यतीति पुष्टिः।
+
+**"This deity is in the Devadāruvana."** That is the entire entry — five words, and they are a location rather than a gloss.
+
+The Devadāruvana is the deodar forest of the sages' wives, the setting of the Śiva legend the Purāṇas tell at length; the commentary names it and passes on.
+
+445. मतिः → मतिः
+
+मतिः = thought, understanding, intelligence (from मन् "to think"); and per the Vāyu Purāṇa's etymology, from मा "to measure"
+"Intelligence."
+
+Vigraha: मन्यते इति मतिः।
+
+"Mati is explained in the Vāyu Purāṇa thus: Puruṣa bears the measuring rod, understands division, and thinks himself composed of parts — hence he is known as Mati."
+
+So the etymology is run through measurement, not through thinking: मति is what divides and portions. And the Sūta Saṃhitā (Sūta Gītā 5.89) keeps the same pun: "let us adore that Śiva who is worshipped by Viṣṇu and others, who is the bestower of bliss, who is known as Mati derived from experience, supreme, who knows — literally, measures — the Vedas, beneficent."
+
+**The measuring is 439 कुलेश्वरी's triad six namas back**, where कुल was glossed as "the measurer, the measurement, and the thing measured." Here the faculty that measures is itself a nama. And मा "to measure" is nama 1's second reading of माता — "that which measures Śrī" — so the root runs from the first nama of the thousand to this one.
+
+446. धृतिः → धृतिः
+
+धृतिः = firmness, constancy, fortitude (from धृ "to hold, to bear")
+"Fortitude."
+
+Vigraha: धरतीति धृतिः।
+
+**"This is the deity worshipped in the Piṇḍāraka place."** Again the whole entry is a location.
+
+धृ is the root of धात्री at 935, the world's sustainer, and of धर्म — so this nama, 884 धर्माधारा and 829 प्रतिष्ठा are three points on the support-thread that runs through the text. Here the holding is inward: not what bears the world but what holds a person steady.
+
+447. शान्तिः → शान्तिः
+
+शान्तिः = peace, tranquillity, cessation (from शम् "to be quiet")
+"Tranquillity."
+
+Vigraha: शाम्यतीति शान्तिः।
+
+"Or Śānti, a certain kalā belonging to Vāyu." The Śaivāgama: "that which gives place to a man struggling with the flood of impurity of āṇava, illusion of Māyā and change of Karma — that kalā is called Śānti. That is the abode which is the seat of dominion." And the Bṛhat-Parāśara Smṛti: "beyond the fifteen finger-breadths from the end of the nose, where the Jīva is purified, is the sixteenth part — that kalā is called Śānti."
+
+**Śānti now stands in the thousand three ways.** At 853 it is one of the five kalās, of which She is the fifth and highest. At 929 it heads the Kūrma Purāṇa's four Śaktis — Śānti, Vidyā, Pratiṣṭhā and Nivṛtti — of which She is the support. Here it is a nama on its own, and the commentary reaches for the kalā-sense unprompted, so the three passages are describing one thing.
+
+And the three impurities in the Śaivāgama quotation — āṇava, māyīya and kārma — are 354 पशुपाशविमोचिनी's three malas, where they were defined and nested and used to reduce seven possible bond-combinations to the three grades of soul at 133–135.
+
+448. स्वस्तिमती → स्वस्ति-मती
+
+स्वस्ति = well-being, benediction — सु "well" + अस्ति "it is"
+मती = possessing (the suffix मत्, feminine ङीप्)
+"She who possesses well-being."
+
+Vigraha: स्वस्ति अस्याः अस्तीति स्वस्तिमती।
+
+**The etymology is taken apart to the syllable and then made metaphysical.** "Su, exceedingly; asti, being; mat, having. Because her being is supreme reality, and not what ordinary people think to be reality." Bṛhadāraṇyaka 2.1.20 is cited for the distinction: "the senses are truth; this Brahman is their reality — that is the real of the real."
+
+So स्वस्ति is read as सु-अस्ति, "supremely is," and the नama becomes a statement about degrees of being rather than a benediction.
+
+Then the lexicons. "Svasti, according to the Ratnakośa, means benediction, benevolence, sinless, holy, auspiciousness." And Yāska: "svasti means immortality."
+
+Yāska returns from 416 चिच्छक्तिः, where the Yāska Smṛti was cited beside Pāṇini 8.2.101 for चित् meaning comparison. Two citations of the etymologist in the thousand, and both are lexical rather than doctrinal.
+
+449. कान्तिः → कान्तिः
+
+कान्तिः = loveliness, radiance, beauty (from कम् "to desire" — what is desired)
+"Effulgence."
+
+Vigraha: काम्यते इति कान्तिः।
+
+**"Or Kānti is the Icchā Śakti."** Six words, and they convert the last of the seven abstractions into the first of the three Śaktis.
+
+Icchā, Jñāna and Kriyā are 658's triad, where the Saṅketapaddhati makes them Her head, trunk and feet, and they are one row of 366 परा's correspondence-table, set against Ambikā and against Śāntā, Vāmā, Jyeṣṭhā and Raudrī. The identification is not arbitrary: कान्ति comes from कम्, and इच्छा is desire, so the beauty is named as the wanting.
+
+कम् is also the root of काम, which makes this nama and 62 कामाक्षी and 454 कामरूपिणी five namas on one word apart.
+
+And कान्ति returns as a nama at 465 कान्तिमती, sixteen names later. It is the only word in this stretch that is a nama twice, once bare and once with the possessive suffix.
+
+450. नन्दिनी → नन्दिनी
+
+नन्दिनी = the delighting one; a daughter (from नन्द् "to rejoice"); also a cow of Kāmadhenu's line; also a name of Gaṅgā
+"Nandinī."
+
+Vigraha: नन्दयतीति नन्दिनी।
+
+Three readings and no argument between them. "Daughter of Nanda." Or "Nandinī, a certain cow born in the family of the celestial cow." Or "Nandinī, Gaṅgā."
+
+The first makes Her the girl of the Kṛṣṇa story, exchanged in the night for the child; the text elsewhere claims Kṛṣṇa himself as one of Her forms, on the Tantrarāja's account of the Gopāla mantras, so the family is already Hers by another route. The second is Vasiṣṭha's cow. The third begins a small pattern: **three namas within eleven are each glossed as Gaṅgā** — this one, 455 मालिनी and 460 नलिनी. Three unrelated words, one river, and the commentary offers no reason.
+
+नन्द् is also Nandi's root — 733 नन्दिविद्या, the recension held by the ninth of the twelve.
+
+451. विघ्ननाशिनी → विघ्न-नाशिनी
+
+विघ्न = an obstacle, a hindrance (वि + हन् "to strike")
+नाशिनी = destroyer (from नश्, causative)
+"The Destroyer of obstacles."
+
+Vigraha: विघ्नान् नाशयतीति विघ्ननाशिनी।
+
+**"Vighna, hindrances to knowledge."** Four words, and they narrow the office sharply: not obstacles in general, but what stands in the way of knowing.
+
+**And the office is Gaṇeśa's, whose mother this verse made Her ten namas back.** At 78 महागणेशनिर्भिन्नविघ्नयन्त्रप्रहर्षिता it is Gaṇeśa who breaks the vighna-yantra Bhaṇḍa erects, and She who is delighted at it; here She removes obstacles herself and no one is delegated. The verse therefore opens and closes on the same god, once as Her son and once as a function She has taken over.
+
+नाशिनी is 159 मदनाशिनी's suffix, where the alternative re-divided the compound into मदन + अशन and turned the destroyer into an eater.
+
+Note on the verse. Ten namas, and seven of them are the labelled set — the only place in the thousand where the commentary announces a group before naming it and then keeps to the announcement exactly. Three of the seven have a location for a commentary and nothing else.
+
+Textual note. 444's dev field carries three namas — पुष्टिर्मतिर्धृतिः — and the two it swallows are the origin of the thirty-nama displacement described above. There is no verse-table row for this verse; its ten namas are folded into the row given for verse 95.
+
+
+---
+
+## तेजोवती त्रिनयना लोलाक्षीकामरूपिणी । मालिनी हंसिनी माता मलयाचलवासिनी
+
+*tejovatī trinayanā lolākṣīkāmarūpiṇī । mālinī haṃsinī mātā malayācalavāsinī*
+
+Verse 95, namas 452–458.
+
+452. तेजोवती → तेजस्-वती
+
+तेजस् = radiance, splendour, fiery energy; the fire-element
+वती = possessing (the suffix वत्, feminine ङीप्)
+"She who possesses splendour."
+
+Vigraha: तेजः अस्याः अस्तीति तेजोवती।
+
+Sandhi: तेजस् + वती → तेजोवती — the स् becomes उ before the voiced व् and अ + उ → ओ (6.1.113–114 with 6.1.87).
+
+"Because she is the support of the sun and the other luminaries." Bṛhadāraṇyaka 3.8.11: "in this indestructible Brahman the sun and moon were established."
+
+So the splendour is not Her brightness but Her holding up of what is bright — which is 877 निरालम्बा's point taken from the other side, She being unsupported and everything else supported on Her. And तेजस् as the element is the middle term of the Chāndogya's three; as radiance it is 922 तरुणादित्यपाटला's, where colour was made a function of the meditation and not of Her.
+
+453. त्रिनयना → त्रि-नयना
+
+त्रि = three
+नयना = eye (नयन, from नी "to lead" — what leads); and per the third reading, a means of knowledge, a proof
+"The Three-eyed."
+
+Vigraha: त्रीणि नयनानि यस्याः सा।
+
+**This is the longest entry in the verse, and it is an epistemology got out of an anatomical epithet.**
+
+First the ordinary reading: "the three eyes are the moon, the sun and the fire." Then a lexical one: "or Trinayanā is another name for the word *vauṣaṭ*."
+
+Then the reading that carries the weight. "Or nayana indicates proofs — naya, to lead; that is, it leads one to proof." The Śāṇḍilya Sūtra 99: **"there are three proofs, viz. word, inference, and observation, like Rudra"** — Rudra having three eyes, neither more nor less, so the simile is what fixes the number.
+
+And the three pramāṇas are then mapped onto the three stages of Vedāntic practice: "śabda corresponds to śravaṇa, of Bṛhadāraṇyaka 2.4.5; inference, as it is mental, to manana; and observation to nididhyāsana. But occasionally different ideas may intrude on this reflection, hence the ascetic Śāṇḍilya takes śabda first, because the last is more important."
+
+"Upamāna is omitted here because it is not required. Hence Manu 12.105 enumerates three only: *perception, inference, and scriptures consisting of different branches — these three should be used by those who desire to practise righteousness.* So Sāṃkhya 1.88 and Yoga Sūtra 1.7 repeat the above."
+
+**Four authorities are lined up to hold the number of pramāṇas at three so that a physical epithet can count them** — Śāṇḍilya, Manu, Sāṃkhya and Yoga — and the fourth pramāṇa is dismissed in a clause. That is the same procedure as 366 परा's use of Pāṇini 1.4.14 to underwrite the four stages of speech, and 354's of 1.4.54 to settle agency on Śakti: a technical apparatus imported so that a nama's number will come out right.
+
+Then a fourth reading, on the paths. "Or tri, three paths — south, north, and the path of Brahman; naya, to lead. She leads those who are entitled to have one of the three." The Devī Purāṇa: "there are the Southern and Northern worlds, and the supreme abode of Brahman; as she leads those who follow the right way, she is called Trinayanā."
+
+Those are the pitṛyāṇa and the devayāna with a third beyond both, so the eye becomes a guide and the nama a claim about destinations.
+
+**And 477 त्रिलोचना, twenty-four namas on, is the same nama with लोचन for नयन** — the text saying one thing twice with synonyms, as 933 does for 116.
+
+454. लोलाक्षीकामरूपिणी → लोल-अक्षी-काम-रूपिणी
+
+लोल = rolling, tremulous, restless
+अक्षी = eyed — so लोलाक्षी, a woman, "she of the restless eyes"
+काम = desire, love
+रूपिणी = having the form of, embodying
+"She who is the very desire of the doe-eyed."
+
+Vigraha: लोलाक्षीणां कामः रूपं यस्याः सा।
+
+Sandhi: लोल + अक्षी → लोलाक्षी (आ by 6.1.101).
+
+**"To show her love is not limited to Śiva, she is so called."** So the nama is read as a corrective to the whole run of consort-namas, and it is put in one line.
+
+"Or she is in the form of Yogeśvarī, who is the deity of desire." And then the Varāha Purāṇa's list, which is the entry's substance: "(1) desire, (2) anger, (3) greed, (4) passion, (5) bewilderment, (6) envy, (7) calumny, (8) scorn — thus there are eight mothers. You should recognise desire as Yogeśvarī, anger as Māheśvarī, greed as Vaiṣṇavī, passion as Brāhmaṇī, bewilderment as the self-existent Kalyāṇī, envy as Indrajā, the Devī holding the death-rod is herself calumny, and scorn is Vārāhī."
+
+**That is the aṣṭamātṛkā turned into a vice-list**, and three of the eight are namas of this text — Brāhmaṇī 821, Vaiṣṇavī 892, and Vārāhī in the compound at 76. The eight mothers had appeared before only as a numerical base, at 237 महाचतुःषष्टिकोटियोगिनीगणसेविता, where the sixty-four yoginīs are eight śaktis of each of eight mothers. Here they are eight passions, and the pairings are not the expected ones: Brāhmaṇī gets passion and Vaiṣṇavī greed, with no reason offered.
+
+लोल is also the motion of 432 मदघूर्णितरक्ताक्षी, twenty-two namas back, where Her own eyes roll and the rolling is glossed as aversion to the world. Here it is other women's eyes, and the same restlessness is desire. One motion, two readings, and the text does not connect them.
+
+455. मालिनी → मालिनी
+
+मालिनी = garlanded, wearing a garland (माला with the suffix इन्); also a metre, a florist's wife, the city of Campā, Gaurī, and Gaṅgā
+"The Garlanded."
+
+Vigraha: माला अस्याः अस्तीति मालिनी।
+
+**"Mālinī is the name of the deity of the fifty-one letters."** So the garland is the alphabet, and the count is the one 833 पञ्चाशत्पीठरूपिणी argued for — where "fifty" was shown to stand for fifty-one because the pīṭhas are set in the places of the mātṛkās and the alphabet runs from अ to क्ष.
+
+Then a story, and it is the only bargaining scene in the commentary. "Mālinī is a companion of Devī, mentioned in the Vāmana Purāṇa in the section on the marriage ceremony of Pārvatī. Then Mālinī clasped the foot of Hara. Hara said, whatever you ask I will give — release my foot. Mālinī then replied, O Śiva, bestow your prosperity on my friend, then you will be released. Then Śiva said, I have already given, release me."
+
+"Mālinī is a certain metre, or the name of Gaṅgā. According to the Viśva, Mālinī means a certain metre, a woman of the florist caste, the city of Campā, Gaurī, and Gaṅgā."
+
+The Viśva for the second time in twenty-two namas, after 433's six senses of मद. And Campā is the campaka's city — 435 चाम्पेयकुसुमप्रिया's flower, twenty namas back, under the same name.
+
+**And Dhaumya's girl-age: "Mālinī, according to Dhaumya, is a girl of seven years of age."** That is the eleventh nama in the series and **the first collision in it**, since 755 चण्डिका is also seven. The ages now stand at one (422), two (704), three (628), five (761), seven (755 and 455), eight (122), nine (190), ten (635), twelve (276) and thirteen (210) — eleven namas across ten ages, with four, six and eleven still unnamed.
+
+456. हंसिनी → हंसिनी
+
+हंसिनी = a female goose or swan (हंस with the feminine); and per the second reading, हंस the ajapā, the unrecited mantra of the breath
+"The Swan."
+
+Vigraha: हंसः अस्याः अस्तीति हंसिनी।
+
+**"Or haṃsa means the Ajapā mantra."** Five words, and they turn a bird into a breath: the ajapā is the हंसः of the in-breath and सोऽहम् of the out-breath, recited without reciting.
+
+**And the Ajapāmantra is the fifth of the five kośas at 428**, twenty-eight namas back — the Jñānārṇava's Śrīvidyā, Paraṃjyotis, Parā, Niṣkalaśāmbhavī and Ajapā, of which She was the centre. So the last member of that set is here a nama on its own, as three of the others already were.
+
+हंस is also the etymon of परमहंस, and the swan-figure and the breath-figure are the same word doing both jobs, which is why the gloss needs only one clause.
+
+457. माता → माता
+
+माता = mother (मातृ); or, from मा "to measure," the measurer; also the mātṛkās, a Nityā's mantra, and a name of Lakṣmī
+"The Mother."
+
+Vigraha: सर्वेषां माता।
+
+Four readings, and they run from the plain to the technical.
+
+"Because she is the mother of all." Then, "or Mātā, in the form of letters, the mātṛkās" — with the Sūta Saṃhitā 4.4.18: "as she is the mother of all mantras, hence the supreme Īśvarī is called Mātṛkā." That meets 455's Mālinī, the deity of the fifty-one letters, two namas back: the alphabet is Her garland there and Her motherhood here.
+
+"Or Mātā is the mantra of the Nityā deity of the tenth day of the lunar fortnight." The tenth of the sixteen on Sastry's list at 391 is Nityā herself, who is nama 136 — so this reading names the mantra of a deity who is elsewhere a nama.
+
+"Mātā is the deity, according to the Padma Purāṇa, of the Kāyāvarohaṇa place." The fourth location in this stretch.
+
+**And then the reading that closes a circle with nama 1.** "Mātā is also the name of the Lakṣmībīja. The Viśva says: śrī, rāma and mātā mean Lakṣmī." Nama 1 श्रीमाता takes those same two syllables apart — श्री as Lakṣmī and मा as "to measure," so that She is what measures Lakṣmī, the limit being necessarily superior to the limited. Here the lexicon says the two words mean the same goddess. The first nama of the thousand separates them; this one identifies them.
+
+The Viśva for the third time in twenty-four namas.
+
+458. मलयाचलवासिनी → मलय-अचल-वासिनी
+
+मलय = the Malaya range, the sandal hills of the south
+अचल = a mountain — literally "the unmoving" (अ + चल्)
+वासिनी = dwelling, residing (from वस्)
+"She who dwells on the Malaya mountain."
+
+Vigraha: मलयाचले वसतीति मलयाचलवासिनी।
+
+Sandhi: मलय + अचल → मलयाचल (आ by 6.1.101).
+
+"This deity is described in the Śabara Cintāmaṇi as the Malayālaya Bhagavatī."
+
+Malaya is the sandal country, and 434 चन्दनद्रवदिग्धाङ्गी, twenty-four namas back, has Her limbs smeared with liquid sandal. The hill the sandal grows on and the paste on Her body are named within the same run, and neither entry mentions the other.
+
+**And Bhāskararāya drops a counting marker here: "19th verse divides 35 names."** That fills a gap in the series. The twelfth through the nineteenth are now all recorded — 49, 40, 40, 38, 38, 44, 38 and 35 names — and of the markers from the twelfth to the thirty-second only the twentieth, the twenty-seventh and the twenty-ninth are still missing.
+
+Note on the verse. Seven namas, and the commentary is lexicographical throughout: the Viśva twice, Dhaumya once, the Śabara Cintāmaṇi once, and 453's four schools cited to fix a number. Only 454 makes a doctrinal claim, and it makes it in one sentence.
+
+
+---
+
+## सुमुखी नलिनी सुभ्रूः शोभना सुरनायिका । कालकण्ठी कान्तिमती क्षोभिणी सूक्ष्मरूपिणी
+
+*sumukhī nalinī subhrūḥ śobhanā suranāyikā । kālakaṇṭhī kāntimatī kṣobhiṇī sūkṣmarūpiṇī*
+
+Verse 96, namas 459–467.
+
+459. सुमुखी → सु-मुखी
+
+सु = well, fair, good
+मुखी = faced (मुख with the feminine)
+"The fair-faced."
+
+Vigraha: शोभनं मुखं यस्याः सा।
+
+**"Because by wisdom the beauty of the face increases."** The Śrutis are cited for it: Chāndogya 4.14.2, "one who knows this, his face shines"; and "O child, your face shines like that of a knower of Brahman."
+
+So the beauty is a symptom and not an attribute — the third time in this run that a physical nama is converted into a state of mind, after 432's rolling eyes read as aversion and 449's कान्ति read as Icchā Śakti.
+
+"Or Sumukhī is a certain deity to be worshipped as a part of the Ṣoḍaśī mantra." The Ṣoḍaśī is 391 नित्याषोडशिकारूपा's, the sixteen-syllabled vidyā that stands above the Pañcadaśī of 472.
+
+460. नलिनी → नलिनी
+
+नलिनी = a lotus, a lotus-pond (नल with the suffix इन्); also a name of Gaṅgā; and per the third reading, from the king Nala
+"The Lotus."
+
+Vigraha: नलिनम् अस्याः अस्तीति नलिनी।
+
+"Her hands, feet, face, eyes and other limbs are like the lotus, according to the rule of creation" — with a cross-reference to the commentary on 278 पद्मासना. So the simile is not decorative: it is a rule about how the body of a deity is composed.
+
+"Or Nalinī, Gaṅgā." The third of the three Gaṅgā-glosses in eleven namas, after 450 नन्दिनी and 455 मालिनी.
+
+**"Or Nalinī: Nala, a king by that name — as he was identified with Devī by devotion, she is called Nalinī."** That is the rarest kind of derivation in the thousand: a nama got from a devotee rather than from a quality, a deity or a place. 305 राजराजार्चिता names Her by who worships Her, which is common; this names Her after a man whom worship made identical with Her, which happens once.
+
+461. सुभ्रूः → सु-भ्रूः
+
+सु = fair, good
+भ्रूः = the eyebrow
+"She of the fair brows."
+
+Vigraha: शोभने भ्रुवौ यस्याः सा।
+
+The whole entry is the gloss, "with beautiful eyebrows."
+
+The brows had their own nama in the head-to-foot description at 17 वदनस्मरमाङ्गल्यगृहतोरणचिल्लिका, where they are the festoon over the doorway of Love's house — twenty-six syllables for the same feature that gets three here.
+
+462. शोभना → शोभना
+
+शोभना = beautiful, splendid, auspicious (from शुभ् "to shine")
+"The Beautiful."
+
+Vigraha: शोभते इति शोभना।
+
+The whole entry is the gloss, "handsome."
+
+459, 461 and 462 are three plain beauty-namas inside five, and two of the three have no commentary at all. The verse is the least glossed in this stretch until its second half.
+
+463. सुरनायिका → सुर-नायिका
+
+सुर = a god, a deva
+नायिका = leader, mistress, heroine (from नी "to lead")
+"The Leader of the gods."
+
+Vigraha: सुराणां नायिका।
+
+The whole entry is one unattributed Śruti line: **"she is the supreme power of the Devas."**
+
+नायिका is 56 श्रीमन्नगरनायिका's word, where She is the Lady of the city — there the office is territorial and here it is over the gods themselves. And नी is the root that 453 त्रिनयना has just used four namas back to turn नयन into a means of knowledge, so the leading in this nama and the leading in that one are the same verb.
+
+464. कालकण्ठी → काल-कण्ठी
+
+काल = black, dark; also time; and per the third reading, a soft low sound
+कण्ठी = throated (कण्ठ with the feminine)
+"The consort of Kālakaṇṭha" — Śiva of the dark throat.
+
+Vigraha: कालकण्ठस्य पत्नी कालकण्ठी।
+
+"Kālakaṇṭha: Śiva is called so because his throat is coloured by poison." The Vāyu Purāṇa gives it in Śiva's own voice: "in the presence of a multitude of Devas, Piśācas, serpents and Rākṣasas, the virulent poison became transfixed in my throat; hence I am called Kālakaṇṭha."
+
+**The poison in the throat is nama 1's third reading.** There श्री means poison and मा "to fix" — "referring to the poison fixed in Śiva's throat" — and Bhāskararāya notes what it costs, that on that reading श्रीमाता is masculine. 392 श्रीकण्ठार्धशरीरिणी is the other place, and the run observed that those two are the only namas in the text where श्री means poison. This is the third nama built on the same swallowing, and the only one that says outright what happened.
+
+"According to the Devī Purāṇa, among the sixty-eight sacred places, Kālañjara is a place where Kālakaṇṭha is worshipped." **A new count of holy places** — sixty-eight, against the fifty-one pīṭhas of 833 and the fifty-one letters of 455. The text does not reconcile the two enumerations or say how they overlap.
+
+"Or kāla, a soft low sound; kaṇṭha, throat — that is, a soft low sound proceeds from her throat." So the same two syllables give Śiva's poisoned neck and Her quiet voice.
+
+"Or there is a story in the Liṅga Purāṇa that in order to destroy the Daitya Dāruka, Śiva created Kālī as well as Kapardinī and Kālakaṇṭhī." On that reading the nama is not a consort-name at all but one of three goddesses Śiva made for a killing, and She is identified with the third of them.
+
+465. कान्तिमती → कान्ति-मती
+
+कान्ति = radiance, loveliness
+मती = possessing (मत् with the feminine)
+"She who possesses radiance."
+
+Vigraha: कान्तिः अस्याः अस्तीति कान्तिमती।
+
+index.html carries nothing beyond the gloss, "radiant."
+
+**कान्ति was itself nama 449, sixteen names back**, where the whole entry was "Kānti is the Icchā Śakti." So the word stands twice in one stretch, bare and then suffixed — the only such pair in these thirty namas, and the second occurrence gets no commentary because the first had already spent it.
+
+466. क्षोभिणी → क्षोभिणी
+
+क्षोभिणी = she who agitates, who stirs to motion (from क्षुभ् "to be shaken," causative)
+"The Agitator."
+
+Vigraha: क्षोभयतीति क्षोभिणी।
+
+**"She excites Śiva to create."** The Viṣṇu Purāṇa: "the Lord Viṣṇu, entering the Prakṛti and Puruṣa, by his own will excited both at the time of creation."
+
+That is the standard proof-text for the kṣobha of Prakṛti, the disturbance of equilibrium with which the Sāṃkhya cosmogony begins — the cosmogony 397 मूलप्रकृतिः sets out at length, with its prākṛta pralaya and its six creations and its unresolved dilemma about whether Māyā during the dissolution is lit or unlit.
+
+"Or Kṣobhiṇī: by the agitation of her mind she created multitudes of deities." And the Varāha Purāṇa on the Trimātṛs: "Vaiṣṇavī once went to the Mandara mountain to perform penance; after she had performed penance for a long time she became excited; from that excitement sprang young women of fair appearance, with blue curling hair, with lips red as the bimba fruit, lotus-eyed, with body like the red lotus, wearing an anklet, beautiful — when the mind of Devī was agitated, hundreds and millions of such women arose with different faces."
+
+**So the śaktis are born from a disturbance of Her mind**, which is 418 जडशक्तिः's technical claim told as a story: there the Viṣṇu Purāṇa was quoted to make Brahman the instrumental cause only and the creative energies the material cause, "an object becomes itself by its own energy." Here the same Purāṇa supplies the narrative version, and the agitation that 397 gives as a state of Prakṛti is given as a state of mind.
+
+The bimba lip is 24 नवविद्रुमबिम्बश्रीन्यक्कारिरदनच्छदा's, where Her lips shame coral and the bimba fruit — so the daughters born of the agitation are described in the vocabulary the aṅga-series used for Her.
+
+467. सूक्ष्मरूपिणी → सूक्ष्म-रूपिणी
+
+सूक्ष्म = subtle, minute, fine, hard to perceive
+रूपिणी = having the form of, embodying
+"She whose form is subtle."
+
+Vigraha: सूक्ष्मं रूपं यस्याः सा।
+
+"Sūkṣma, difficult to perceive." Kaivalya Upaniṣad 16, "subtler than the subtle, eternal"; and Kaṭha 2.20, "more minute than an atom."
+
+"Or Sūkṣma is the name of a kind of homa." The Tantrarāja: "in the eternal and perishable centre of the mūlādhāra there is a fire — thus there are twelve kinds of homa corresponding to the letters."
+
+**And then the reading that places the nama in a scheme.** "Or, as said above — see the commentary on nama 6 — there are three forms, physical, subtle and supreme, and this refers to the second." At 6 उद्यद्भानुसहस्राभा Bhāskararāya set out the three: "the physical form has hands, feet and the rest; the subtle consists of mantra; and the supreme is the vāsanā," with a warning that वासना there is a technical term meaning real and not ideal. The sthūla form is what namas 13–51 describe; the sūkṣma is the mantra-namas; and this nama names the middle one directly, four hundred and sixty-one names after the scheme was given.
+
+"More minute than an atom" is 808 परमाणुः's Śruti, where the nama is the atom itself — so the same Upaniṣadic comparison is used once to name Her the smallest thing and once to put Her past it.
+
+Note on the verse. Nine namas, and the verse divides four and five: 459–463 are beauty and rank, with three of the five carrying no commentary at all, and 464–467 are a consort-name, a repetition, a cosmogony and a doctrine. The second half holds all of the verse's substance.
+
+
+---
+
+## वज्रेश्वरी वामदेवी वयोऽवस्थाविवर्जिता । सिद्धेश्वरी सिद्धविद्या सिद्धमाता यशस्विनी
+
+*vajreśvarī vāmadevī vayo'vasthāvivarjitā । siddheśvarī siddhavidyā siddhamātā yaśasvinī*
+
+Verse 97, namas 468–474.
+
+468. वज्रेश्वरी → वज्र-ईश्वरी
+
+वज्र = the thunderbolt; the diamond
+ईश्वरी = mistress, ruler
+"The Mistress of the thunderbolt."
+
+Vigraha: वज्रस्य ईश्वरी।
+
+Sandhi: वज्र + ईश्वरी → वज्रेश्वरी (गुण, अ + ई → ए, Pāṇini 6.1.87 आद्गुणः).
+
+**"She is the sixth Nityā deity, or the tutelary deity of the Jālandhara pīṭha."**
+
+Sastry's list of the sixteen Nityās at 391 runs Kāmeśvarī, Bhagamālinī, Nityaklinnā, Bheruṇḍā, Vahnivāsinī, **Mahāvajreśvarī**, Śivadūtī, and the rest — so the commentary's "sixth" and the list agree exactly, and this nama is the sixth Nityā under a shortened name.
+
+**That brings the count of Nityās that are namas of the thousand to ten**: Bhagamālinī 277, Nityaklinnā 388, Vahnivāsinī 352 (as वह्निमण्डलवासिनी), Mahāvajreśvarī here, Śivadūtī 405, Nityā 136, Vijayā 346, Sarvamaṅgalā 200, Jvālāmālinī 71 (as ज्वालामालिनिका), and Tripurasundarī 234 and 997. The tally in the note to verses 81–90 also said ten, but reached it without this nama by listing Citrā, who is not a nama of the text, and by counting Tripurasundarī's two occurrences as two members. The correct figure before this nama was nine.
+
+And Jālandhara is 378 जालन्धरस्थिता's seat — the third of the four pīṭhas in 366 परा's correspondence-table, where Kāmarūpa, Pūrṇagiri, Jālandhara and Oḍyāna are matched to the four bindus. So this nama's second identification names a seat that is itself a nama ninety names back.
+
+"Or the Śrīcakra has twelve walls, all built of diamond; in the centre of the eleventh there is a river called Vajramayī, and she is its deity." Durvāsa's Lalitāstavaratna 44–45: "there let the ever-flowing river called Vajra be everlasting, filled with the sound of the sweet notes of the swans gliding on the beautiful waves; on the pleasant bank of that river Vajreśī flourishes, decked with diamond ornaments, praised by the Devas headed by Indra, the hurler of the thunderbolt."
+
+**That is the fifth Lalitāstavaratna placement in the text and the second within thirty namas**, after Kurukullā's tank at 438 — and the two are of a kind, a body of water inside a named wall with a goddess on its bank. **But the wall-count does not agree with the rest of the text.** Here the Śrīcakra has twelve walls; at 785 Mārtāṇḍabhairava stands between the twenty-second and twenty-third. Either the twelve are the diamond ones only and a subset of a longer series, or the two passages count differently. Bhāskararāya does not remark on it.
+
+"Or Devī herself gave Indra the bow Vajra." The Brahmāṇḍa Purāṇa: "when Indra performed penance in the water, from that water Devī arose and gave Indra the bow called Vajra; again she disappeared, and Indra, satisfied, returned to Svarga." So the thunderbolt is Hers by gift as well as by title, and Indra — placed in the diagram between the fourteenth and fifteenth walls at 297 and 305 — stands here on a riverbank at the eleventh.
+
+469. वामदेवी → वाम-देवी
+
+वाम = to be worshipped; the left, the left side; fair; the fruits of actions; and the left-hand path
+देवी = goddess; and per the second reading, from दिव् "to shine"
+"The consort of Vāmadeva"; and "the Goddess of the left."
+
+Vigraha: वामदेवस्य पत्नी वामदेवी।
+
+**Six readings, and वाम carries a different sense in every one.** It is the most divided single member in this stretch.
+
+First, "vāma, to be worshipped; deva, the deity," on the Aitareya: "the Devas addressed him — he indeed is to be worshipped by all of us, hence he is called Vāmadeva."
+
+Second, "or vāma, by the left side; deva, he shines — that is, Ardhanārīśvara is called Vāmadeva." The name is then the composite body, with Her occupying the left half. That is 392 श्रीकण्ठार्धशरीरिणी's claim under another name.
+
+Third, "or Vāmadeva is one of the five vyūhas of Śiva, as described in the Śiva Purāṇa: of beautiful appearance, red as kuṃkuma, the north face of the Lord, called Vāma, is firmly established." **The five vyūhas are the five faces — Sadyojāta, Vāmadeva, Aghora, Tatpuruṣa and Īśāna** — which 58 पञ्चब्रह्मासनस्थिता seats Her upon and 249 पञ्चप्रेतासनासीना reduces to corpses because their śaktis have been withdrawn. So this reading names one of the five She sits on and makes Her his consort.
+
+Fourth, "or vāma, fair." Fifth, "or vāma, the fruits of actions; devī, the presiding deity."
+
+Sixth, "or vāma, those devoted to the left-hand path." The Kālikā Purāṇa: "the worshipper who is ever devoted to that path is called Vāma" — and She is their goddess. The Devī Purāṇa: "vāma, opposite, inverted; Devī gives bliss through that path, so she is called Vāmadevī."
+
+**The sixth completes a pair with 441 कौलमार्गतत्परसेविता**, twenty-eight namas back, where the three modes of worship were set out and She was named as worshipped by those on the Kaula path. Here the Vāma path is named and She is made its presiding deity. The text names the left-hand way twice inside thirty namas, and neither time with any qualification.
+
+470. वयोऽवस्थाविवर्जिता → वयस्-अवस्था-विवर्जिता
+
+वयस् = age; a stage of life
+अवस्था = a state, a condition (अव + स्था "to stand")
+विवर्जिता = free from, devoid of (वि + वृज् "to exclude")
+"She who is free from the states of age."
+
+Vigraha: वयसाम् अवस्थाभिः विवर्जिता।
+
+Sandhi: वयस् + अवस्था → वयोऽवस्था — the स् becomes उ before the vowel and अ + उ → ओ, then the following अ is elided by 6.1.109 एङः पदान्तादति. Many editions print वयोवस्था without marking the elision, and index.html's verse text breaks the word in two, वयो and वस्थाविवर्जिता, and counts the halves as two namas.
+
+"Vayas, the states of childhood, boyhood, youth and the rest — because she is eternal."
+
+**This is 430 नित्ययौवना's claim restated negatively, forty namas on.** There She was eternally young; here She stands outside the sequence of ages altogether. Taken together the two do what the girl-ages series cannot: 455 मालिनी makes Her a girl of seven and 210 महालक्ष्मी a girl of thirteen, and these two namas say She has no age at all. The text asserts both and reconciles neither, and the two positions stand within a single verse-run of each other.
+
+471. सिद्धेश्वरी → सिद्ध-ईश्वरी
+
+सिद्ध = a Siddha, a perfected adept; accomplished, established (from सिध्)
+ईश्वरी = mistress, ruler
+"The Mistress of the Siddhas."
+
+Vigraha: सिद्धानाम् ईश्वरी।
+
+Sandhi: सिद्ध + ईश्वरी → सिद्धेश्वरी (गुण, 6.1.87), as 439 कुलेश्वरी and 468 वज्रेश्वरी. Three ईश्वरी-namas in thirty-three, all formed the same way.
+
+**"The Siddhas are Gorakṣa and others."** Gorakṣa is the only Nātha named anywhere in the commentary, and the reference places that lineage inside the Śrīvidyā frame without argument.
+
+"There is also a deity of this name at Benares." **That makes three namas located in one city** — 190 दुर्गा, established there at king Subāhu's request; 936 विशालाक्षी, the city's presiding deity per the Padma Purāṇa; and this one. No other place in the text holds more than one.
+
+472. सिद्धविद्या → सिद्ध-विद्या
+
+सिद्ध = accomplished, proven, already perfect
+विद्या = knowledge; a mantra
+"The Vidyā that is already accomplished."
+
+Vigraha: सिद्धा विद्या।
+
+The entry names it — the Pañcadaśī — and then states a privilege: **"hence the Pañcadaśī is exempted from the precautions necessary for other mantras."** The Kādimata: "the astrological calculations are unnecessary, as it is the eternal and universal mantra."
+
+That is unusual for a mantra-nama. The others describe the vidyā; this one gives it a procedural exemption. The precautions in question are the tests by which an ordinary mantra is checked for suitability to a given aspirant before it may be taken, and the argument is that a mantra which is eternal and universal cannot be unsuited to anyone.
+
+It is the fourth vidyā-nama in the thousand — 583 आत्मविद्या, 584 महाविद्या, 585 श्रीविद्या and this — with 733 नन्दिविद्या naming a recension rather than the vidyā itself. The Pañcadaśī is the fifteen-syllabled mantra whose twelve recensions are listed at 238 and 812, and whose fifteen syllables are the fifteen tithis of 610.
+
+473. सिद्धमाता → सिद्ध-माता
+
+सिद्ध = a Siddha
+माता = mother; and per the gloss, a protector
+"The Mother of the Siddhas."
+
+Vigraha: सिद्धानां माता।
+
+The whole entry is one word of gloss: **"mātā, protector."** So माता is read not as bearer but as guardian, which is the sense the Devī Purāṇa gave धात्री at 935 — nurse, "because she protects."
+
+457 माता stands sixteen namas back with four readings and a lexicon; here the same word closes a compound and is given one. And 471–473 are a set of three on सिद्ध — mistress, knowledge, mother — of the kind the text builds repeatedly: 583–585 on विद्या, 416–419 on the śakti-pairs, 436–441 on कुल.
+
+474. यशस्विनी → यशस्-विनी
+
+यशस् = fame, glory, renown
+विनी = possessing (the suffix विन्, feminine ङीप्)
+"The Renowned."
+
+Vigraha: यशः अस्याः अस्तीति यशस्विनी।
+
+Sandhi: यशस् + विनी → यशस्विनी, the स् kept before the voiced व् rather than becoming उ as it does in 452 तेजोवती — the difference being the suffix, विन् taking the stem unchanged.
+
+The Mahānārāyaṇa Upaniṣad 7.10 is the whole entry: "because his name is the great fame."
+
+**848 उदारकीर्तिः is the same claim with कीर्ति for यशस्**, and there the stem was divided five ways on the syllable अर and given the Amarakośa for "great." Fame is a nama twice in the thousand, and only once is anything made of it.
+
+Note on the verse. Seven namas, and three are placements — the sixth Nityā and the Jālandhara pīṭha at 468, Benares at 471. The verse's centre, 470, denies Her any age at all, which 430 had affirmed positively forty names back; and its second half is a सिद्ध-triad closed by a one-line nama.
+
+Textual note for verses 94–97. **This is the worst-damaged stretch in the text, and the damage is self-cancelling.** From 445 to 474 every dev field stands two places below the nama it names, because 444's field carries three namas glued together — पुष्टिर्मतिर्धृतिः. The glosses and bodies keep the printed numbering, so the two schemes can be checked against each other at every point, and they disagree by exactly two for thirty namas. The count is then restored by two errors of the opposite sign: 470 वयोऽवस्थाविवर्जिता is broken into वयो and वस्थाविवर्जिता and counted twice, and the printed running title श्रीललितासहस्रनामस्तोत्रम् is taken for a nama and given a slot. So the numbering is correct on both sides of the stretch and wrong throughout it, and 475 विशुद्धिचक्रनिलया agrees in both schemes by accident.
+
+The verse table inherits the whole of it. **There is no row for verse 94**; its ten namas are folded into the row given for verse 95, which is printed as a single line of four pādas covering 442–456. Verses 96 and 97 are then each two low. And the running title has been absorbed into the head of verse 98's text, where it stands before विशुद्धचक्रनिलया as though it were part of the verse.
+
+**Duplicated and displaced fields.** 460, 461 and 462 carry identical glosses and bodies, all three being 460 नलिनी's; 461 सुभ्रूः and 462 शोभना have their own text stranded in 463's gloss, which holds three headings — Subhrūḥ, Śobhanā and Suranāyikā — before 463's single Śruti line. 471's body loses its tail to the head of 472's. 465 कान्तिमती, 461 and 462 have no body at all.
+
+**Faults in the verse text itself.** Verse 94's line carries पुष्टिर्मतिर्धृतिः as written, which is correct as sandhi but is the reason the three namas were not separated. Verse 97's line reads वयो वस्थाविवर्जिता with a space, which is what produced the spurious split.
+
+**A correction to the note at verses 81–90.** The tally of Nityās there gave ten of the sixteen as namas of the thousand, listing Citrā among them; Citrā is not a nama, and Tripurasundarī was counted twice for her two occurrences. The figure before this stretch was nine. With 468 वज्रेश्वरी, the sixth Nityā, it is ten.
+
+
+---
+
+## विशुद्धिचक्रनिलया रक्तवर्णा त्रिलोचना । खट्वाङ्गादिप्रहरणा वदनैकसमन्विता
+
+*viśuddhicakranilayā raktavarṇā trilocanā । khaṭvāṅgādipraharaṇā vadanaikasamanvitā*
+
+Verse 98, namas 475–479.
+
+> **This nama opens the longest formally governed block in the text, and the commentary states its extent, its authority and its principle of order before beginning.** "Now he proceeds to praise Devī, by sixty-two names, according to the Yoginīnyāsa, under the forms of the seven Yoginī deities who preside over the seven cakras, Viśuddhi and the rest, whose names begin with the syllables Ḍa, ra, la, ka, sa, ha, ya." So the block runs 475–536, seven sets, each opened by its cakra and closed by its yoginī's name. The run has already worked through its last third at 519–534; these nine verses are the first four sets entire and the beginning of the fifth.
+
+475. विशुद्धिचक्रनिलया → विशुद्धि-चक्र-निलया
+
+विशुद्धि = purification, complete purity (वि + शुध्) — the throat cakra
+चक्र = a wheel, a circle
+निलया = abode, dwelling (नि + ली)
+"She whose abode is the Viśuddhi cakra."
+
+Vigraha: विशुद्धिचक्रं निलयः यस्याः सा।
+
+**The announcement of the block comes first**, and then the dhyāna verse that the next nine namas will unpack one member at a time: "in the Viśuddhi centre which is in the cavity of the throat, in the sixteen-petalled lotus, I adore Ḍākinī — the rosy, three-eyed, armed with the club, the sword, the trident and a large skin, having one face, striking the ignorant with terror, ever fond of sweet food, the deity presiding over the organ of touch, whose form is surrounded by Amṛtā and the other deities, and worshipped by warriors."
+
+**That is the method of the whole block, and it is unlike anything else in the thousand.** Elsewhere a nama is a name and the commentary supplies what it means. Here a meditation-verse is quoted once at the head of each set, and the namas that follow are its members taken in order — seat, colour, eyes, weapons, faces, food, bodily constituent, effect on the ignorant, retinue, and finally the yoginī's own name. 484 states the count: "thus she possesses the nine attributes." So each set is a name plus nine, and the commentary on the individual namas can be a single clause because the dhyāna has already said everything.
+
+"Her abode is in the pericarp of the sixteen-petalled lotus." The sixteen petals matter numerically: 483 will put sixteen śaktis on them, and the same correspondence holds at every level — twelve on the Anāhata at 491, ten on the Maṇipūra at 498, six on the Svādhiṣṭhāna at 511, four on the Mūlādhāra at 518. **The retinue is always exactly the petal-count**, which is the one arithmetic rule the block never breaks.
+
+निलया is the word of 99 मूलाधारैकनिलया, where the same construction gave the mūlādhāra as Her sole abode. The cakras were climbed one at a time at 99–106 and named as stations; here they are returned to and populated.
+
+476. रक्तवर्णा → रक्त-वर्णा
+
+रक्त = red, reddened (from रञ्ज् "to dye")
+वर्णा = colour, hue; also a letter of the alphabet
+"She of the red colour."
+
+Vigraha: रक्तः वर्णः यस्याः सा।
+
+index.html has no commentary for this nama. The dhyāna's "rosy" is the whole of it.
+
+**The same nama recurs at 499 for Lākinī**, twenty-three names on, with the same two members and again no commentary — the only nama in the thousand that is repeated word for word within a single block. The block also gives पीतवर्णा at 507 for Kākinī and श्यामाभा at 486 for Rākiṇī, so colour is a fixed slot in the formula and the repetition is structural rather than careless.
+
+And रक्त is 432 मदघूर्णितरक्ताक्षी's word forty-four namas back, where the redness was of the eye and Bhāskararāya glossed the rolling and left the colour alone.
+
+477. त्रिलोचना → त्रि-लोचना
+
+त्रि = three
+लोचना = eye (लोचन, from लोच् "to see")
+"The Three-eyed."
+
+Vigraha: त्रीणि लोचनानि यस्याः सा।
+
+index.html has no commentary for this nama; its body carries 478's heading instead.
+
+**This is 453 त्रिनयना's nama with लोचन for नयन**, twenty-four names apart. There the epithet was made to carry an epistemology — the three pramāṇas fixed at three by Śāṇḍilya, Manu, Sāṃkhya and Yoga, then the three paths — and here the identical claim gets nothing, because it belongs to a dhyāna and describes a face. The text says one thing twice with synonyms, as 933 does for 116; what changes is not the sense but what the commentary is willing to do with it.
+
+478. खट्वाङ्गादिप्रहरणा → खट्वाङ्ग-आदि-प्रहरणा
+
+खट्वाङ्ग = a club topped with a skull — literally "the leg of a bedstead" (खट्वा "bed" + अङ्ग "limb")
+आदि = and the rest, beginning with
+प्रहरणा = a weapon; a striking (प्र + हृ "to strike")
+"She who is armed with the skull-club and the rest."
+
+Vigraha: खट्वाङ्गम् आदि येषां तानि प्रहरणानि यस्याः सा।
+
+Sandhi: खट्वाङ्ग + आदि → खट्वाङ्गादि (आ by 6.1.101). index.html's dev field and verse text read खटाङ्ग, having lost the व्.
+
+**"Khaṭvāṅga, literally the foot of a bed, or a club with a human skull at its end."** That is the entire commentary, and it is a lexical note rather than an interpretation — the only gloss in the Ḍākinī set that explains a word instead of pointing at the dhyāna.
+
+The dhyāna gives four weapons: the club, the sword, the trident and a large skin. The nama names only the first and covers the rest with आदि, which is the block's standard device — 497 वज्रादिकायुधोपेता, 506 शूलाद्यायुधसंपन्ना and 517 अङ्कुशादिप्रहरणा do the same for the other three yoginīs, each naming one weapon and abbreviating the others.
+
+479. वदनैकसमन्विता → वदन-एक-समन्विता
+
+वदन = the face, the mouth (from वद् "to speak")
+एक = one, single
+समन्विता = endowed with, possessed of (सम् + अनु + इ)
+"She who is possessed of a single face."
+
+Vigraha: एकेन वदनेन समन्विता।
+
+Sandhi: वदन + एक → वदनैक (वृद्धि, अ + ए → ऐ, Pāṇini 6.1.88 वृद्धिरेचि).
+
+index.html has no commentary for this nama.
+
+**The face-count is the block's clearest ascending series.** Ḍākinī has one face here, Rākiṇī two at 487, Lākinī three at 496, Kākinī four at 505, Śākinī five at 515, and the two above them are given six and more in the verses the run has already covered. So the faces increase by one as the seat descends from the throat to the base and then rises past the ājñā — a count that runs the length of the block and is never remarked on.
+
+Note on the verse. Five namas, and only one of them has a commentary of its own. The verse's work was done by the dhyāna quoted at 475.
+
+
+---
+
+## पायसान्नप्रिया त्वक्स्था पशुलोकभयंकरी । अमृतादिमहाशक्तिसंवृता डाकिनीश्वरी
+
+*pāyasānnapriyā tvaksthā paśulokabhayaṃkarī । amṛtādimahāśaktisaṃvṛtā ḍākinīśvarī*
+
+Verse 99, namas 480–484.
+
+480. पायसान्नप्रिया → पायस-अन्न-प्रिया
+
+पायस = made of milk (from पयस् "milk") — the sweet rice-and-milk dish
+अन्न = food, cooked grain (from अद् "to eat")
+प्रिया = fond of, to whom it is dear
+"She who is fond of milk-rice."
+
+Vigraha: पायसान्नं प्रियं यस्याः सा।
+
+Sandhi: पायस + अन्न → पायसान्न (आ by 6.1.101).
+
+index.html has no commentary for this nama; the gloss is the dhyāna's.
+
+**The foods are the block's other complete series**, and they are as fixed a slot as the colours. Pāyasa here for Ḍākinī, snigdha-odana at 492 for Rākiṇī, guḍānna at 501 for Lākinī, dadhyanna at 512 for Kākinī, mudga-odana at 519 for Śākinī — milk-rice, buttered rice, jaggery-rice, curd-rice, bean-rice. Five dishes of cooked grain, one to each yoginī, and 510 मधुप्रीता adds mead to Kākinī besides. The run noted at 519 that the drop in register is the scheme and not a lapse; this is where the scheme starts.
+
+481. त्वक्स्था → त्वक्-स्था
+
+त्वक् = the skin; the organ of touch (त्वच्)
+स्था = abiding in, presiding over (from स्था)
+"She who presides over the skin."
+
+Vigraha: त्वचि तिष्ठतीति त्वक्स्था।
+
+Sandhi: the च् of त्वच् becomes क् before the voiceless स् (Pāṇini 8.2.30 चोः कुः, then 8.4.55).
+
+**"The deity of the organ of touch."** Four words, and they open the dhātu-series that runs the whole block.
+
+The seven constituents are assigned one to each yoginī in order: tvak here, rudhira at 490, māṃsa at 500, medas at 509, asthi at 516, majjā at 524, śukla at 528. **The series is not quite the Āyurvedic saptadhātu**, which begins rasa, rakta, māṃsa — this one substitutes त्वक्, the skin, for रस at the head and keeps every other member in its classical position. So it is the yoginī-series proper, and the run's note at 524 that the two "run in step" holds from the second term onward.
+
+And the count is the point: 572 पराशक्तिः quotes the Kāmikāgama for a rival division of the body — "skin, blood, flesh, fat and bone, these five are derived from Devī; marrow, semen, breath and vitality, these four are derived from Śiva" — nine substances parcelled between the two, with Parāśakti the tenth and left over. **Those are these same seven with two added and the ownership split.** Here all seven are Hers; there five are Hers and two are His. The text does not reconcile them, and 572 is four hundred namas from the block that would have told it what to reconcile.
+
+482. पशुलोकभयंकरी → पशु-लोक-भयंकरी
+
+पशु = a beast; in Śaiva usage, a bound soul
+लोक = a world; a class of people
+भयंकरी = terrifying, causing fear (भय "fear" + कर, with the accusative-ending मुम्)
+"She who strikes terror into the world of beasts."
+
+Vigraha: पशुलोकस्य भयं करोतीति।
+
+**And here the block interrupts itself to argue.** "Paśus are those devoid of the knowledge of non-duality." Bṛhadāraṇyaka 1.4.10 is quoted for the definition: "now one who worships another deity, saying the deity is different and I am different, he knows not — he is like a beast." Then the fear is derived from the same source: Bṛhadāraṇyaka 1.4.2, "fear comes when there is duality," and Taittirīya 2.7.1, "to him who makes a small hole — a difference — fear next comes."
+
+So the terror in the dhyāna is not an attribute of a fierce goddess but a consequence of duality, and the nama is a statement about the structure of fear: what frightens the paśu is the very separation that makes him a paśu. **This is the only nama in the block that carries doctrine**, and it is given three Upaniṣadic proof-texts in a set where the neighbouring namas get none at all.
+
+पशु is 354 पशुपाशविमोचिनी's word, the second-longest commentary in the text, where the three malas are defined and nested and the seven possible bond-combinations reduced to three grades of soul — Vijñānakevala, Pralayākala and Sakala at 133–135. That entry classifies paśus; this one says what a paśu is and why he is afraid. The two belong together and neither refers to the other.
+
+483. अमृतादिमहाशक्तिसंवृता → अमृता-आदि-महा-शक्ति-संवृता
+
+अमृता = Amṛtā — the first of the sixteen śaktis; literally the deathless
+आदि = and the rest, beginning with
+महा = great
+शक्ति = power, energy
+संवृता = surrounded, enclosed (सम् + वृ "to cover")
+"She who is surrounded by the great Śaktis, Amṛtā and the rest."
+
+Vigraha: अमृता आदिः यासां ताभिः महाशक्तिभिः संवृता।
+
+Sandhi: अमृता + आदि → अमृतादि (आ by 6.1.101).
+
+"Amṛtā and the rest are the sixteen great Śaktis, from Amṛtākarṣiṇī to Akṣarā, each seated in each of the sixteen petals."
+
+And the Svacchanda Tantra gives the architecture: "one finger above the Anāhata is the Viśuddhi with sixteen petals. Ḍākinī, the supreme ruler, is in the centre. Amṛtā to Akṣarā are in the sixteen petals. Above that is the Candrabimba."
+
+**Sixteen śaktis on sixteen petals**, and the rule holds down the whole series — twelve at 491, ten at 498, six at 511, four at 518. The Svacchanda Tantra is the same authority that placed the Bindu-disc above the Hākinī circle at 905 बैन्दवासना, so one text supplies the top of the diagram there and the throat here.
+
+The sixteen also stand against the sixteen Nityās and the sixteen syllables of the Ṣoḍaśī at 391 — three sixteens in the system, and the commentary keeps them apart without saying they are related.
+
+484. डाकिनीश्वरी → डाकिनी-ईश्वरी
+
+डाकिनी = Ḍākinī, the yoginī of the Viśuddhi
+ईश्वरी = mistress, ruler
+"Ḍākinī the Mistress."
+
+Vigraha: डाकिनी ईश्वरी।
+
+Sandhi: डाकिनी + ईश्वरी → डाकिनीश्वरी (दीर्घ, ई + ई → ई, Pāṇini 6.1.101 अकः सवर्णे दीर्घः).
+
+**"Thus she possesses the nine attributes."** That single clause is the block's rubric, and it makes the set countable: the yoginī's name plus nine members of the dhyāna, ten namas to a cakra. It holds here (475–484), for Rākiṇī (485–494), for Kākinī (504–513) and for Śākinī (514–523). **It does not hold for Lākinī**, whose set runs 495–503 and is one short.
+
+This is also the fourth ईश्वरी-nama in seventy — 439 कुलेश्वरी, 468 वज्रेश्वरी, 471 सिद्धेश्वरी and this — and the only one of the four formed by vowel-lengthening rather than guṇa, since डाकिनी already ends in ई.
+
+The set-closing formula alternates through the block: X-ईश्वरी here, then X-अम्बा-स्वरूपिणी at 494 and 503, X-रूपधारिणी at 513, X-अम्बा-स्वरूपिणी again at 520.
+
+Note on the verse. Five namas, of which one carries the block's only Upaniṣadic argument and one its rubric. The other three are dhyāna-members with nothing added.
+
+
+---
+
+## अनाहताब्जनिलया श्यामाभा वदनद्वया । दंष्ट्रोज्ज्वलाक्षमालादिधरा रुधिरसंस्थिता
+
+*anāhatābjanilayā śyāmābhā vadanadvayā । daṃṣṭrojjvalākṣamālādidharā rudhirasaṃsthitā*
+
+Verse 100, namas 485–490.
+
+485. अनाहताब्जनिलया → अनाहत-अब्ज-निलया
+
+अनाहत = unstruck — the heart cakra, named for the sound that is not produced by striking (अन् + आहत, from हन्)
+अब्ज = a lotus — "water-born" (अप् "water" + ज)
+निलया = abode
+"She whose abode is the lotus of the Anāhata."
+
+Vigraha: अनाहताब्जं निलयः यस्याः सा।
+
+Sandhi: अनाहत + अब्ज → अनाहताब्ज (आ by 6.1.101).
+
+"In the heart, in the twelve-petalled lotus called the Anāhata cakra, the Yoginī named Rākiṇī resides." Then her dhyāna: "we meditate upon Rākiṇī who is in the twelve-petalled lotus of the heart — having two faces, with protruding tusks, black-coloured, bearing the disc, the trident, the skull and the drum in her hands, three-eyed, presiding over the blood, attended by Kālarātri and the other deities, fond of greasy food, worshipped by warriors, and the giver of desired objects."
+
+अनाहत is the technical name for the unstruck sound, and 110 कुण्डलिनी's Tantrarāja passage located a hissing in the suṣumnā that a man who cannot hear on stopping his ears is near death. The cakra is named for that sound and the commentary does not mention it here.
+
+486. श्यामाभा → श्यामा-आभा
+
+श्यामा = dark, black, blue-black; and per the gloss, a girl of sixteen
+आभा = lustre, appearance, semblance (आ + भा "to shine")
+"She whose lustre is dark."
+
+Vigraha: श्यामा आभा यस्याः सा।
+
+Sandhi: श्यामा + आभा → श्यामाभा (आ by 6.1.101).
+
+**"Śyāmā, a girl of sixteen years of age; and ābhā, like."** So the nama is read not as "dark-hued" but as "having the look of a girl of sixteen," and the colour-word is turned into an age-word.
+
+**That extends the girl-ages series past thirteen**, which had been its ceiling. The named years now run one (422), two (704), three (628), five (761), seven (755 and 455), eight (122), nine (190), ten (635), twelve (276), thirteen (210) and sixteen here — twelve namas over eleven ages, with four, six, eleven, fourteen and fifteen unnamed. Dhaumya is not cited for this one, so either the lexicon is a different one or the attribution has dropped out.
+
+श्यामा is also the word 922 तरुणादित्यपाटला had to reconcile: She is Śyāmā and Gaurī and pāṭalā, and Bhāskararāya settled it by making colour a function of the meditation and not of Her — "she assumes different colours according to the form under which she is contemplated, hence there is no contradiction." This block is the proof of that principle rather than a violation of it: five yoginīs, five colours, one Devī.
+
+487. वदनद्वया → वदन-द्वया
+
+वदन = a face
+द्वया = twofold, a pair (द्वि with the suffix तयप् → द्वय)
+"The two-faced."
+
+Vigraha: द्वे वदने यस्याः सा।
+
+index.html has no commentary for this nama. The second term of the face-series — one at 479, two here, three at 496, four at 505, five at 515.
+
+488. दंष्ट्रोज्ज्वला → दंष्ट्रा-उज्ज्वला
+
+दंष्ट्रा = a large tooth, a tusk, a fang (from दंश् "to bite")
+उज्ज्वला = blazing, shining forth (उत् + ज्वल् "to burn")
+"She who is resplendent with tusks."
+
+Vigraha: दंष्ट्राभिः उज्ज्वला।
+
+Sandhi: दंष्ट्रा + उज्ज्वला → दंष्ट्रोज्ज्वला (गुण, आ + उ → ओ, Pāṇini 6.1.87).
+
+index.html has no commentary for this nama.
+
+उज्ज्वल is a word of praise and दंष्ट्रा one of terror, and the compound makes the fangs the source of the radiance. That is the same joining the dhyāna makes throughout the block — Rākiṇī is black, tusked and terrible, and she is also the giver of desired objects.
+
+489. अक्षमालादिधरा → अक्ष-माला-आदि-धरा
+
+अक्ष = the akṣa bead, the rudrākṣa; and per the re-division, the wheel of a chariot; also the letters from अ to क्ष
+माला = a garland, a rosary; and per the re-division, from मा, resemblance
+आदि = and the rest
+धरा = bearing, holding (from धृ)
+"She who bears the rosary and the rest."
+
+Vigraha: अक्षमाला आदिः येषां तानि धरतीति।
+
+Sandhi: माला + आदि → मालादि (आ by 6.1.101). The verse joins it to the preceding nama, दंष्ट्रोज्ज्वलाक्षमालादिधरा; index.html's dev field marks the break with an avagraha, ऽक्षमालादिधरा.
+
+**The entry does two things and neither is what the word looks like.** First it identifies the object against the dhyāna: "the Akṣamālā here stands for the disc in the above" — the disc, cakra, being what Rākiṇī's meditation gives her and the rosary being what the nama says. Then it justifies the substitution by taking the word apart syllable by syllable: "akṣa, the wheel of a chariot; ma, resemblance; la, bears — that is, the resemblance of a chariot."
+
+So अक्षमाला is made to mean a wheel because अक्ष is an axle, and the nama is brought into line with the meditation by force.
+
+**And this is the second division of the same word in the thousand.** At 577 मातृकावर्णरूपिणी the Jñānārṇava is quoted for the other one: "अ is the first, O Devī, and क्ष is the last, thus she is called Akṣamālā. She is the Brahman-Word itself, but in reality she transcends the Word." There the garland is the alphabet; here it is a chariot wheel. Two readings of one compound, ninety namas apart, with nothing in common but the syllables.
+
+490. रुधिरसंस्थिता → रुधिर-संस्थिता
+
+रुधिर = blood (from रुध् "to be red")
+संस्थिता = firmly abiding in, presiding over (सम् + स्था)
+"She who presides over the blood."
+
+Vigraha: रुधिरे संस्थिता।
+
+index.html has no commentary for this nama.
+
+The second of the seven dhātus, after त्वक् at 481. And the सम्-prefixed form is used for this one, for अस्थिसंस्थिता at 516 and for षट्चक्रोपरिसंस्थिता at 108, where the run noted that सम् makes the station permanent rather than merely occupied.
+
+Note on the verse. Six namas, and only two carry commentary — one an age-gloss on a colour-word, the other a forced identification of a rosary with a wheel. The rest are dhyāna-members.
+
+
+---
+
+## कालरात्र्यादिशक्त्यौघवृता स्निग्धौदनप्रिया । महावीरेन्द्रवरदा राकिण्यम्बास्वरूपिणी
+
+*kālarātryādiśaktyaughavṛtā snigdhaudanapriyā । mahāvīrendravaradā rākiṇyambāsvarūpiṇī*
+
+Verse 101, namas 491–494.
+
+491. कालरात्र्यादिशक्त्यौघवृता → कालरात्रि-आदि-शक्ति-ओघ-वृता
+
+कालरात्रि = Kālarātri — the night of destruction; the first of the twelve śaktis
+आदि = and the rest
+शक्ति = power, energy
+ओघ = a flood, a multitude, a host
+वृता = surrounded, encompassed (from वृ "to cover")
+"She who is surrounded by the host of śaktis, Kālarātri and the rest."
+
+Vigraha: कालरात्रिः आदिः यासां तासां शक्तीनाम् ओघेन वृता।
+
+Sandhi at both joints: कालरात्रि + आदि → कालरात्र्यादि (यण्, इ → य् before a dissimilar vowel, Pāṇini 6.1.77 इको यणचि); and शक्ति + ओघ → शक्त्यौघ, the same यण् with vṛddhi in the following ओ.
+
+"There is a certain Śakti called Kālarātri." Then the Varāha Purāṇa on the three forms: "the Śakti of Rudra, born from darkness, who went to the blue mountain determined to perform penance — O earth, hear her vow. That Raudrī, the supreme Śakti ever devoted to penance, causing destruction, is called Kālarātri."
+
+So Kālarātri is Raudrī under another name, born of darkness and defined by her austerity rather than by her destructiveness. **Raudrī is the fourth of the four śaktis in 366 परा's correspondence-table** — Śāntā, Vāmā, Jyeṣṭhā, Raudrī, matched there to the four bindus and to the four pīṭhas. Here the last of those four heads a retinue of twelve.
+
+"Ādi: twelve Śaktis from Kālarātri to Ṭaṅkārī, one in each petal." Twelve petals, twelve śaktis, as sixteen and sixteen at 483.
+
+And the Varāha Purāṇa is the same source that supplied 454 लोलाक्षीकामरूपिणी's eight mothers as eight passions and 466 क्षोभिणी's account of the śaktis born from an agitation of Her mind. Three citations of it in forty namas, all three about how the goddesses multiply.
+
+492. स्निग्धौदनप्रिया → स्निग्ध-ओदन-प्रिया
+
+स्निग्ध = oily, unctuous, smooth; also affectionate (from स्निह् "to be sticky, to feel affection")
+ओदन = boiled rice
+प्रिया = fond of
+"She who is fond of buttered rice."
+
+Vigraha: स्निग्धौदनं प्रियं यस्याः सा।
+
+Sandhi: स्निग्ध + ओदन → स्निग्धौदन by vṛddhi (अ + ओ → औ, Pāṇini 6.1.88 वृद्धिरेचि) — the same joint as 519 मुद्गौदनासक्तचित्ता.
+
+index.html has no commentary for this nama. The second of the five rice-dishes.
+
+स्निह् means both to be oily and to be fond, so the compound has a second sense the commentary does not take: affectionate food, food given with love. The block's other food-namas leave no such opening.
+
+493. महावीरेन्द्रवरदा → महा-वीर-इन्द्र-वरदा
+
+महा = great
+वीर = a hero, a warrior; and per the readings, an eloquent man, and a Soma vessel
+इन्द्र = a chief, a lord; Indra; and per the etymology, one who perceives
+वरदा = giver of boons (वर "boon" + दा "to give")
+"She who grants boons to the great heroes."
+
+Vigraha: महावीराणाम् इन्द्रेभ्यः वरं ददातीति।
+
+Sandhi: वीर + इन्द्र → वीरेन्द्र (गुण, अ + इ → ए, 6.1.87).
+
+**This is the longest entry in the block by a wide margin, and it is entirely about who counts as a hero.** The dhyānas say each yoginī is "worshipped by warriors," and this nama is where the word is examined.
+
+First an etymology that makes the hero a speaker: "vi, many; īra, excited — the meaning is that the Vīras are those gifted with eloquence."
+
+Then one that makes him a vessel: "or Mahāvīra, a kind of vessel used in the Soma sacrifice, as it is explained in the Śruti. The meaning is that the Mahāvīras are those who are continually drinking the nectar of Brahman." So the man is named for the cup he is.
+
+Then Indra, by the classical Upaniṣadic pun: "Indras, those who know Brahman. Idi, those who directly perceive Brahman, which is the Self, the witness of all, saying *I am He*. The Śruti says, *he perceived, hence he is called Indra*."
+
+**Then the reading that is technically the most interesting**, because it names a state. "Or Vīrendras are those who realise the fourth state, Turīya, in the other three states." Śiva Sūtra 1.11: "he is Vīreśa who enjoys in a threefold way." And Varadarāja's commentary: "Vīras, the senses causing the miseries of separateness, extending within and without; and I is the lord of the senses."
+
+That is Turīya held through waking, dream and sleep — the condition 260–267's verse treats at length, where Varadarāja is quoted twice more, once for "the participation in that state produces astonishment" and once for the fifth state beyond the fourth. So the hero of the dhyānas is finally defined as the man who does not lose the fourth state in the other three, and the Śaiva scripture is brought in to say so.
+
+The Śiva Sūtras are cited four times in the thousand — 1.1 at 918, 1.11 here, 1.23 at 855, 3.35 at 925 and 3.45 at 912 — and this is the only one of them that defines a class of worshippers rather than a term.
+
+Last, a Purāṇic reading that abandons all of the above: "or Mahāvīra is Prahlāda, and Indra the lord of the Devas." The Devī Bhāgavata, Book IV: "Indra and Prahlāda praised Devī after their fight, which lasted a hundred divine years, and she granted them boons." So the two great heroes are a demon and a god who fought each other to a standstill and were then given boons together.
+
+**And Bhāskararāya drops a counting marker here: "20th verse divides 39 names."** That fills the gap left thirty-five namas back at 458, where the nineteenth was recorded and the twentieth, twenty-seventh and twenty-ninth were the three still missing between the twelfth and the thirty-second. Only the twenty-seventh and the twenty-ninth are now unaccounted for.
+
+494. राकिण्यम्बास्वरूपिणी → राकिणी-अम्बा-स्व-रूपिणी
+
+राकिणी = Rākiṇī, the yoginī of the Anāhata
+अम्बा = mother
+स्व = own
+रूपिणी = having the form of
+"She whose own form is the Mother Rākiṇī."
+
+Vigraha: राकिणी अम्बा स्वरूपं यस्याः सा।
+
+Sandhi: राकिणी + अम्बा → राकिण्यम्बा (यण्, ई → य्, 6.1.77).
+
+index.html has no commentary for this nama beyond the gloss.
+
+The set-closing formula, and the second of the five shapes it takes in the block. 484 used X-ईश्वरी; this and 503 use X-अम्बा-स्वरूपिणी; 513 uses X-रूपधारिणी; 520 returns to X-अम्बा-स्वरूपिणी. The run noted at 520 and 534 that the series alternates between the two longer forms — and 484 shows that it opens with a third, shorter one.
+
+Note on the verse. Four namas, and one of them holds more commentary than the other nineteen of the two sets combined. The block's habit is to say nothing about its members and everything about its terms of art.
+
+
+---
+
+## मणिपूराब्जनिलया वदनत्रयसंयुता । वज्रादिकायुधोपेता डामर्यादिभिरावृता
+
+*maṇipūrābjanilayā vadanatrayasaṃyutā । vajrādikāyudhopetā ḍāmaryādibhirāvṛtā*
+
+Verse 102, namas 495–498.
+
+495. मणिपूराब्जनिलया → मणिपूर-अब्ज-निलया
+
+मणिपूर = the navel cakra — "the jewel-city" (मणि "gem" + पुर "city")
+अब्ज = a lotus
+निलया = abode
+"She whose abode is the lotus of the Maṇipūra."
+
+Vigraha: मणिपूराब्जं निलयः यस्याः सा।
+
+Sandhi: मणिपूर + अब्ज → मणिपूराब्ज (आ by 6.1.101).
+
+"Maṇipūra is the ten-petalled lotus in the navel. Here the Yoginī named Lākinī resides." Then the dhyāna: "let us meditate on Lākinī in the eight-petalled lotus of the navel — three-faced, tusked, red-coloured, bearing in her hands the dart, the thunderbolt, the club and the abhaya, most terrible, attended by Ḍāmarī and the other Śaktis, inspiring the ignorant with terror, presiding over the flesh, fond of sweetmeat, doing good to all."
+
+**The entry contradicts itself in two consecutive sentences.** The gloss says the Maṇipūra has ten petals; the dhyāna it then quotes says eight. And 498 settles it by giving ten śaktis, "one in each petal" — so the ten is right and the dhyāna's eight is an error, either in the verse as Bhāskararāya received it or in its transmission. **It is the only place in the block where the petal-count and the retinue-count disagree**, and the rule holds everywhere else: sixteen at 483, twelve at 491, six at 511, four at 518.
+
+मणिपूर is 101 मणिपूरान्तरुदिता's cakra, where She rises within it; here she resides in it. The climb at 99–106 passed through and this block returns to occupy.
+
+496. वदनत्रयसंयुता → वदन-त्रय-संयुता
+
+वदन = a face
+त्रय = a triad, three
+संयुता = joined with, endowed with (सम् + युज्)
+"She who is endowed with three faces."
+
+Vigraha: वदनत्रयेण संयुता।
+
+index.html has no commentary for this nama. The third term of the face-series, and the third different word used for "possessing" in it — समन्विता at 479, द्वया at 487, संयुता here, मनोहरा at 505, and a bare compound at 515. The formula varies its verb at every step and never its sense.
+
+497. वज्रादिकायुधोपेता → वज्र-आदिक-आयुध-उपेता
+
+वज्र = the thunderbolt
+आदिक = and the rest (आदि with the suffix क)
+आयुध = a weapon (आ + युध् "to fight")
+उपेता = furnished with, possessed of (उप + इ "to approach")
+"She who is furnished with the thunderbolt and the other weapons."
+
+Vigraha: वज्रादिकानि आयुधानि उपेता।
+
+Sandhi at both joints: वज्र + आदिक → वज्रादिक (आ by 6.1.101); आयुध + उपेता → आयुधोपेता (गुण, अ + उ → ओ, 6.1.87).
+
+index.html has no commentary for this nama.
+
+The वज्र is 468 वज्रेश्वरी's, twenty-nine namas back, where Devī gives Indra the bow of that name and is herself the deity of the diamond river at the eleventh wall. Here it is one of four weapons in a yoginī's hands and nothing is made of it.
+
+498. डामर्यादिभिरावृता → डामरी-आदिभिः-आवृता
+
+डामरी = Ḍāmarī, the first of the ten śaktis
+आदिभिः = by the rest, by those beginning with (instrumental plural of आदि)
+आवृता = surrounded, encompassed (आ + वृ)
+"She who is surrounded by Ḍāmarī and the rest."
+
+Vigraha: डामरी आदिः यासां ताभिः आवृता।
+
+Sandhi: डामरी + आदिभिः → डामर्यादिभिः (यण्, 6.1.77), then the visarga becomes र् before the voiced आ.
+
+**"Ādi: the ten Śaktis from Ḍāmarī to Phaṭkāriṇī."** Ten, for the ten petals the gloss at 495 gave and the dhyāna denied — which is what makes this the deciding entry for that contradiction.
+
+Three retinue-namas now stand, and each uses a different word for the enclosure: संवृता at 483, वृता at 491, आवृता here. All three are from वृ, and the block declines to repeat a form twice.
+
+Note on the verse. Four namas, and the set they open is the block's only irregular one — nine namas where every other yoginī gets ten, and the one place where the diagram's arithmetic fails and has to be repaired by a later entry.
+
+
+---
+
+## रक्तवर्णा मांसनिष्ठा गुडान्नप्रीतमानसा । समस्तभक्तसुखदा लाकिन्यम्बास्वरूपिणी
+
+*raktavarṇā māṃsaniṣṭhā guḍānnaprītamānasā । samastabhaktasukhadā lākinyambāsvarūpiṇī*
+
+Verse 103, namas 499–503.
+
+499. रक्तवर्णा → रक्त-वर्णा
+
+रक्त = red
+वर्णा = colour
+"She of the red colour."
+
+Vigraha: रक्तः वर्णः यस्याः सा।
+
+index.html has no commentary for this nama.
+
+**This is nama 476 repeated exactly, twenty-three names on** — the same two members, the same gloss, and no commentary in either place. It is the only verbatim repetition inside a single block in the thousand, and it happens because colour is a fixed slot in the formula and two of the five yoginīs are red. The Paribhāṣā at 1000 states that the text "contains no meaningless particle and no repeated name"; 476 and 499 are the same name, and the claim survives only if a nama is individuated by the deity it describes rather than by its words.
+
+500. मांसनिष्ठा → मांस-निष्ठा
+
+मांस = flesh
+निष्ठा = firmly established in, devoted to, presiding over (नि + स्था, with retroflexion)
+"She who presides over the flesh."
+
+Vigraha: मांसे निष्ठा।
+
+The third of the seven dhātus, after tvak at 481 and rudhira at 490. निष्ठा is 573 परानिष्ठा's word, where it was the supreme end, "the goal of all desires and all worlds," on Gītā 4.33 — the same noun used there for a final resting-place and here for where a deity is stationed.
+
+**And this nama carries a colophon, which is the most valuable thing in these nine verses.** index.html preserves in its body: **"Thus ends the sixth Kalā called Ruci with the fifth hundred in the Saubhāgyabhāskara composed by Bhāsurānanda,"** followed by the heading "Sixth Hundred."
+
+**That fills one of the three missing division-points and names one of the four missing kalās.** The surviving colophons had stood at 200, 300, 400, 700, 800, 900 and 1000 — seven of ten, with 100, 500 and 600 absent. This is 500, so eight of the ten now survive and only 100 and 600 are missing.
+
+The kalā-numbering rule holds exactly. It runs one ahead of the hundred it closes — the fifth Kalā, Jvālinī, closed the fourth hundred at 400; the sixth, Ruci, closes the fifth here; the eighth, Bhogadā, closes the seventh at 700; the ninth, Viśva, the eighth at 800; the tenth, Bodhinī, the ninth at 900; the eleventh, Dhāriṇī, the tenth at 1000. Ruci fits the sequence without adjustment.
+
+**And the kalā-names can now be closed off by deduction.** Eight of the eleven are known — Dhāmrika the third, Marīci the fourth, Jvālinī the fifth, Ruci the sixth, Bhogadā the eighth, Viśva the ninth, Bodhinī the tenth, Dhāriṇī the eleventh. The three unknown are the first, the second and the seventh. The seventh would stand in the colophon at nama 600 and the second in the colophon at nama 100, which are precisely the two colophons that have not survived. **The first kalā's name cannot appear at all**, because the scheme names a kalā only when it closes a hundred and there is no hundred before the first. So the text as it stands can yield at most ten of the eleven names, and the two missing colophons would yield exactly the two that are recoverable.
+
+The author is named here as Bhāsurānanda, his initiatory name, as at 200, 300, 700, 800 and 900. Only the colophon at 400 uses Bhāskararāya.
+
+501. गुडान्नप्रीतमानसा → गुड-अन्न-प्रीत-मानसा
+
+गुड = jaggery, raw sugar
+अन्न = cooked food, rice
+प्रीत = pleased, delighted (from प्री "to please")
+मानसा = mind, of the mind (from मनस्)
+"She whose mind is delighted by jaggery-rice."
+
+Vigraha: गुडान्नेन प्रीतं मानसं यस्याः सा।
+
+Sandhi: गुड + अन्न → गुडान्न (आ by 6.1.101).
+
+index.html has no commentary for this nama. The third of the five rice-dishes, and the first of them to name the mind rather than merely fondness — as 519 मुद्गौदनासक्तचित्ता will do with चित्त.
+
+502. समस्तभक्तसुखदा → समस्त-भक्त-सुख-दा
+
+समस्त = all, entire, taken together (सम् + अस्)
+भक्त = a devotee (from भज् "to share, to worship")
+सुख = happiness, ease
+दा = giving (from दा)
+"She who gives happiness to all her devotees."
+
+Vigraha: समस्तेभ्यः भक्तेभ्यः सुखं ददातीति।
+
+index.html has no commentary for this nama.
+
+**This is the member that makes Lākinī's set irregular.** The dhyāna's last clause is "doing good to all," and this nama carries it — but the set has no nama for the three eyes and none for the terror, both of which the dhyāna states. So Lākinī gets nine namas where the rubric at 484 requires ten, and the shortfall is not in the meditation but in the naming.
+
+503. लाकिन्यम्बास्वरूपिणी → लाकिनी-अम्बा-स्व-रूपिणी
+
+लाकिनी = Lākinī, the yoginī of the Maṇipūra
+अम्बा = mother
+स्व = own
+रूपिणी = having the form of
+"She whose own form is the Mother Lākinī."
+
+Vigraha: लाकिनी अम्बा स्वरूपं यस्याः सा।
+
+Sandhi: लाकिनी + अम्बा → लाकिन्यम्बा (यण्, 6.1.77), as at 494 and 520.
+
+index.html has no commentary for this nama.
+
+Note on the verse. Five namas, of which one repeats an earlier nama word for word and one carries the colophon of the fifth hundred. The verse is the least glossed in the block and the most useful in it.
+
+
+---
+
+## स्वाधिष्ठानाम्बुजगता चतुर्वक्त्रमनोहरा । शूलाद्यायुधसंपन्ना पीतवर्णातिगर्विता
+
+*svādhiṣṭhānāmbujagatā caturvaktramanoharā । śūlādyāyudhasaṃpannā pītavarṇātigarvitā*
+
+Verse 104, namas 504–508.
+
+> **This set is the block's fullest.** Alone among the seven, Kākinī's dhyāna names both a food and a drink — mead and curd-rice — so 510 and 512 are separate namas and the set reaches its ten without needing a nama for the terror that the other sets carry.
+
+504. स्वाधिष्ठानाम्बुजगता → स्वाधिष्ठान-अम्बुज-गता
+
+स्वाधिष्ठान = the second cakra — "her own seat" (स्व + अधिष्ठान, from अधि + स्था)
+अम्बुज = a lotus — "water-born" (अम्बु "water" + ज)
+गता = gone to, situated in (from गम्)
+"She who is seated in the lotus of the Svādhiṣṭhāna."
+
+Vigraha: स्वाधिष्ठानाम्बुजं गता।
+
+Sandhi: स्वाधिष्ठान + अम्बुज → स्वाधिष्ठानाम्बुज (आ by 6.1.101).
+
+"The Yoginī called Kākinī resides in the six-petalled Svādhiṣṭhāna lotus." The dhyāna: "we meditate upon Kākinī who resides in the six-petalled Svādhiṣṭhāna lotus — four-faced, three-eyed, bearing in her hands the trident, the noose, the skull and the abhaya, ever proud, presiding over the fat, fond of mead, attended by Bandhinī and the others, yellow, fond of food mixed with curd, giver of desired objects."
+
+**This set is the block's fullest**, and it is the only one whose dhyāna names a food twice — mead and curd-rice both, which is why 510 and 512 are separate namas.
+
+The three lotus-words are now all in use: निलया for the Viśuddhi and Anāhata and Maṇipūra, गता here, आरूढा at 514. And the water-born words vary too — अब्ज at 485 and 495, अम्बुज here and at 514. The block will not repeat a term where a synonym is available, which is the same habit the face-series and the retinue-series show.
+
+505. चतुर्वक्त्रमनोहरा → चतुर्-वक्त्र-मनोहरा
+
+चतुर् = four
+वक्त्र = a face, a mouth (from वच् "to speak")
+मनोहरा = captivating — "heart-stealing" (मनस् + हर, from हृ)
+"She who captivates with her four faces."
+
+Vigraha: चतुर्भिः वक्त्रैः मनोहरा।
+
+Sandhi: मनस् + हरा → मनोहरा, the स् becoming उ and अ + उ → ओ.
+
+index.html has no commentary for this nama; its body carries only the heading.
+
+**The fourth term of the face-series, and the only one that says the faces are beautiful.** One, two, three and five are counted flatly; four is counted and admired. And वक्त्र replaces वदन here and at 515, so the series uses two words for face as it uses two for lotus.
+
+506. शूलाद्यायुधसंपन्ना → शूल-आदि-आयुध-संपन्ना
+
+शूल = a spear, a trident, a stake
+आदि = and the rest
+आयुध = a weapon
+संपन्ना = furnished with, endowed with (सम् + पद्)
+"She who is furnished with the trident and the other weapons."
+
+Vigraha: शूलादीनि आयुधानि संपन्ना।
+
+Sandhi: शूल + आदि → शूलादि (आ by 6.1.101), then आदि + आयुध → आद्यायुध (यण्, इ → य्, 6.1.77).
+
+index.html has no commentary for this nama.
+
+The third of the four weapon-namas, and the third different word for "armed" — प्रहरणा at 478 and 517, उपेता at 497, संपन्ना here. Four namas, three verbs, and in each case one weapon named and the rest abbreviated with आदि.
+
+507. पीतवर्णा → पीत-वर्णा
+
+पीत = yellow; also drunk (from पा "to drink")
+वर्णा = colour
+"She of the yellow colour."
+
+Vigraha: पीतः वर्णः यस्याः सा।
+
+index.html has no commentary for this nama.
+
+The third of the colour-namas — red at 476, dark at 486, yellow here, red again at 499 — and the only one whose word is a homonym: पीत is both the colour and the past participle of "to drink," which sits oddly next to 510 मधुप्रीता three namas on. The commentary does not take the pun.
+
+508. अतिगर्विता → अति-गर्विता
+
+अति = exceedingly, beyond measure
+गर्विता = proud, filled with pride (from गर्व "pride")
+"The exceedingly proud."
+
+Vigraha: अतिशयेन गर्विता।
+
+Sandhi: the verse joins this to the preceding nama, पीतवर्णातिगर्विता; index.html's dev field marks the break with an avagraha, ऽतिगर्विता.
+
+**"Caused by her excessive beauty and the rest."** Five words, and they give the pride a ground.
+
+**856 गर्विता is the same word bare**, where the pride was specified as "supreme egoism concerning the creation of the universe" — a creator's I-ness and not vanity. Here अति is prefixed and the ground is beauty instead. So the text has the word twice and grounds it twice, cosmologically at 856 and aesthetically here, and 158 निर्मदा denies pride of Her altogether while 431 मदशालिनी defines the मद that may be predicated. Four namas on one disposition, and only 431 attempts a rule.
+
+Note on the verse. Five namas, and none of the five has a commentary except the last, which is given a cause in five words. The verse is the seat, the faces, the weapons, the colour and the pride — five of Kākinī's ten slots, filled and unglossed.
+
+
+---
+
+## मेदोनिष्ठा मधुप्रीता बन्दिन्यादिसमन्विता । दध्यन्नासक्तहृदया काकिनीरूपधारिणी
+
+*medoniṣṭhā madhuprītā bandinyādisamanvitā । dadhyannāsaktahṛdayā kākinīrūpadhāriṇī*
+
+Verse 105, namas 509–513.
+
+509. मेदोनिष्ठा → मेदस्-निष्ठा
+
+मेदस् = fat, marrow-fat
+निष्ठा = presiding over, established in
+"She who presides over the fat."
+
+Vigraha: मेदसि निष्ठा।
+
+Sandhi: मेदस् + निष्ठा → मेदोनिष्ठा, the स् becoming उ before the voiced न् and अ + उ → ओ.
+
+index.html has no commentary for this nama. The fourth of the seven dhātus, and the point from which the run's existing note at 524 counts.
+
+510. मधुप्रीता → मधु-प्रीता
+
+मधु = honey; mead, spirituous liquor; sweetness
+प्रीता = pleased, delighted (from प्री)
+"She who is pleased with mead."
+
+Vigraha: मधुना प्रीता।
+
+**"Madhu, honey or spirituous liquor."** And then a Śruti: "one who presents an oblation with honey pleases the great Devī."
+
+So the offering is scriptural and not merely Tantric, which is why the gloss puts the two senses side by side and does not choose. मधु is the ritual mead that stood behind वीर at 836 वीरमाता and 898 वीरगोष्ठीप्रिया — where the Viśva made वीर the vessel that holds it, and the Rudrayāmala was quoted at 919 for "of wisdom and mead, wisdom is the better."
+
+**This is the only yoginī given a drink as well as a dish**, and it is what makes Kākinī's set ten namas long despite her dhyāna having the same number of members as Lākinī's.
+
+511. बन्दिन्यादिसमन्विता → बन्दिनी-आदि-समन्विता
+
+बन्दिनी = Bandhinī, the first of the six śaktis
+आदि = and the rest
+समन्विता = attended by, endowed with (सम् + अनु + इ)
+"She who is attended by Bandhinī and the rest."
+
+Vigraha: बन्दिनी आदिः यासां ताभिः समन्विता।
+
+Sandhi: बन्दिनी + आदि → बन्दिन्यादि (यण्, 6.1.77).
+
+**"These are the six deities from Bandhinī to Lambauṣṭhī."** Six, for the six petals — the rule of 483, 491 and 518 holding again, and 495–498 the sole exception.
+
+समन्विता is 479's word for the single face, used here for a retinue. The block's vocabulary circulates: what furnishes a face at 479 attends a goddess at 511.
+
+512. दध्यन्नासक्तहृदया → दधि-अन्न-आसक्त-हृदया
+
+दधि = curds, sour milk
+अन्न = cooked rice
+आसक्त = attached to, fixed upon (आ + सञ्ज्)
+हृदया = the heart
+"She whose heart is set on curd-rice."
+
+Vigraha: दध्यन्ने आसक्तं हृदयं यस्याः सा।
+
+Sandhi at both joints: दधि + अन्न → दध्यन्न (यण्, इ → य्, 6.1.77); अन्न + आसक्त → अन्नासक्त (आ by 6.1.101).
+
+index.html has no commentary for this nama.
+
+The fourth of the five rice-dishes, and the third construction used for the fondness — प्रिया at 480 and 492, प्रीतमानसा at 501, आसक्तहृदया here, आसक्तचित्ता at 519. The mind is named in the last three and the last two use the identical participle with different words for the seat of thought.
+
+513. काकिनीरूपधारिणी → काकिनी-रूप-धारिणी
+
+काकिनी = Kākinī, the yoginī of the Svādhiṣṭhāna
+रूप = form
+धारिणी = bearing, wearing (from धृ)
+"She who bears the form of Kākinī."
+
+Vigraha: काकिन्याः रूपं धारयतीति।
+
+index.html has no commentary for this nama.
+
+**The third of the three set-closing formulas** — X-ईश्वरी at 484, X-अम्बा-स्वरूपिणी at 494 and 503, X-रूपधारिणी here. This one drops अम्बा and says she wears the form rather than that the form is her own, which is a weaker claim than the other two make; the block does not remark on the difference and returns to the stronger form at 520.
+
+Note on the verse. Five namas, closing the Kākinī set — the dhātu, the drink, the retinue, the dish and the name. Three of the five carry commentary, which is the highest proportion of any verse in the block after 101.
+
+
+---
+
+## मूलाधाराम्बुजारूढा पञ्चवक्त्रास्थिसंस्थिता । अङ्कुशादिप्रहरणा वरदादिनिषेविता
+
+*mūlādhārāmbujārūḍhā pañcavaktrāsthisaṃsthitā । aṅkuśādipraharaṇā varadādiniṣevitā*
+
+Verse 106, namas 514–518.
+
+514. मूलाधाराम्बुजारूढा → मूल-आधार-अम्बुज-आरूढा
+
+मूल = a root
+आधार = a support, a base (आ + धृ) — so मूलाधार, the root-support cakra
+अम्बुज = a lotus
+आरूढा = mounted upon, ascended (आ + रुह्)
+"She who is mounted upon the lotus of the Mūlādhāra."
+
+Vigraha: मूलाधाराम्बुजम् आरूढा।
+
+Sandhi at all three joints: मूल + आधार → मूलाधार, आधार + अम्बुज → मूलाधाराम्बुज, अम्बुज + आरूढा → अम्बुजारूढा, each आ by 6.1.101 — four members and three identical vowel-fusions, the longest such chain in the block.
+
+"The Yoginī called Śākinī resides in the four-petalled Mūlādhāra lotus." The dhyāna: "we meditate upon Śākinī who resides in the four-petalled Mūlādhāra lotus — five-faced, three-eyed, smoke-coloured, presiding over the bones, bearing in her hands the elephant-hook, the lotus, the book and the Jñānamudrā, attended by gentle Varadā and the other deities, fond of eating mudga beans, intoxicated with mead."
+
+**Śākinī is the only yoginī whose hands hold no weapon.** The hook, the lotus, the book and the gesture of knowledge are an instrument, a flower, a text and a mudrā; Ḍākinī had a club, a sword and a trident, Rākiṇī a disc and a trident and a skull, Lākinī a dart and a thunderbolt, Kākinī a trident and a noose. The set at the base of the spine is the least armed, and 517 still calls its members प्रहरणा, weapons.
+
+आरूढा is 105 सहस्राराम्बुजारूढा's word, with the same second and third members — अम्बुज + आरूढा — for the thousand-petalled lotus at the crown. **So the identical compound-ending names the top of the series at 105 and the bottom at 514**, and the two namas are the only places in the text where She is said to be mounted on a lotus.
+
+And मूलाधार is 99 मूलाधारैकनिलया's, where it was Her sole abode. The claim there and the claim here are not compatible on their face, and the block's own logic resolves it: the mūlādhāra is Her sole abode as Śākinī, one of seven forms.
+
+515. पञ्चवक्त्रा → पञ्च-वक्त्रा
+
+पञ्च = five
+वक्त्रा = faced (वक्त्र)
+"The five-faced."
+
+Vigraha: पञ्च वक्त्राणि यस्याः सा।
+
+index.html has no commentary for this nama.
+
+**The last term of the face-series** — one, two, three, four, five, from the throat down to the base. And five faces are Śiva's own number: the five vyūhas named at 469 वामदेवी, which 58 पञ्चब्रह्मासनस्थिता seats Her upon and 249 पञ्चप्रेतासनासीना reduces to corpses. The commentary does not connect Śākinī's five faces to Sadāśiva's, though the block has already used वामदेव for one of them forty-six namas back.
+
+516. अस्थिसंस्थिता → अस्थि-संस्थिता
+
+अस्थि = a bone
+संस्थिता = firmly abiding in, presiding over (सम् + स्था)
+"She who presides over the bones."
+
+Vigraha: अस्थिषु संस्थिता।
+
+Sandhi: the verse joins this to the preceding nama, पञ्चवक्त्रास्थिसंस्थिता; index.html's dev field marks the break with an avagraha, ऽस्थिसंस्थिता, as at 489 and 508. Three avagraha-breaks in the block, all three at a joint where an अ has been elided after आ.
+
+index.html has no commentary for this nama. The fifth of the seven dhātus.
+
+517. अङ्कुशादिप्रहरणा → अङ्कुश-आदि-प्रहरणा
+
+अङ्कुश = an elephant-goad, a hook
+आदि = and the rest
+प्रहरणा = a weapon
+"She who is armed with the goad and the rest."
+
+Vigraha: अङ्कुशम् आदि येषां तानि प्रहरणानि यस्याः सा।
+
+Sandhi: अङ्कुश + आदि → अङ्कुशादि (आ by 6.1.101).
+
+index.html has no commentary for this nama.
+
+**The formula is 478's exactly** — X-आदि-प्रहरणा — so the first and the fifth sets use the identical construction for their weapons and the three between them use three other words. And the goad is 68 चक्रराजरथारूढसर्वायुधपरिष्कृता's kind of object: the अङ्कुश is one of the four things Lalitā herself holds, with the noose, the bow and the arrows. Here it is a yoginī's, and the "rest" that आदि covers are a lotus, a book and a hand-gesture — so the nama calls three non-weapons weapons in order to keep the slot.
+
+518. वरदादिनिषेविता → वरदा-आदि-निषेविता
+
+वरदा = Varadā, the boon-giver — the first of the four śaktis
+आदि = and the rest
+निषेविता = attended upon, waited on, served (नि + सेव्)
+"She who is attended by Varadā and the rest."
+
+Vigraha: वरदा आदिः यासां ताभिः निषेविता।
+
+Sandhi: वरदा + आदि → वरदादि (आ by 6.1.101). The स् of सेव् retroflexes to ष् after नि — the same sandhi the run noted at 423 द्विजबृन्दनिषेविता.
+
+**"There are four Śaktis from Varadā to Sarasvatī."** Four, for the four petals — the last statement of the block's one unbroken rule, and the fifth time it holds: sixteen, twelve, ten, six, four.
+
+**The five retinue-namas use five different words for the attendance** — संवृता at 483, वृता at 491, आवृता at 498, समन्विता at 511, निषेविता here. Three of the five are from वृ with different prefixes, and the two that are not are from इ and from सेव्. The block will not use the same word twice in the same slot, which across five sets and five slots is a considerable feat of composition and is nowhere remarked on.
+
+And Varadā is 493 महावीरेन्द्रवरदा's second member twenty-five namas back, where the boon-giving was Hers and the recipients were Indra and Prahlāda. Here the boon-giver is a subordinate śakti on a petal.
+
+Note on the verse. Five namas of the ten-nama Śākinī set, whose remaining five the run has at 519–523. With 518 the gap in this text closes: the thousand namas are now worked through without a break.
+
+Textual note for verses 98–106. The numbering is sound throughout, the two-place displacement having ended at 475. The damage here is of a different kind and it is mostly emptiness: **of these forty-four namas, thirty-one have no commentary body at all.** The block does not need one — each dhyāna is quoted once at the head of a set and the namas that follow are its members — but it means the entries at 475, 485, 495, 504 and 514 carry the whole of five verses each.
+
+Displacement and duplication. 477 त्रिलोचना's body holds 478's heading and text, so the two share one entry; 480, 481 and 482 carry a single body between them, containing all three headings and only 482's argument. 498's and 505's bodies open mid-heading. 484's gloss is cut in the middle of its own rubric — "thus she possesses the nine" — with "attributes" left at the head of the next body.
+
+Faults in the verse text. 478's खट्वाङ्ग has lost its व् in both the dev field and the verse line, giving खटाङ्ग. Three namas are recorded with a leading avagraha — 489 ऽक्षमालादिधरा, 508 ऽतिगर्विता, 516 ऽस्थिसंस्थिता — each at a joint where the verse elides an अ after आ; the avagraha is correct as a mark of the elision but leaves the dev field carrying a form that is not the nama.
+
+**And one contradiction is internal to the commentary rather than to the data.** At 495 the gloss gives the Maṇipūra ten petals and the dhyāna quoted two sentences later gives it eight. 498's "ten Śaktis from Ḍāmarī to Phaṭkāriṇī" settles it in favour of ten, since the retinue matches the petal-count at every other cakra — sixteen at 483, twelve at 491, six at 511, four at 518. It is the only arithmetical failure in the block.
+
+**The colophon at 500 is the batch's find.** "Thus ends the sixth Kalā called Ruci with the fifth hundred in the Saubhāgyabhāskara composed by Bhāsurānanda." That is the eighth of the ten division-points to survive, leaving only 100 and 600; it names the sixth kalā, leaving only the first, the second and the seventh unnamed; and since the second would stand at 100 and the seventh at 600, the two missing colophons are exactly the two that would complete the list. The first kalā closes no hundred and so can never be named by this scheme.
+
+**And a counting marker at 493** — "20th verse divides 39 names" — fills the gap left at 458. Of the markers from the twelfth to the thirty-second, only the twenty-seventh and the twenty-ninth are now missing.
+
+
+---
+
+Note on verses 91–106, and on the completed run.
+
+With 518 the last gap in this file closes. The thousand namas are now worked through end to end, and this stretch of ninety-five was the one left until last because it is the hardest: it holds the worst-damaged numbering in the text, its longest formally governed block, and its two shortest namas.
+
+**What the gap contained that the rest of the run needed.**
+
+*The mahāvākya's fourth appearance, and the answer to an open question.* 425–427 are तत्, त्वम् and अयि — the Paribhāṣā's prescribed division of तत्त्वमयी, applied here and not at 907, where the word stands undivided. The note at 907 could not see where the rule bit; it bites here. And with तत् identified as nama 425, both of the Paribhāṣā's neuter namas are placed, तत् at 425 and ब्रह्म at 822.
+
+*The colophon of the fifth hundred*, at 500, naming the sixth kalā Ruci — the eighth of the ten division-points, and the point at which the kalā-list becomes closable by deduction.
+
+*The argued form of the ānandamaya doctrine*, at 428. Four namas elsewhere — 690, 728, 821, 948 — assert Her relation to the five sheaths and none of them argues it. This one states the dispute between the Vṛttikāra and the Ācārya, gives the Śrīkaṇṭha Bhāṣya's answer, and says which side it takes.
+
+*The definition of the paśu*, at 482, with three Upaniṣadic proof-texts. 354 classifies bound souls at length and never says what one is.
+
+*Two counting markers*, the nineteenth at 458 and the twentieth at 493, leaving only the twenty-seventh and twenty-ninth missing between the twelfth and the thirty-second.
+
+*A tenth Nityā*, at 468 — Mahāvajreśvarī, the sixth of the sixteen, whose identification as "the sixth Nityā deity" matches Sastry's list at 391 exactly.
+
+*And the two ends of the seven-yoginī block*, whose announcement at 475 gives its extent, its authority and its ordering principle, and whose first four sets are here entire.
+
+**What it shows about the text's composition.** The block at 475–536 is built to a formula of ten slots, and across five sets it fills the same slot with a different word every time — five verbs for a retinue, four for a weapon, three for a face, three for a food. The one rule it never breaks is arithmetical: the retinue is always the petal-count. The one place it fails is 495, where the petal-count is given twice and differently in a single entry.
+
+**And what it shows about the data.** Namas 445–474 are numbered two places out because 444's field carries three namas glued together, and the error is repaired by two errors of the opposite sign — a spurious split at 470 and a running page-title taken for a nama at 474. The numbering is therefore correct on both sides of a thirty-nama stretch in which every dev field is wrong. Nothing else in the text does this, and it is only detectable because the glosses keep the printed numbering while the dev fields do not.
