@@ -177,6 +177,48 @@ function restoreQuotes(s) {
           .replace(/ 66 (?=[A-Z])/g, () => { quoteFixes++; return ' “'; });
 }
 
+// A straight " becomes typographic only as half of a matched pair: an opener
+// with a word after it, a closer with a word before it. Unpaired quotes stay
+// straight, and there are many — the scan read most opening quotes as "66" and
+// they were stripped as furniture, leaving orphan closers. A straight mark is
+// therefore a visible sign that the opener is missing, which is worth keeping.
+let quotePairs = 0, quoteOrphans = 0;
+
+function curlyQuotes(s) {
+  if (!s.includes('"')) return s;
+  const ch = [...s];
+  const marks = [];
+  ch.forEach((c, i) => { if (c === '"' || c === '“' || c === '”') marks.push(i); });
+
+  const kind = marks.map(i => {
+    if (ch[i] === '“') return 'open';
+    if (ch[i] === '”') return 'close';
+    const before = ch[i - 1], after = ch[i + 1];
+    const opens = (before === undefined || /[\s(\[—–]/.test(before))
+                && after !== undefined && !/\s/.test(after);
+    const closes = before !== undefined && !/\s/.test(before)
+                && (after === undefined || /[\s.,;:)\]?!—–]/.test(after));
+    return opens && !closes ? 'open' : closes && !opens ? 'close' : 'either';
+  });
+
+  const out = [...ch];
+  let open = -1;
+  for (let k = 0; k < marks.length; k++) {
+    if (kind[k] === 'open') { open = k; continue; }
+    if (kind[k] === 'close' && open >= 0) {
+      // A pair has to enclose something. The scan left bare "" in places, and
+      // curling those would print an empty quotation.
+      const inside = ch.slice(marks[open] + 1, marks[k]).join('');
+      if (!/\p{L}/u.test(inside)) { open = -1; continue; }
+      if (ch[marks[open]] === '"') { out[marks[open]] = '“'; quotePairs++; }
+      if (ch[marks[k]] === '"') { out[marks[k]] = '”'; }
+      open = -1;
+    }
+  }
+  quoteOrphans += out.filter(c => c === '"').length;
+  return out.join('');
+}
+
 function pageLabel(p) {
   const s = SECTIONS.find(x => p >= x.from && p <= x.to);
   return s.roman ? ROMAN[p - 7] : String(p - 19);
@@ -200,7 +242,7 @@ function buildPage(p, ledger) {
   const notes = splitNotes(body);
   const blocks = body.map(line => ({
     t: isHeading(line) ? 'h' : isVerse(line) ? 'dev' : 'p',
-    s: iast(restoreQuotes(joinHyphens(line)), p, ledger, lex),
+    s: curlyQuotes(iast(restoreQuotes(joinHyphens(line)), p, ledger, lex)),
   }));
 
   return {
@@ -208,7 +250,7 @@ function buildPage(p, ledger) {
     label: pageLabel(p),
     fixed: src === fixed,
     blocks,
-    notes: numberNotes(notes.map(n => iast(restoreQuotes(joinHyphens(n)), p, ledger, lex)), p, ledger),
+    notes: numberNotes(notes.map(n => curlyQuotes(iast(restoreQuotes(joinHyphens(n)), p, ledger, lex))), p, ledger),
     inAlnum: alnum(lines.join('')),
   };
 }
@@ -306,6 +348,7 @@ function main() {
     console.log('\nleft as printed, on purpose:');
     for (const k of Object.keys(ADJOURNED)) console.log('  ' + k.padEnd(9) + ADJOURNED[k]);
   }
+  console.log('quotes         ' + quotePairs + ' pair(s) made typographic, ' + quoteOrphans + ' unpaired left straight');
   const fixed = pages.filter(p => p.fixed);
   console.log('front-fix      ' + (fixed.length
     ? fixed.length + ' page(s) read from front-fix/ instead of the OCR: book p. '
