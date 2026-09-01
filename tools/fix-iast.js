@@ -43,9 +43,10 @@ const OVERRIDE = {
   'ɛays': 'says',
   'Atınan': 'Ātman',
   'äftyone': 'fiftyone',
+  'änd': 'and',
 };
 
-const LETTER = /[A-Za-zÀ-ɏɐ-ʯḀ-ỿ]/;
+const LETTER = /\p{L}/u;
 
 function fixWordChars(w) {
   if (OVERRIDE[w]) return OVERRIDE[w];
@@ -159,4 +160,19 @@ function main() {
   return 0;
 }
 
-process.exit(main());
+// The accent repair alone, without the quotation-mark handling, so
+// front-matter.js can apply the same tables to the front matter and the two
+// corpora cannot drift apart. Its own quote logic is already page-aware.
+function repairAccents(s) {
+  if (!s) return s;
+  let t = mapWords(s.normalize('NFC'));
+  t = t.replace(/([sS])['’](?=[A-Za-zÀ-ɏḀ-ỿ])/g, (m, c) => (c === 'S' ? 'Ś' : 'ś'));
+  t = t.replace(/(?<=[A-Za-zÀ-ɏḀ-ỿ])\/(?=[A-Za-zÀ-ɏḀ-ỿ])/g, 'ṭ');
+  t = t.replace(/&nga/g, 'ṅga');
+  t = t.replace(/¿\.e\./g, 'i.e.');
+  return t;
+}
+
+module.exports = { CHAR, OVERRIDE, fixText, repairAccents };
+
+if (require.main === module) process.exit(main());
