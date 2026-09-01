@@ -74,7 +74,13 @@ function isVerse(line) {
 // "41. Then Lalita addressed the assembly"; a footnote reads "1 Kundalini
 // energy is said to sleep" or "1As voluminous a work as the Mahabharata".
 // Matching the verse form swallowed the text of ten pages into their notes.
-const SIGNAL = /^(\^\d{1,2}\s*[A-Z(]|\*\s*[A-Z(]|\d{1,2}\s+[A-Z(]|\d{1,2}(?=[A-Z]))/;
+// A note may open on a quotation, so the character after the marker can be an
+// apostrophe or a quote mark as well as a capital: "^1 'There is a discussion
+// in the commentary…" is a footnote, and requiring a letter there sent it back
+// into the body on the next rebuild.
+const OPENS = `['"‘“(A-Z]`;
+const SIGNAL = new RegExp('^(\\^\\d{1,2}\\s*' + OPENS + '|\\*\\s*' + OPENS
+                        + '|\\d{1,2}\\s+' + OPENS + '|\\d{1,2}(?=[A-Z]))');
 
 // Errs towards leaving a note in the body rather than demoting a paragraph
 // into the notes: a full paragraph of Sastry's prose never runs this short.
