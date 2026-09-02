@@ -16585,7 +16585,7 @@ Vigraha: व्याप्नोतीति व्यापिनी।
 
 **That is the seventh of the text's colophons, and the third consecutive one.** With 200's third Kalā closing the second hundred and 300's fourth closing the third, the run 200–300–400 is unbroken, and the rule holds at every surviving point: third/second, fourth/third, fifth/fourth, eighth/seventh, ninth/eighth, tenth/ninth, eleventh/tenth. Seven of the ten division-points survive; only 100, 500 and 600 are missing.
 
-And seven of the eleven kalā-names are now known: the third Dhāmrika, fourth Marīci, fifth Jvālinī, eighth Bhogadā, ninth Viśva, tenth Bodhinī, eleventh Dhāriṇī. The first, second, sixth and seventh have not appeared.
+And eight of the eleven kalā-names are known: the second Tāpinī (in the colophon at nama 100), the third Dhāmrika, fourth Marīci, fifth Jvālinī, eighth Bhogadā, ninth Viśva, tenth Bodhinī, eleventh Dhāriṇī. The first, sixth and seventh have not appeared.
 
 Also worth noting: this colophon names the author as Bhāskararāya where 200, 300, 700, 800, 900 name him by his initiatory name Bhāsurānanda. So the two names alternate across the colophons.
 
@@ -18464,11 +18464,11 @@ The third of the seven dhātus, after tvak at 481 and rudhira at 490. निष�
 
 **And this nama carries a colophon, which is the most valuable thing in these nine verses.** index.html preserves in its body: **"Thus ends the sixth Kalā called Ruci with the fifth hundred in the Saubhāgyabhāskara composed by Bhāsurānanda,"** followed by the heading "Sixth Hundred."
 
-**That fills one of the three missing division-points and names one of the four missing kalās.** The surviving colophons had stood at 200, 300, 400, 700, 800, 900 and 1000 — seven of ten, with 100, 500 and 600 absent. This is 500, so eight of the ten now survive and only 100 and 600 are missing.
+**That fills one of the missing division-points and names one of the missing kalās.** Colophons survive at 100, 200, 300, 400, 700, 800, 900 and 1000 — nama 100 carrying "thus ends the second Kalā called Tāpinī, with the first hundred names in the work called Saubhāgyabhāskara of Bhāsurānanda." With 500, nine of the ten division-points survive and only 600 is missing.
 
 The kalā-numbering rule holds exactly. It runs one ahead of the hundred it closes — the fifth Kalā, Jvālinī, closed the fourth hundred at 400; the sixth, Ruci, closes the fifth here; the eighth, Bhogadā, closes the seventh at 700; the ninth, Viśva, the eighth at 800; the tenth, Bodhinī, the ninth at 900; the eleventh, Dhāriṇī, the tenth at 1000. Ruci fits the sequence without adjustment.
 
-**And the kalā-names can now be closed off by deduction.** Eight of the eleven are known — Dhāmrika the third, Marīci the fourth, Jvālinī the fifth, Ruci the sixth, Bhogadā the eighth, Viśva the ninth, Bodhinī the tenth, Dhāriṇī the eleventh. The three unknown are the first, the second and the seventh. The seventh would stand in the colophon at nama 600 and the second in the colophon at nama 100, which are precisely the two colophons that have not survived. **The first kalā's name cannot appear at all**, because the scheme names a kalā only when it closes a hundred and there is no hundred before the first. So the text as it stands can yield at most ten of the eleven names, and the two missing colophons would yield exactly the two that are recoverable.
+**And the kalā-names can now be closed off by deduction.** Nine of the eleven are known — Tāpinī the second, Dhāmrika the third, Marīci the fourth, Jvālinī the fifth, Ruci the sixth, Bhogadā the eighth, Viśva the ninth, Bodhinī the tenth, Dhāriṇī the eleventh. Two are unknown, the first and the seventh. The seventh would stand in the colophon at nama 600, the one division-point that has not survived. **The first kalā's name cannot appear at all**, because the scheme names a kalā only when it closes a hundred and there is no hundred before the first. So the text as it stands can yield at most ten of the eleven names, and the single missing colophon holds the one still recoverable.
 
 The author is named here as Bhāsurānanda, his initiatory name, as at 200, 300, 700, 800 and 900. Only the colophon at 400 uses Bhāskararāya.
 
@@ -18779,7 +18779,7 @@ Faults in the verse text. 478's खट्वाङ्ग has lost its व् in 
 
 **And one contradiction is internal to the commentary rather than to the data.** At 495 the gloss gives the Maṇipūra ten petals and the dhyāna quoted two sentences later gives it eight. 498's "ten Śaktis from Ḍāmarī to Phaṭkāriṇī" settles it in favour of ten, since the retinue matches the petal-count at every other cakra — sixteen at 483, twelve at 491, six at 511, four at 518. It is the only arithmetical failure in the block.
 
-**The colophon at 500 is the batch's find.** "Thus ends the sixth Kalā called Ruci with the fifth hundred in the Saubhāgyabhāskara composed by Bhāsurānanda." That is the eighth of the ten division-points to survive, leaving only 100 and 600; it names the sixth kalā, leaving only the first, the second and the seventh unnamed; and since the second would stand at 100 and the seventh at 600, the two missing colophons are exactly the two that would complete the list. The first kalā closes no hundred and so can never be named by this scheme.
+**The colophon at 500 is the batch's find.** "Thus ends the sixth Kalā called Ruci with the fifth hundred in the Saubhāgyabhāskara composed by Bhāsurānanda." With it, nine of the ten division-points survive and only 600 is missing; it names the sixth kalā, leaving the first and the seventh unnamed. The seventh would stand at 600, so the one missing colophon is the one that would complete the list. The first kalā closes no hundred and so can never be named by this scheme.
 
 **And a counting marker at 493** — "20th verse divides 39 names" — fills the gap left at 458. Of the markers from the twelfth to the thirty-second, only the twenty-seventh and the twenty-ninth are now missing.
 
@@ -18794,7 +18794,7 @@ With 518 the last gap in this file closes. The thousand namas are now worked thr
 
 *The mahāvākya's fourth appearance, and the answer to an open question.* 425–427 are तत्, त्वम् and अयि — the Paribhāṣā's prescribed division of तत्त्वमयी, applied here and not at 907, where the word stands undivided. The note at 907 could not see where the rule bit; it bites here. And with तत् identified as nama 425, both of the Paribhāṣā's neuter namas are placed, तत् at 425 and ब्रह्म at 822.
 
-*The colophon of the fifth hundred*, at 500, naming the sixth kalā Ruci — the eighth of the ten division-points, and the point at which the kalā-list becomes closable by deduction.
+*The colophon of the fifth hundred*, at 500, naming the sixth kalā Ruci — the ninth of the ten division-points to be accounted for, and the point at which the kalā-list becomes closable by deduction.
 
 *The argued form of the ānandamaya doctrine*, at 428. Four namas elsewhere — 690, 728, 821, 948 — assert Her relation to the five sheaths and none of them argues it. This one states the dispute between the Vṛttikāra and the Ācārya, gives the Śrīkaṇṭha Bhāṣya's answer, and says which side it takes.
 
